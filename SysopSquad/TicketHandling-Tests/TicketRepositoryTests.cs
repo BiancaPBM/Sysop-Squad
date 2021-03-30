@@ -18,7 +18,7 @@ namespace TicketRepositoryTests
     public async void TicketRepository_Create_NullUser_Failure()
     {
       // Arrange
-      Ticket _movie = null;
+      Ticket _ticket = null;
 
       //Act 
       _mockContext.Setup((p => p.TicketsCollectionName)).Returns("tickets");
@@ -27,7 +27,7 @@ namespace TicketRepositoryTests
       var ticketRepository = new TicketRepository(_mockContext.Object);
 
       // Assert
-      await Assert.ThrowsAsync<ArgumentNullException>(() => ticketRepository.AddTicket(_movie));
+      await Assert.ThrowsAsync<ArgumentNullException>(() => ticketRepository.AddTicket(_ticket));
     }
 
   }
