@@ -1,0 +1,54 @@
+{
+  "Routes": [
+    //Routes for TicketHandling.Microservice
+    {
+      "DownstreamPathTemplate": "/api/v1/tickets",
+      "DownstreamScheme": "https",
+      "DownstreamHostandPorts": [
+        {
+          "Host": "localhost",
+          "Port": "44349"
+        }
+      ],
+      "UpstreamPathTemplate": "/Tickets",
+      "UpstreamHttpMethod": [ "POST", "GET" ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/v1/Tickets/ids",
+      "DownstreamScheme": "https",
+      "DownstreamHostandPorts": [
+        {
+          "Host": "localhost",
+          "Port": "44349"
+        }
+      ],
+      "UpstreamPathTemplate": "/Tickets/ids",
+      "UpstreamHttpMethod": [ "POST" ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/v1/Tickets/{id}",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": "44349"
+        }
+      ],
+      "UpstreamPathTemplate": "/Tickets/{id}",
+      "UpstreamHttpMethod": [ "GET", "DELETE", "PUT" ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/v1/Tickets/query",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": "44349"
+        }
+      ],
+      "UpstreamPathTemplate": "/Tickets/query",
+      "UpstreamHttpMethod": [ "GET" ]
+    }
+  ]
+
+}
