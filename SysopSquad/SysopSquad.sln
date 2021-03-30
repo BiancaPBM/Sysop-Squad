@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Account.Microservice", "Acc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReviewHandling.Microservice", "ReviewHandling.Microservice\ReviewHandling.Microservice.csproj", "{9DBA8EBD-9937-46F3-A992-C9BE61144404}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{90D4290D-49F7-4780-8C2E-8EA6642CD787}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicketHandling-Tests", "TicketHandling-Tests\TicketHandling-Tests.csproj", "{A89B4FB7-B02B-4FBF-B4DB-64FD6CFEFA34}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -35,6 +39,10 @@ Global
 		{9DBA8EBD-9937-46F3-A992-C9BE61144404}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9DBA8EBD-9937-46F3-A992-C9BE61144404}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9DBA8EBD-9937-46F3-A992-C9BE61144404}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A89B4FB7-B02B-4FBF-B4DB-64FD6CFEFA34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A89B4FB7-B02B-4FBF-B4DB-64FD6CFEFA34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A89B4FB7-B02B-4FBF-B4DB-64FD6CFEFA34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A89B4FB7-B02B-4FBF-B4DB-64FD6CFEFA34}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -43,6 +51,8 @@ Global
 		{B336F454-34A7-4B8F-BFDE-95C3394FFC74} = {893CC64F-49F2-4857-A315-B9E3E9CB4846}
 		{1E895B01-2D78-4F80-B19A-1B78C61C58FF} = {893CC64F-49F2-4857-A315-B9E3E9CB4846}
 		{9DBA8EBD-9937-46F3-A992-C9BE61144404} = {893CC64F-49F2-4857-A315-B9E3E9CB4846}
+		{90D4290D-49F7-4780-8C2E-8EA6642CD787} = {893CC64F-49F2-4857-A315-B9E3E9CB4846}
+		{A89B4FB7-B02B-4FBF-B4DB-64FD6CFEFA34} = {90D4290D-49F7-4780-8C2E-8EA6642CD787}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {2E27E2D8-6DAB-4569-BBB6-7936CA89EB4D}
