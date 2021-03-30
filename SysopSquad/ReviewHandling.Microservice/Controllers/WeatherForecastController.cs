@@ -5,7 +5,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace SysopSquad.Controllers
+namespace ReviewHandling.Microservice.Controllers
 {
     [ApiController]
     [Route("[controller]")]

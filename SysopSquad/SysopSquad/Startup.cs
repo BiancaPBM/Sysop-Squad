@@ -1,20 +1,19 @@
+using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
-using Microsoft.AspNetCore.HttpsPolicy;
-using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using Microsoft.Extensions.Logging;
+using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+using Ocelot.DependencyInjection;
+using Ocelot.Middleware;
+using System.Text;
 
 namespace SysopSquad
 {
-    public class Startup
+  public class Startup
     {
         public Startup(IConfiguration configuration)
         {
@@ -27,7 +26,29 @@ namespace SysopSquad
         public void ConfigureServices(IServiceCollection services)
         {
 
-            services.AddControllers();
+            services.AddOcelot();
+            services.AddCors(c =>
+            {
+              c.AddPolicy("AllowOrigin", options => options.AllowAnyOrigin());
+            });
+            var key = Encoding.UTF8.GetBytes("Secret key for jwt tokens");
+            services.AddAuthentication(x =>
+            {
+              x.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
+              x.DefaultChallengeScheme = JwtBearerDefaults.AuthenticationScheme;
+            }).AddJwtBearer("ApiSecurity", x =>
+            {
+              x.RequireHttpsMetadata = false;
+              x.SaveToken = true;
+              x.TokenValidationParameters = new TokenValidationParameters
+              {
+                ValidateIssuerSigningKey = true,
+                IssuerSigningKey = new SymmetricSecurityKey(key),
+                ValidateIssuer = false,
+                ValidateAudience = false
+              };
+            });
+      services.AddControllers();
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "SysopSquad", Version = "v1" });
@@ -35,7 +56,7 @@ namespace SysopSquad
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
-        public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
+        public async void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
             if (env.IsDevelopment())
             {
@@ -52,8 +73,14 @@ namespace SysopSquad
 
             app.UseEndpoints(endpoints =>
             {
-                endpoints.MapControllers();
-            });
-        }
+              endpoints.MapGet("/", async context =>
+              {
+                await context.Response.WriteAsync("Hello World!");
+              });
+            });   
+          app.UseCors(options => options.AllowAnyOrigin().AllowAnyMethod()
+                          .AllowAnyHeader());
+            await app.UseOcelot();
+    }
     }
 }
