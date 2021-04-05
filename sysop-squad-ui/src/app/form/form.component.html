@@ -1,9 +1,14 @@
 
 <div class="parent">
+  <h3 style="color: ghostwhite; margin-top: 1%;">And please...don't make us ask you if you've reset the router/PC/etc...</h3>
 <form class="example-form">
+    <mat-form-field class="example-full-width" style="margin-top: 2%;">
+      <mat-label>Product name</mat-label>
+      <input matInput >
+    </mat-form-field>
     <mat-form-field class="example-full-width">
-      <mat-label>Company (disabled)</mat-label>
-      <input matInput disabled value="Google">
+      <mat-label>Product ID/Code</mat-label>
+      <input matInput >
     </mat-form-field>
   
     <table class="example-full-width" cellspacing="0"><tr>
@@ -19,16 +24,12 @@
   
     <p>
       <mat-form-field class="example-full-width">
-        <mat-label>Address</mat-label>
-        <textarea matInput placeholder="Ex. 100 Main St">1600 Amphitheatre Pkwy</textarea>
-      </mat-form-field>
-      <mat-form-field class="example-full-width">
-        <mat-label>Address 2</mat-label>
-        <textarea matInput></textarea>
+        <mat-label>Issues</mat-label>
+        <textarea matInput placeholder="Ex. it doesn't open anymore."></textarea>
       </mat-form-field>
     </p>
   
-    <table class="example-full-width" cellspacing="0"><tr>
+    <table class="example-full-width" cellspacing="0" style="margin-bottom: 2%;"><tr>
       <td><mat-form-field class="example-full-width">
         <mat-label>City</mat-label>
         <input matInput placeholder="Ex. San Francisco">
@@ -39,10 +40,12 @@
       </mat-form-field></td>
       <td><mat-form-field class="example-full-width">
         <mat-label>Postal Code</mat-label>
-        <input matInput #postalCode maxlength="5" placeholder="Ex. 94105" value="94043">
+        <input matInput #postalCode maxlength="5" placeholder="Ex. 94105">
         <mat-hint align="end">{{postalCode.value.length}} / 5</mat-hint>
       </mat-form-field></td>
     </tr></table>
+
+    <button class="mat-icon-button" type="submit" style="float: right; margin-bottom: 2%;">Submit ticket</button>
   </form>
 </div>
   <router-outlet></router-outlet>

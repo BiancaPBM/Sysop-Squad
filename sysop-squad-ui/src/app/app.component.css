@@ -292,3 +292,7 @@
       visibility: hidden;
     }
   }
+
+  .coral_background {
+    background-color: coral;
+  }
