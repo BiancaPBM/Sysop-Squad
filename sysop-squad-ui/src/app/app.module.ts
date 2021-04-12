@@ -5,6 +5,7 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { FormComponent } from './form/form.component';
 import { MenuComponent } from './menu/menu.component';
+import { TicketListComponent } from './ticket-list/ticket-list.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import {MatButtonModule} from '@angular/material/button';
 import {MatDialogModule} from '@angular/material/dialog';
@@ -44,6 +45,7 @@ import { MatRadioModule } from '@angular/material/radio';
 import { MatDatepickerModule } from '@angular/material/datepicker';
 import { MatTooltipModule } from '@angular/material/tooltip';
 import { SignUpComponent } from './sign-up/sign-up.component';
+import { FlexLayoutModule } from '@angular/flex-layout';
 
 
 const materialModules = [
@@ -88,7 +90,8 @@ const materialModules = [
     FormComponent,
     MenuComponent,
     LogInComponent,
-    SignUpComponent
+    SignUpComponent,
+    TicketListComponent
   ],
   imports: [
     BrowserModule,
@@ -101,6 +104,7 @@ const materialModules = [
     FormsModule,
     ReactiveFormsModule,
     MatMenuModule,
+    FlexLayoutModule,
     materialModules
   ],
   providers: [],

@@ -292,3 +292,30 @@
       visibility: hidden;
     }
   }
+
+  .ticket_card {
+    width: 75%;
+    background-color: coral;
+    margin-bottom: 5%;
+  }
+
+  .card_status{
+    margin-bottom: 1%;
+    display:table-cell;
+  }
+  .green_status{
+    color:chartreuse;
+    display:table-cell;
+  }
+
+  .blue_status{
+    color: cornflowerblue;
+    display:table-cell;
+  }
+
+   .wrapper {
+    margin-left: 1%;
+    display:table;
+  }
+  
+

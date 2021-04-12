@@ -5,12 +5,14 @@ import { AppComponent } from './app.component';
 import { MenuComponent } from './menu/menu.component';
 import { LogInComponent } from './log-in/log-in.component';
 import { SignUpComponent } from './sign-up/sign-up.component';
+import { TicketListComponent } from './ticket-list/ticket-list.component'
 
 const routes: Routes = [
   { path: '', component: MenuComponent },
   { path: 'form-component', component: FormComponent },
   { path: 'log-in', component: LogInComponent },
-  { path: 'sign-up', component: SignUpComponent }
+  { path: 'sign-up', component: SignUpComponent },
+  { path: 'tickets', component: TicketListComponent }
 ];
 
 @NgModule({
