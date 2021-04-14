@@ -1,4 +1,6 @@
 import { Component, OnInit } from '@angular/core';
+import { Ticket } from '../ticket/ticket.model';
+import { TicketsService } from './ticket.service';
 
 @Component({
   selector: 'app-ticket-list',
@@ -6,10 +8,15 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['../menu/menu.component.css']
 })
 export class TicketListComponent implements OnInit {
-
-  constructor() { }
+ tickets : Ticket[] = [];
+  constructor(private ticketService : TicketsService) { }
 
   ngOnInit(): void {
+    this.ticketService.getTickets().subscribe(
+      data => this.tickets = data);
+      console.log (this.tickets)
   }
+
+
 
 }

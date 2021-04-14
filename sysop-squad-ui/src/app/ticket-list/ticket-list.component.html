@@ -1,43 +1,4 @@
-<div class="content">
-    <mat-card class="mat-elevation-z4 ticket_card">
-      <mat-card-header>
-        <mat-card-title>Himalayan Peaks</mat-card-title>
-      </mat-card-header>
-      <mat-card-content>
-        <p>
-          The Himalayas is a mountain range in Asia.
-          My ticket.
-        </p>
-      </mat-card-content>
-      <mat-card-actions class="wrapper">
-        <div class="card_status">Status:</div><div class="green_status">ACTIVE</div>
-      </mat-card-actions>
-    </mat-card>
-    <mat-card class="mat-elevation-z4 ticket_card">
-        <mat-card-header>
-          <mat-card-title>Himalayan Peaks</mat-card-title>
-        </mat-card-header>
-        <mat-card-content>
-          <p>
-            The Himalayas is a mountain range in Asia.
-          </p>
-        </mat-card-content>
-        <mat-card-actions>
-            <div class="card_status">Status:</div><div class="blue_status">SOLVED</div>
-        </mat-card-actions>
-      </mat-card>
-      <mat-card class="mat-elevation-z4 ticket_card">
-        <mat-card-header>
-          <mat-card-title>Himalayan Peaks</mat-card-title>
-        </mat-card-header>
-        <mat-card-content>
-          <p>
-            The Himalayas is a mountain range in Asia.
-          </p>
-        </mat-card-content>
-        <mat-card-actions>
-            <p class="card_status">Status: ACTIVE</p>
-        </mat-card-actions>
-      </mat-card>
+<div class="content" *ngFor = "let ticket of tickets">
+    <ticket [ticket] = ticket></ticket>   
   </div>
   <router-outlet></router-outlet>

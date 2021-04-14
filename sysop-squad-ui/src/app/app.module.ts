@@ -46,6 +46,9 @@ import { MatDatepickerModule } from '@angular/material/datepicker';
 import { MatTooltipModule } from '@angular/material/tooltip';
 import { SignUpComponent } from './sign-up/sign-up.component';
 import { FlexLayoutModule } from '@angular/flex-layout';
+import { TicketComponent } from './ticket/ticket.component';
+import { TicketsService } from './ticket-list/ticket.service';
+import { HttpClientModule } from '@angular/common/http';
 
 
 const materialModules = [
@@ -91,7 +94,8 @@ const materialModules = [
     MenuComponent,
     LogInComponent,
     SignUpComponent,
-    TicketListComponent
+    TicketListComponent,
+    TicketComponent
   ],
   imports: [
     BrowserModule,
@@ -105,9 +109,10 @@ const materialModules = [
     ReactiveFormsModule,
     MatMenuModule,
     FlexLayoutModule,
-    materialModules
+    materialModules,
+    HttpClientModule
   ],
-  providers: [],
+  providers: [TicketsService],
   bootstrap: [AppComponent],
   schemas: [CUSTOM_ELEMENTS_SCHEMA]
 })
