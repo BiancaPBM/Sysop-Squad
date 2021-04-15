@@ -18,7 +18,7 @@
 
 msbuild_version16.8.3.61104
  
-peak_used_heap_byte	184725904
+peak_used_heap_byte	234739712
 
 scanner_typeScannerMSBuild
 !

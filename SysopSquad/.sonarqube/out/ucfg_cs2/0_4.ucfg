@@ -1,16 +1,23 @@
 
-$SysopSquad.Startup.Configuration.get_
-UC:\Users\bpantaru\Desktop\Bianca\TSP.NET\Sysop-Squad\SysopSquad\SysopSquad\Startup.cs. (1"0*á
-0_
-UC:\Users\bpantaru\Desktop\Bianca\TSP.NET\Sysop-Squad\SysopSquad\SysopSquad\Startup.cs2 (2Å
-˛
-_
-UC:\Users\bpantaru\Desktop\Bianca\TSP.NET\Sysop-Squad\SysopSquad\SysopSquad\Startup.cs. (27
-%01Microsoft.Extensions.Configuration.IConfiguration"__id*\*Z
-SysopSquad.Startup"B
-Configuration1Microsoft.Extensions.Configuration.IConfiguration"ú
-_
-UC:\Users\bpantaru\Desktop\Bianca\TSP.NET\Sysop-Squad\SysopSquad\SysopSquad\Startup.cs. (29
-7
-%01Microsoft.Extensions.Configuration.IConfigurationB
-SysopSquad.Startup
+WAccount.Microservice.Startup.Startup(Microsoft.Extensions.Configuration.IConfiguration)K
+AC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Startup.cs ("1*U
+1K
+AC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Startup.cs	 (	*
+0*˘
+0K
+AC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Startup.cs ()°
+û
+K
+AC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Startup.cs ()7
+%01Microsoft.Extensions.Configuration.IConfiguration".Account.Microservice.Startup.Configuration.set* 
+Account.Microservice.Startup*D
+B
+configuration1Microsoft.Extensions.Configuration.IConfiguration*
+2*¥
+2K
+AC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Startup.cs	 (	"b
+K
+AC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Startup.cs (	
+implicit return:B
+configuration1Microsoft.Extensions.Configuration.IConfigurationB 
+Account.Microservice.Startup

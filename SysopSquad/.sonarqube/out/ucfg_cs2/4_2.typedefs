@@ -1,0 +1,7 @@
+±
+#TicketHandling.Microservice.Startupobjectœ
+:Startup(Microsoft.Extensions.Configuration.IConfiguration)^TicketHandling.Microservice.Startup.Startup(Microsoft.Extensions.Configuration.IConfiguration)Ä
+NConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)rTicketHandling.Microservice.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)ƒ
+mConfigure(Microsoft.AspNetCore.Builder.IApplicationBuilder, Microsoft.AspNetCore.Hosting.IWebHostEnvironment)‘TicketHandling.Microservice.Startup.Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder, Microsoft.AspNetCore.Hosting.IWebHostEnvironment)J
+Configuration.get5TicketHandling.Microservice.Startup.Configuration.getJ
+Configuration.set5TicketHandling.Microservice.Startup.Configuration.set

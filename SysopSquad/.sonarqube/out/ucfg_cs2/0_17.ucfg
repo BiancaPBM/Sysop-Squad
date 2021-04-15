@@ -1,28 +1,0 @@
-
-aSysopSquad.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)_
-UC:\Users\bpantaru\Desktop\Bianca\TSP.NET\Sysop-Squad\SysopSquad\SysopSquad\Startup.cs (%"0*ë
-0_
-UC:\Users\bpantaru\Desktop\Bianca\TSP.NET\Sysop-Squad\SysopSquad\SysopSquad\Startup.cs "(Î
-Ë
-_
-UC:\Users\bpantaru\Desktop\Bianca\TSP.NET\Sysop-Squad\SysopSquad\SysopSquad\Startup.cs (%:
-%04Microsoft.Extensions.DependencyInjection.IMvcBuilder"“Microsoft.Extensions.DependencyInjection.MvcServiceCollectionExtensions.AddControllers(Microsoft.Extensions.DependencyInjection.IServiceCollection)*K"I
-GMicrosoft.Extensions.DependencyInjection.MvcServiceCollectionExtensions*I
-G
-services;Microsoft.Extensions.DependencyInjection.IServiceCollection®
-«
-_
-UC:\Users\bpantaru\Desktop\Bianca\TSP.NET\Sysop-Squad\SysopSquad\SysopSquad\Startup.cs "(A
-%1;Microsoft.Extensions.DependencyInjection.IServiceCollection"ÝMicrosoft.Extensions.DependencyInjection.SwaggerGenServiceCollectionExtensions.AddSwaggerGen(Microsoft.Extensions.DependencyInjection.IServiceCollection, System.Action<Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenOptions>)*R"P
-NMicrosoft.Extensions.DependencyInjection.SwaggerGenServiceCollectionExtensions*I
-G
-services;Microsoft.Extensions.DependencyInjection.IServiceCollection*
-""*
-1*Ü
-1_
-UC:\Users\bpantaru\Desktop\Bianca\TSP.NET\Sysop-Squad\SysopSquad\SysopSquad\Startup.cs#	 #(	"v
-_
-UC:\Users\bpantaru\Desktop\Bianca\TSP.NET\Sysop-Squad\SysopSquad\SysopSquad\Startup.cs# #(	
-implicit return:G
-services;Microsoft.Extensions.DependencyInjection.IServiceCollectionB
-SysopSquad.Startup

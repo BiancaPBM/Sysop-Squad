@@ -1,1 +1,1 @@
-C:\Users\bpantaru\Desktop\Bianca\TSP.NET\Sysop-Squad\SysopSquad\.sonarqube\out\0
+C:\TSP.NET\Sysop-Squad\SysopSquad\.sonarqube\out\0

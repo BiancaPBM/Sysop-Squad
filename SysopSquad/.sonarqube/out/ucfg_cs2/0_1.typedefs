@@ -1,11 +1,3 @@
-»
-SysopSquad.WeatherForecastobjectA
-WeatherForecast(),SysopSquad.WeatherForecast.WeatherForecast()/
-Date.get#SysopSquad.WeatherForecast.Date.get/
-Date.set#SysopSquad.WeatherForecast.Date.set?
-TemperatureC.get+SysopSquad.WeatherForecast.TemperatureC.get?
-TemperatureC.set+SysopSquad.WeatherForecast.TemperatureC.set?
-TemperatureF.get+SysopSquad.WeatherForecast.TemperatureF.get?
-TemperatureF.set+SysopSquad.WeatherForecast.TemperatureF.set5
-Summary.get&SysopSquad.WeatherForecast.Summary.get5
-Summary.set&SysopSquad.WeatherForecast.Summary.set
+[
+Account.Microservice.Programobject3
+	Program()&Account.Microservice.Program.Program()

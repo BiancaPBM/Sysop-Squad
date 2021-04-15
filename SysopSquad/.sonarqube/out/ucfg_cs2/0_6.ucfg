@@ -1,18 +1,33 @@
 
-$SysopSquad.Startup.Configuration.set_
-UC:\Users\bpantaru\Desktop\Bianca\TSP.NET\Sysop-Squad\SysopSquad\SysopSquad\Startup.cs. (1"0*≠
-0_
-UC:\Users\bpantaru\Desktop\Bianca\TSP.NET\Sysop-Squad\SysopSquad\SysopSquad\Startup.cs2 (2Ñ
-Å
-_
-UC:\Users\bpantaru\Desktop\Bianca\TSP.NET\Sysop-Squad\SysopSquad\SysopSquad\Startup.cs. (2Z
-SysopSquad.Startup"B
-Configuration1Microsoft.Extensions.Configuration.IConfiguration"__id*<
-:
-value1Microsoft.Extensions.Configuration.IConfiguration"ø
-_
-UC:\Users\bpantaru\Desktop\Bianca\TSP.NET\Sysop-Squad\SysopSquad\SysopSquad\Startup.cs. (2\*Z
-SysopSquad.Startup"B
-Configuration1Microsoft.Extensions.Configuration.IConfiguration::
-value1Microsoft.Extensions.Configuration.IConfigurationB
-SysopSquad.Startup
++Account.Microservice.Program.Main(string[])K
+AC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Program.cs ("0*Ï
+0K
+AC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Program.cs ("Ò
+Ó
+K
+AC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Program.cs (#/
+%0)Microsoft.Extensions.Hosting.IHostBuilder"8Account.Microservice.Program.CreateHostBuilder(string[])* "
+Account.Microservice.Program*
+
+argsstring[]ÈÊ
+K
+AC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Program.cs (+(
+%1"Microsoft.Extensions.Hosting.IHost"1Microsoft.Extensions.Hosting.IHostBuilder.Build()*1
+/
+%0)Microsoft.Extensions.Hosting.IHostBuilder2Build()¥
+±
+K
+AC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Program.cs (1
+
+%2void"fMicrosoft.Extensions.Hosting.HostingAbstractionsHostExtensions.Run(Microsoft.Extensions.Hosting.IHost)*B"@
+>Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions**
+(
+%1"Microsoft.Extensions.Hosting.IHost*
+1*¥
+1K
+AC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Program.cs	 (	"b
+K
+AC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Program.cs (	
+implicit return:
+argsstring[]B "
+Account.Microservice.Program

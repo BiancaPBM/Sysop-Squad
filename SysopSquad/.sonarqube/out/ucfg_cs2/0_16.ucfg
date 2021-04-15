@@ -1,31 +1,0 @@
-
-.SysopSquad.Program.CreateHostBuilder(string[])_
-UC:\Users\bpantaru\Desktop\Bianca\TSP.NET\Sysop-Squad\SysopSquad\SysopSquad\Program.cs# (4"0*ﬂ
-0_
-UC:\Users\bpantaru\Desktop\Bianca\TSP.NET\Sysop-Squad\SysopSquad\SysopSquad\Program.cs (í
-è
-_
-UC:\Users\bpantaru\Desktop\Bianca\TSP.NET\Sysop-Squad\SysopSquad\SysopSquad\Program.cs (+/
-%0)Microsoft.Extensions.Hosting.IHostBuilder"@Microsoft.Extensions.Hosting.Host.CreateDefaultBuilder(string[])*%"#
-!Microsoft.Extensions.Hosting.Host*
-
-argsstring[]Ã
-…
-_
-UC:\Users\bpantaru\Desktop\Bianca\TSP.NET\Sysop-Squad\SysopSquad\SysopSquad\Program.cs (/
-%1)Microsoft.Extensions.Hosting.IHostBuilder"∫Microsoft.Extensions.Hosting.GenericHostBuilderExtensions.ConfigureWebHostDefaults(Microsoft.Extensions.Hosting.IHostBuilder, System.Action<Microsoft.AspNetCore.Hosting.IWebHostBuilder>)*=";
-9Microsoft.Extensions.Hosting.GenericHostBuilderExtensions*1
-/
-%0)Microsoft.Extensions.Hosting.IHostBuilder*
-"""î
-_
-UC:\Users\bpantaru\Desktop\Bianca\TSP.NET\Sysop-Squad\SysopSquad\SysopSquad\Program.cs (1
-/
-%1)Microsoft.Extensions.Hosting.IHostBuilder*‹
-1_
-UC:\Users\bpantaru\Desktop\Bianca\TSP.NET\Sysop-Squad\SysopSquad\SysopSquad\Program.cs ("v
-_
-UC:\Users\bpantaru\Desktop\Bianca\TSP.NET\Sysop-Squad\SysopSquad\SysopSquad\Program.cs (
-implicit return:
-argsstring[]B"
-SysopSquad.Program

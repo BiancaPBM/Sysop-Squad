@@ -1,58 +1,0 @@
-
-6SysopSquad.Controllers.WeatherForecastController.Get()}
-sC:\Users\bpantaru\Desktop\Bianca\TSP.NET\Sysop-Squad\SysopSquad\SysopSquad\Controllers\WeatherForecastController.cs, (/"2*±
-0}
-sC:\Users\bpantaru\Desktop\Bianca\TSP.NET\Sysop-Squad\SysopSquad\SysopSquad\Controllers\WeatherForecastController.cs #(¦£
-}
-sC:\Users\bpantaru\Desktop\Bianca\TSP.NET\Sysop-Squad\SysopSquad\SysopSquad\Controllers\WeatherForecastController.cs ("
-%0System.Random"System.Random½
-º
-}
-sC:\Users\bpantaru\Desktop\Bianca\TSP.NET\Sysop-Squad\SysopSquad\SysopSquad\Controllers\WeatherForecastController.cs ( 
-
-%1void"System.Random.Random()*
-
-%0System.Randomµ
-²
-}
-sC:\Users\bpantaru\Desktop\Bianca\TSP.NET\Sysop-Squad\SysopSquad\SysopSquad\Controllers\WeatherForecastController.cs ("
-rngSystem.Random"__id*
-
-%0System.Randomƒ
-€
-}
-sC:\Users\bpantaru\Desktop\Bianca\TSP.NET\Sysop-Squad\SysopSquad\SysopSquad\Controllers\WeatherForecastController.cs ()/
-%2)System.Collections.Generic.IEnumerable<T>"&System.Linq.Enumerable.Range(int, int)*"
-System.Linq.Enumerable*2*2‹
-ˆ
-}
-sC:\Users\bpantaru\Desktop\Bianca\TSP.NET\Sysop-Squad\SysopSquad\SysopSquad\Controllers\WeatherForecastController.cs #(/
-%3)System.Collections.Generic.IEnumerable<T>"System.Linq.Enumerable.Select<TSource, TResult>(System.Collections.Generic.IEnumerable<TSource>, System.Func<TSource, TResult>)*"
-System.Linq.Enumerable*1
-/
-%2)System.Collections.Generic.IEnumerable<T>*
-""Ï
-Ì
-}
-sC:\Users\bpantaru\Desktop\Bianca\TSP.NET\Sysop-Squad\SysopSquad\SysopSquad\Controllers\WeatherForecastController.cs $("
-%4SysopSquad.WeatherForecast[]"XSystem.Linq.Enumerable.ToArray<TSource>(System.Collections.Generic.IEnumerable<TSource>)*"
-System.Linq.Enumerable*1
-/
-%3)System.Collections.Generic.IEnumerable<T>"¥
-}
-sC:\Users\bpantaru\Desktop\Bianca\TSP.NET\Sysop-Squad\SysopSquad\SysopSquad\Controllers\WeatherForecastController.cs $($
-"
-%4SysopSquad.WeatherForecast[]*™
-1}
-sC:\Users\bpantaru\Desktop\Bianca\TSP.NET\Sysop-Squad\SysopSquad\SysopSquad\Controllers\WeatherForecastController.cs%	 %(	"”
-}
-sC:\Users\bpantaru\Desktop\Bianca\TSP.NET\Sysop-Squad\SysopSquad\SysopSquad\Controllers\WeatherForecastController.cs% %(	
-implicit return* 
-2}
-sC:\Users\bpantaru\Desktop\Bianca\TSP.NET\Sysop-Squad\SysopSquad\SysopSquad\Controllers\WeatherForecastController.cs1 (1–
-“
-}
-sC:\Users\bpantaru\Desktop\Bianca\TSP.NET\Sysop-Squad\SysopSquad\SysopSquad\Controllers\WeatherForecastController.cs, (/
-%5"__entrypoint*
-0B42
-0SysopSquad.Controllers.WeatherForecastController

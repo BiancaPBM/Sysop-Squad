@@ -1,18 +1,28 @@
 
-#SysopSquad.WeatherForecast.Date.setg
-]C:\Users\bpantaru\Desktop\Bianca\TSP.NET\Sysop-Squad\SysopSquad\SysopSquad\WeatherForecast.cs$ ('"0*Ý
-0g
-]C:\Users\bpantaru\Desktop\Bianca\TSP.NET\Sysop-Squad\SysopSquad\SysopSquad\WeatherForecast.cs( ((Ç
-Ä
-g
-]C:\Users\bpantaru\Desktop\Bianca\TSP.NET\Sysop-Squad\SysopSquad\SysopSquad\WeatherForecast.cs$ ((7
-SysopSquad.WeatherForecast"
-DateSystem.DateTime"__id*
-
-valueSystem.DateTime"¤
-g
-]C:\Users\bpantaru\Desktop\Bianca\TSP.NET\Sysop-Squad\SysopSquad\SysopSquad\WeatherForecast.cs$ ((9*7
-SysopSquad.WeatherForecast"
-DateSystem.DateTime:
-valueSystem.DateTimeB
-SysopSquad.WeatherForecast
+kAccount.Microservice.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)K
+AC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Startup.cs (%"0*¯
+0K
+AC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Startup.cs "(º
+·
+K
+AC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Startup.cs (%:
+%04Microsoft.Extensions.DependencyInjection.IMvcBuilder"“Microsoft.Extensions.DependencyInjection.MvcServiceCollectionExtensions.AddControllers(Microsoft.Extensions.DependencyInjection.IServiceCollection)*K"I
+GMicrosoft.Extensions.DependencyInjection.MvcServiceCollectionExtensions*I
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollectionš
+—
+K
+AC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Startup.cs "(A
+%1;Microsoft.Extensions.DependencyInjection.IServiceCollection"ÝMicrosoft.Extensions.DependencyInjection.SwaggerGenServiceCollectionExtensions.AddSwaggerGen(Microsoft.Extensions.DependencyInjection.IServiceCollection, System.Action<Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenOptions>)*R"P
+NMicrosoft.Extensions.DependencyInjection.SwaggerGenServiceCollectionExtensions*I
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollection*
+""*
+1*´
+1K
+AC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Startup.cs#	 #(	"b
+K
+AC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Startup.cs# #(	
+implicit return:G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollectionB 
+Account.Microservice.Startup

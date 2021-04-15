@@ -1,0 +1,42 @@
+
+pTicketHandling.Microservice.Data.TicketRepository.UpdateTicket(string, TicketHandling.Microservice.Model.Ticket)`
+VC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Data\TicketRepository.csC C(""0*‘	
+0`
+VC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Data\TicketRepository.csG G(Pí
+è
+`
+VC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Data\TicketRepository.csG G(2
+%0,TicketHandling.Microservice.Data.DataContext"__id*q*o3
+1TicketHandling.Microservice.Data.TicketRepository"8
+_context,TicketHandling.Microservice.Data.DataContextá
+Ñ
+`
+VC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Data\TicketRepository.csG G(0
+%1*MongoDB.Driver.IMongoCollection<TDocument>"8TicketHandling.Microservice.Data.DataContext.Tickets.get*4
+2
+%0,TicketHandling.Microservice.Data.DataContext≈
+¬
+`
+VC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Data\TicketRepository.csG G(Q*
+%2$System.Threading.Tasks.Task<TResult>"ÄMongoDB.Driver.IMongoCollectionExtensions.ReplaceOneAsync<TDocument>(MongoDB.Driver.IMongoCollection<TDocument>, System.Linq.Expressions.Expression<System.Func<TDocument, bool>>, TDocument, MongoDB.Driver.ReplaceOptions, System.Threading.CancellationToken)*-"+
+)MongoDB.Driver.IMongoCollectionExtensions*2
+0
+%1*MongoDB.Driver.IMongoCollection<TDocument>*
+""*4
+2
+ticket(TicketHandling.Microservice.Model.Ticket*
+""*
+""*
+1
+2*j
+1`
+VC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Data\TicketRepository.csM M(*
+2*ﬁ
+2`
+VC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Data\TicketRepository.csM M("w
+`
+VC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Data\TicketRepository.csM M(
+implicit return:
+idstring:2
+ticket(TicketHandling.Microservice.Model.TicketB53
+1TicketHandling.Microservice.Data.TicketRepository
