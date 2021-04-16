@@ -24,3 +24,16 @@
     margin-left: 30%;
     margin-right: 30%;
   }
+
+  .solution {
+    display: flex;
+    margin-top: 4%;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: white;
+    background-color: coral;
+    max-width: 35%;
+    margin-left: 35%;
+    margin-right: 30%;
+  }

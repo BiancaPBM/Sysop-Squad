@@ -49,6 +49,7 @@ import { FlexLayoutModule } from '@angular/flex-layout';
 import { TicketComponent } from './ticket/ticket.component';
 import { TicketsService } from './ticket-list/ticket.service';
 import { HttpClientModule } from '@angular/common/http';
+import { AgentSolutionsComponent } from './agent-solutions/agent-solutions.component';
 
 
 const materialModules = [
@@ -95,7 +96,8 @@ const materialModules = [
     LogInComponent,
     SignUpComponent,
     TicketListComponent,
-    TicketComponent
+    TicketComponent,
+    AgentSolutionsComponent
   ],
   imports: [
     BrowserModule,
