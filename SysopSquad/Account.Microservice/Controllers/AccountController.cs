@@ -7,9 +7,15 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
 using System.Data.SqlClient;
 using System.Data;
+using System.IdentityModel.Tokens.Jwt;
 using Account.Microservice.Model;
 using System.IO;
+using System.Security.Claims;
+using System.Text;
 using Microsoft.AspNetCore.Hosting;
+using Microsoft.AspNetCore.Identity;
+using Microsoft.IdentityModel.Tokens;
+using JwtRegisteredClaimNames = Microsoft.IdentityModel.JsonWebTokens.JwtRegisteredClaimNames;
 
 namespace Account.Microservice.Controllers
 {
@@ -17,73 +23,73 @@ namespace Account.Microservice.Controllers
   [ApiController]
   public class AuthenticationController : ControllerBase
   {
+    private readonly UserManager<ApplicationUser> userManager;
     private readonly IConfiguration _configuration;
-    private readonly IWebHostEnvironment _env;
 
-    public AuthenticationController(IConfiguration configuration, IWebHostEnvironment env)
+    public AuthenticationController(UserManager<ApplicationUser> userManager, IConfiguration configuration)
     {
+      this.userManager = userManager;
       _configuration = configuration;
-      _env = env;
-    }
-
-    [HttpGet]
-    public JsonResult Get()
-    {
-      string query = @"
-                    select Id, Name, Username, Password
-                    from dbo.Authentication
-                    ";
-      DataTable table = new DataTable();
-      string sqlDataSource = _configuration.GetConnectionString("AuthenticationAppCon");
-      SqlDataReader myReader;
-      using (SqlConnection myCon = new SqlConnection(sqlDataSource))
-      {
-        myCon.Open();
-        using (SqlCommand myCommand = new SqlCommand(query, myCon))
-        {
-          myReader = myCommand.ExecuteReader();
-          table.Load(myReader); ;
-
-          myReader.Close();
-          myCon.Close();
-        }
-      }
-
-      return new JsonResult(table);
     }
 
     [HttpPost]
-    public JsonResult Post(Authentication authentication)
+    [Route("login")]
+    public async Task<IActionResult> Login([FromBody] LoginModel model)
     {
-      string query = @"
-                    insert into dbo.Authentication 
-                    (Name,Username,Password)
-                    values 
-                    (
-                    '" + authentication.Name + @"'
-                    ,'" + authentication.Username + @"'
-                    ,'" + authentication.Password + @"'
-                    )
-                    ";
-      DataTable table = new DataTable();
-      string sqlDataSource = _configuration.GetConnectionString("AuthenticationAppCon");
-      SqlDataReader myReader;
-      using (SqlConnection connection = new SqlConnection(sqlDataSource))
+      var user = await userManager.FindByNameAsync(model.Username);
+      if (user != null && await userManager.CheckPasswordAsync(user, model.Password))
       {
-        connection.Open();
-        using (SqlCommand myCommand = new SqlCommand(query, connection))
+        var userRoles = await userManager.GetRolesAsync(user);
+
+        var authClaims = new List<Claim>
+                {
+                    new Claim(ClaimTypes.Name, user.UserName),
+                    new Claim(JwtRegisteredClaimNames.Jti, Guid.NewGuid().ToString()),
+                };
+
+        foreach (var userRole in userRoles)
         {
-          myReader = myCommand.ExecuteReader();
-          table.Load(myReader); ;
-
-          myReader.Close();
-          connection.Close();
+          authClaims.Add(new Claim(ClaimTypes.Role, userRole));
         }
-      }
 
-      return new JsonResult("Added Successfully");
+        var authSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(_configuration["JWT:Secret"]));
+
+        var token = new JwtSecurityToken(
+            issuer: _configuration["JWT:ValidIssuer"],
+            audience: _configuration["JWT:ValidAudience"],
+            expires: DateTime.Now.AddHours(3),
+            claims: authClaims,
+            signingCredentials: new SigningCredentials(authSigningKey, SecurityAlgorithms.HmacSha256)
+            );
+
+        return Ok(new
+        {
+          token = new JwtSecurityTokenHandler().WriteToken(token),
+          expiration = token.ValidTo
+        });
+      }
+      return Unauthorized();
     }
 
+    [HttpPost]
+    [Route("register")]
+    public async Task<IActionResult> Register([FromBody] RegisterModel model)
+    {
+      var userExists = await userManager.FindByNameAsync(model.Username);
+      if (userExists != null)
+        return StatusCode(StatusCodes.Status500InternalServerError, new Response { Status = "Error", Message = "User already exists!" });
 
+      ApplicationUser user = new ApplicationUser()
+      {
+        Email = model.Email,
+        SecurityStamp = Guid.NewGuid().ToString(),
+        UserName = model.Username
+      };
+      var result = await userManager.CreateAsync(user, model.Password);
+      if (!result.Succeeded)
+        return StatusCode(StatusCodes.Status500InternalServerError, new Response { Status = "Error", Message = "User creation failed! Please check user details and try again." });
+
+      return Ok();
+    }
   }
 }

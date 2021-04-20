@@ -3,19 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SysopSquad", "SysopSquad\SysopSquad.csproj", "{2A2936BD-3D4D-47A1-BF28-AEB6644E17E9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SysopSquad", "SysopSquad\SysopSquad.csproj", "{2A2936BD-3D4D-47A1-BF28-AEB6644E17E9}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Microservices", "Microservices", "{893CC64F-49F2-4857-A315-B9E3E9CB4846}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicketHandling.Microservice", "TicketHandling.Microservice\TicketHandling.Microservice.csproj", "{B336F454-34A7-4B8F-BFDE-95C3394FFC74}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TicketHandling.Microservice", "TicketHandling.Microservice\TicketHandling.Microservice.csproj", "{B336F454-34A7-4B8F-BFDE-95C3394FFC74}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Account.Microservice", "Account.Microservice\Account.Microservice.csproj", "{1E895B01-2D78-4F80-B19A-1B78C61C58FF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Account.Microservice", "Account.Microservice\Account.Microservice.csproj", "{1E895B01-2D78-4F80-B19A-1B78C61C58FF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReviewHandling.Microservice", "ReviewHandling.Microservice\ReviewHandling.Microservice.csproj", "{9DBA8EBD-9937-46F3-A992-C9BE61144404}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReviewHandling.Microservice", "ReviewHandling.Microservice\ReviewHandling.Microservice.csproj", "{9DBA8EBD-9937-46F3-A992-C9BE61144404}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{90D4290D-49F7-4780-8C2E-8EA6642CD787}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicketHandling-Tests", "TicketHandling-Tests\TicketHandling-Tests.csproj", "{A89B4FB7-B02B-4FBF-B4DB-64FD6CFEFA34}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TicketHandling-Tests", "TicketHandling-Tests\TicketHandling-Tests.csproj", "{A89B4FB7-B02B-4FBF-B4DB-64FD6CFEFA34}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
