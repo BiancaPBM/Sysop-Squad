@@ -50,6 +50,8 @@ import { TicketComponent } from './ticket/ticket.component';
 import { TicketsService } from './ticket-list/ticket.service';
 import { HttpClientModule } from '@angular/common/http';
 import { AgentSolutionsComponent } from './agent-solutions/agent-solutions.component';
+import { NavbarComponent } from './navbar/navbar.component';
+import { MyProfileComponent } from './my-profile/my-profile.component';
 
 
 const materialModules = [
@@ -97,7 +99,9 @@ const materialModules = [
     SignUpComponent,
     TicketListComponent,
     TicketComponent,
-    AgentSolutionsComponent
+    AgentSolutionsComponent,
+    NavbarComponent,
+    MyProfileComponent
   ],
   imports: [
     BrowserModule,

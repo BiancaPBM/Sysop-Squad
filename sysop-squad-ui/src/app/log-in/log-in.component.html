@@ -5,14 +5,14 @@
         <mat-card-title>Log in</mat-card-title>
       </mat-card-header>
   
-      <form class="example-form">
+      <form [formGroup] ="loginForm" class="example-form" (ngSubmit) = "onSubmit()">
         <mat-card-content>
-          <mat-form-field class="example-full-width">
-            <input matInput placeholder="Username">
+          <mat-form-field  class="example-full-width">
+            <input matInput formControlName = "username" placeholder="Username">
           </mat-form-field>
   
           <mat-form-field class="example-full-width">
-            <input matInput placeholder="Password">
+            <input matInput type = "password" formControlName = "password" placeholder="Password">
           </mat-form-field>
         </mat-card-content>
         <button mat-stroked-button color="accent" class="btn-block" type="submit">Log in</button>

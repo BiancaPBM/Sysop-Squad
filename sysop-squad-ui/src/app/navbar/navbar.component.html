@@ -1,0 +1,19 @@
+<button mat-button [matMenuTriggerFor]="menu" *ngIf="isLoggedIn; else elseBlock"> Hi {{username}} </button>
+<ng-template #elseBlock>
+    <button mat-button [matMenuTriggerFor]="menu"> My profile </button>
+</ng-template>
+
+<mat-menu #menu="matMenu">
+  <div class="coral_background">
+    <div *ngIf= "!isLoggedIn; else elseb" >
+        <button mat-menu-item target="_self" rel="noopener" routerLink="/log-in" routerLinkActive="active" >Log In</button>
+        <button mat-menu-item target="_self" rel="noopener" routerLink="/sign-up" routerLinkActive="active">Sign Up</button>    
+    </div>
+    <ng-template #elseb>
+      <button mat-menu-item target="_self" rel="noopener" (click)= onLogOut()>Log Out</button>
+    </ng-template>
+   <button mat-menu-item >My info</button>
+    <button mat-menu-item  routerLink="/tickets" routerLinkActive="active">My tickets</button>
+    <button mat-menu-item  routerLink="/settings" routerLinkActive="active">Settings</button>
+  </div>
+</mat-menu>
