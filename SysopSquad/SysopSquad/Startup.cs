@@ -48,7 +48,7 @@ namespace SysopSquad
                 ValidateAudience = false
               };
             });
-      services.AddControllers();
+            services.AddControllers();
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "SysopSquad", Version = "v1" });
@@ -58,7 +58,10 @@ namespace SysopSquad
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public async void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
-            if (env.IsDevelopment())
+          app.UseCors(options => options.AllowAnyOrigin().AllowAnyMethod()
+            .AllowAnyHeader());
+           await app.UseOcelot();
+      if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
                 app.UseSwagger();
@@ -71,16 +74,7 @@ namespace SysopSquad
 
             app.UseAuthorization();
 
-            app.UseEndpoints(endpoints =>
-            {
-              endpoints.MapGet("/", async context =>
-              {
-                await context.Response.WriteAsync("Hello World!");
-              });
-            });   
-          app.UseCors(options => options.AllowAnyOrigin().AllowAnyMethod()
-                          .AllowAnyHeader());
-            await app.UseOcelot();
+      
     }
     }
 }

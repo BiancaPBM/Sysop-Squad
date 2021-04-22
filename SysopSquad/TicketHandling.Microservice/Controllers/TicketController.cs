@@ -7,7 +7,7 @@ using TicketHandling.Microservice.Model;
 namespace TicketHandling.Microservice.Controllers
 {
   [ApiController]
-  [Route("api/v1/[controller]")]
+  [Route("api/v1/tickets")]
   
 
     public class TicketsController : ControllerBase

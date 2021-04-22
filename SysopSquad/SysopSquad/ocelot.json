@@ -7,47 +7,71 @@
       "DownstreamHostandPorts": [
         {
           "Host": "localhost",
-          "Port": "44349"
+          "Port": "5004"
         }
       ],
-      "UpstreamPathTemplate": "/Tickets",
-      "UpstreamHttpMethod": [ "POST", "GET" ]
+      "UpstreamPathTemplate": "api/tickets",
+      "UpstreamHttpMethod": [ "GET" ]
     },
     {
-      "DownstreamPathTemplate": "/api/v1/Tickets/ids",
+      "DownstreamPathTemplate": "/api/v1/tickets/ids",
       "DownstreamScheme": "https",
       "DownstreamHostandPorts": [
         {
           "Host": "localhost",
-          "Port": "44349"
+          "Port": "5004"
         }
       ],
-      "UpstreamPathTemplate": "/Tickets/ids",
+      "UpstreamPathTemplate": "/tickets/ids",
       "UpstreamHttpMethod": [ "POST" ]
     },
     {
-      "DownstreamPathTemplate": "/api/v1/Tickets/{id}",
+      "DownstreamPathTemplate": "/api/v1/tickets/{id}",
       "DownstreamScheme": "https",
       "DownstreamHostAndPorts": [
         {
           "Host": "localhost",
-          "Port": "44349"
+          "Port": "5004"
         }
       ],
-      "UpstreamPathTemplate": "/Tickets/{id}",
+      "UpstreamPathTemplate": "/tickets/{id}",
       "UpstreamHttpMethod": [ "GET", "DELETE", "PUT" ]
     },
     {
-      "DownstreamPathTemplate": "/api/v1/Tickets/query",
+      "DownstreamPathTemplate": "/api/v1/tickets/query",
       "DownstreamScheme": "https",
       "DownstreamHostAndPorts": [
         {
           "Host": "localhost",
-          "Port": "44349"
+          "Port": "5004"
         }
       ],
-      "UpstreamPathTemplate": "/Tickets/query",
+      "UpstreamPathTemplate": "/tickets/query",
       "UpstreamHttpMethod": [ "GET" ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/v1/account/register",
+      "DownstreamScheme": "https",
+      "DownstreamHostandPorts": [
+        {
+          "Host": "localhost",
+          "Port": "5002"
+        }
+      ],
+      "UpstreamPathTemplate": "/api/account/register",
+      "UpstreamHttpMethod": [ "POST" ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/v1/account/login",
+      "DownstreamScheme": "https",
+      "DownstreamHostandPorts": [
+        {
+          "Host": "localhost",
+          "Port": "5002"
+        }
+      ],
+      "UpstreamPathTemplate": "/api/account/login",
+      "UpstreamHttpMethod": [ "POST" ]
     }
   ]
 

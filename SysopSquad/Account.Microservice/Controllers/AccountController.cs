@@ -19,14 +19,14 @@ using JwtRegisteredClaimNames = Microsoft.IdentityModel.JsonWebTokens.JwtRegiste
 
 namespace Account.Microservice.Controllers
 {
-  [Route("api/account")]
+  [Route("api/v1/account")]
   [ApiController]
-  public class AuthenticationController : ControllerBase
+  public class AccountController : ControllerBase
   {
     private readonly UserManager<ApplicationUser> userManager;
     private readonly IConfiguration _configuration;
 
-    public AuthenticationController(UserManager<ApplicationUser> userManager, IConfiguration configuration)
+    public AccountController(UserManager<ApplicationUser> userManager, IConfiguration configuration)
     {
       this.userManager = userManager;
       _configuration = configuration;
