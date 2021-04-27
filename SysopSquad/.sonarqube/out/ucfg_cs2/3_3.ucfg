@@ -1,23 +1,33 @@
 
-MSysopSquad.Startup.Startup(Microsoft.Extensions.Configuration.IConfiguration)A
-7C:\TSP.NET\Sysop-Squad\SysopSquad\SysopSquad\Startup.cs ("1*K
-1A
-7C:\TSP.NET\Sysop-Squad\SysopSquad\SysopSquad\Startup.cs	 (	*
-0*Ñ
+!SysopSquad.Program.Main(string[])A
+7C:\TSP.NET\Sysop-Squad\SysopSquad\SysopSquad\Program.cs	 	("0*°
 0A
-7C:\TSP.NET\Sysop-Squad\SysopSquad\SysopSquad\Startup.cs ()ƒ
-€
+7C:\TSP.NET\Sysop-Squad\SysopSquad\SysopSquad\Program.cs ("Ó
+Ð
 A
-7C:\TSP.NET\Sysop-Squad\SysopSquad\SysopSquad\Startup.cs ()7
-%01Microsoft.Extensions.Configuration.IConfiguration"$SysopSquad.Startup.Configuration.set*
-SysopSquad.Startup*D
-B
-configuration1Microsoft.Extensions.Configuration.IConfiguration*
-2* 
-2A
-7C:\TSP.NET\Sysop-Squad\SysopSquad\SysopSquad\Startup.cs	 (	"X
+7C:\TSP.NET\Sysop-Squad\SysopSquad\SysopSquad\Program.cs (#/
+%0)Microsoft.Extensions.Hosting.IHostBuilder".SysopSquad.Program.CreateHostBuilder(string[])*"
+SysopSquad.Program*
+
+argsstring[]ßÜ
 A
-7C:\TSP.NET\Sysop-Squad\SysopSquad\SysopSquad\Startup.cs (	
-implicit return:B
-configuration1Microsoft.Extensions.Configuration.IConfigurationB
-SysopSquad.Startup
+7C:\TSP.NET\Sysop-Squad\SysopSquad\SysopSquad\Program.cs (+(
+%1"Microsoft.Extensions.Hosting.IHost"1Microsoft.Extensions.Hosting.IHostBuilder.Build()*1
+/
+%0)Microsoft.Extensions.Hosting.IHostBuilder2Build()ª
+§
+A
+7C:\TSP.NET\Sysop-Squad\SysopSquad\SysopSquad\Program.cs (1
+
+%2void"fMicrosoft.Extensions.Hosting.HostingAbstractionsHostExtensions.Run(Microsoft.Extensions.Hosting.IHost)*B"@
+>Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions**
+(
+%1"Microsoft.Extensions.Hosting.IHost*
+1* 
+1A
+7C:\TSP.NET\Sysop-Squad\SysopSquad\SysopSquad\Program.cs	 (	"X
+A
+7C:\TSP.NET\Sysop-Squad\SysopSquad\SysopSquad\Program.cs (	
+implicit return:
+argsstring[]B"
+SysopSquad.Program

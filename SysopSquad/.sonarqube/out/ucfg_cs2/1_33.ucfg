@@ -1,18 +1,33 @@
 
-8TicketHandling.Microservice.Data.DataContext.Tickets.set[
-QC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Data\DataContext.cs. (1"0*´
-0[
-QC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Data\DataContext.cs2 (2†
-ƒ
-[
-QC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Data\DataContext.cs. (2g.
-,TicketHandling.Microservice.Data.DataContext"5
-Tickets*MongoDB.Driver.IMongoCollection<TDocument>"__id*5
-3
-value*MongoDB.Driver.IMongoCollection<TDocument>"È
-[
-QC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Data\DataContext.cs. (2i*g.
-,TicketHandling.Microservice.Data.DataContext"5
-Tickets*MongoDB.Driver.IMongoCollection<TDocument>:3
-value*MongoDB.Driver.IMongoCollection<TDocument>B0.
-,TicketHandling.Microservice.Data.DataContext
+?TicketHandling.Microservice.Controllers.TicketsController.Get()g
+]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs/ (2"2*²
+0g
+]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs (+²
+¯
+g
+]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs ("8
+%02TicketHandling.Microservice.Data.ITicketRepository"__id*ƒ*€;
+9TicketHandling.Microservice.Controllers.TicketsController"A
+_repository2TicketHandling.Microservice.Data.ITicketRepository›˜
+g
+]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs (+*
+%1$System.Threading.Tasks.Task<TResult>";TicketHandling.Microservice.Data.ITicketRepository.GetAll()*:
+8
+%02TicketHandling.Microservice.Data.ITicketRepository2GetAll()"q
+g
+]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs
+ (,
+""*ì
+1g
+]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs	 (	"~
+g
+]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs (	
+implicit return*ò
+2g
+]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs4 (4
+}
+g
+]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs/ (2
+%2"__entrypoint*
+0B=;
+9TicketHandling.Microservice.Controllers.TicketsController

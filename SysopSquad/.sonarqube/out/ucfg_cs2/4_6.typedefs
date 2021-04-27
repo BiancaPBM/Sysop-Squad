@@ -1,9 +1,9 @@
-ë
-9TicketHandling.Microservice.Controllers.TicketsController'Microsoft.AspNetCore.Mvc.ControllerBaseobjectÈ
-ETicketsController(TicketHandling.Microservice.Data.ITicketRepository)TicketHandling.Microservice.Controllers.TicketsController.TicketsController(TicketHandling.Microservice.Data.ITicketRepository)H
-Get()?TicketHandling.Microservice.Controllers.TicketsController.Get()\
-GetById(string)ITicketHandling.Microservice.Controllers.TicketsController.GetById(string)\
-OrderByReview()ITicketHandling.Microservice.Controllers.TicketsController.OrderByReview()ž
-0Insert(TicketHandling.Microservice.Model.Ticket)jTicketHandling.Microservice.Controllers.TicketsController.Insert(TicketHandling.Microservice.Model.Ticket)®
-8Update(string, TicketHandling.Microservice.Model.Ticket)rTicketHandling.Microservice.Controllers.TicketsController.Update(string, TicketHandling.Microservice.Model.Ticket)Z
-Delete(string)HTicketHandling.Microservice.Controllers.TicketsController.Delete(string)
+©
+9TicketHandling.Microservice.Model.TicketsDatabaseSettingsobjectp
+TicketsDatabaseSettings()STicketHandling.Microservice.Model.TicketsDatabaseSettings.TicketsDatabaseSettings()p
+TicketsCollectionName.getSTicketHandling.Microservice.Model.TicketsDatabaseSettings.TicketsCollectionName.getp
+TicketsCollectionName.setSTicketHandling.Microservice.Model.TicketsDatabaseSettings.TicketsCollectionName.setf
+ConnectionString.getNTicketHandling.Microservice.Model.TicketsDatabaseSettings.ConnectionString.getf
+ConnectionString.setNTicketHandling.Microservice.Model.TicketsDatabaseSettings.ConnectionString.set^
+DatabaseName.getJTicketHandling.Microservice.Model.TicketsDatabaseSettings.DatabaseName.get^
+DatabaseName.setJTicketHandling.Microservice.Model.TicketsDatabaseSettings.DatabaseName.set

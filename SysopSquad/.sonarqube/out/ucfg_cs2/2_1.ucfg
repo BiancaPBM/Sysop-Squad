@@ -1,16 +1,13 @@
 
-5ReviewHandling.Microservice.Startup.Configuration.getR
-HC:\TSP.NET\Sysop-Squad\SysopSquad\ReviewHandling.Microservice\Startup.cs. (1"0*Ò
-0R
-HC:\TSP.NET\Sysop-Squad\SysopSquad\ReviewHandling.Microservice\Startup.cs2 (2Ö
-Ç
-R
-HC:\TSP.NET\Sysop-Squad\SysopSquad\ReviewHandling.Microservice\Startup.cs. (27
-%01Microsoft.Extensions.Configuration.IConfiguration"__id*m*k%
-#ReviewHandling.Microservice.Startup"B
-Configuration1Microsoft.Extensions.Configuration.IConfiguration"è
-R
-HC:\TSP.NET\Sysop-Squad\SysopSquad\ReviewHandling.Microservice\Startup.cs. (29
-7
-%01Microsoft.Extensions.Configuration.IConfigurationB'%
-#ReviewHandling.Microservice.Startup
+<Account.Microservice.Model.ApplicationUser.ApplicationUser()Y
+OC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Model\ApplicationUser.cs	 	("0*À
+0Y
+OC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Model\ApplicationUser.cs (y
+w
+
+%0void"9Microsoft.AspNetCore.Identity.IdentityUser.IdentityUser()*.,
+*Microsoft.AspNetCore.Identity.IdentityUser"p
+Y
+OC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Model\ApplicationUser.cs	 (
+implicit returnB.,
+*Account.Microservice.Model.ApplicationUser

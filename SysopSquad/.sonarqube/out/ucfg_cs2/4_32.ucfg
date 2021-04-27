@@ -1,18 +1,18 @@
 
-3TicketHandling.Microservice.Model.Ticket.Rating.setW
-MC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Model\Ticket.cs  (#"0*²
-0W
-MC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Model\Ticket.cs$ ($µ
-²
-W
-MC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Model\Ticket.cs  ($>*
-(TicketHandling.Microservice.Model.Ticket"
-Ratingdouble"__id*
-
-valuedouble"›
-W
-MC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Model\Ticket.cs  ($@*>*
-(TicketHandling.Microservice.Model.Ticket"
-Ratingdouble:
-valuedoubleB,*
-(TicketHandling.Microservice.Model.Ticket
+8TicketHandling.Microservice.Data.DataContext.Tickets.set[
+QC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Data\DataContext.cs. (1"0*´
+0[
+QC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Data\DataContext.cs2 (2†
+ƒ
+[
+QC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Data\DataContext.cs. (2g.
+,TicketHandling.Microservice.Data.DataContext"5
+Tickets*MongoDB.Driver.IMongoCollection<TDocument>"__id*5
+3
+value*MongoDB.Driver.IMongoCollection<TDocument>"È
+[
+QC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Data\DataContext.cs. (2i*g.
+,TicketHandling.Microservice.Data.DataContext"5
+Tickets*MongoDB.Driver.IMongoCollection<TDocument>:3
+value*MongoDB.Driver.IMongoCollection<TDocument>B0.
+,TicketHandling.Microservice.Data.DataContext

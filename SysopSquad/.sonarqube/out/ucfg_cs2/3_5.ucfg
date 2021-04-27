@@ -1,9 +1,38 @@
 
-SysopSquad.Program.Program()A
-7C:\TSP.NET\Sysop-Squad\SysopSquad\SysopSquad\Program.cs ("0* 
+.SysopSquad.Program.CreateHostBuilder(string[])A
+7C:\TSP.NET\Sysop-Squad\SysopSquad\SysopSquad\Program.cs (0"0*ñ
+
 0A
-7C:\TSP.NET\Sysop-Squad\SysopSquad\SysopSquad\Program.cs ("X
+7C:\TSP.NET\Sysop-Squad\SysopSquad\SysopSquad\Program.cs (ô
+ñ
 A
-7C:\TSP.NET\Sysop-Squad\SysopSquad\SysopSquad\Program.cs (
-implicit returnB
+7C:\TSP.NET\Sysop-Squad\SysopSquad\SysopSquad\Program.cs ('/
+%0)Microsoft.Extensions.Hosting.IHostBuilder"@Microsoft.Extensions.Hosting.Host.CreateDefaultBuilder(string[])*%"#
+!Microsoft.Extensions.Hosting.Host*
+
+argsstring[]®
+«
+A
+7C:\TSP.NET\Sysop-Squad\SysopSquad\SysopSquad\Program.cs (/
+%1)Microsoft.Extensions.Hosting.IHostBuilder"ºMicrosoft.Extensions.Hosting.GenericHostBuilderExtensions.ConfigureWebHostDefaults(Microsoft.Extensions.Hosting.IHostBuilder, System.Action<Microsoft.AspNetCore.Hosting.IWebHostBuilder>)*=";
+9Microsoft.Extensions.Hosting.GenericHostBuilderExtensions*1
+/
+%0)Microsoft.Extensions.Hosting.IHostBuilder*
+""ˆ…
+A
+7C:\TSP.NET\Sysop-Squad\SysopSquad\SysopSquad\Program.cs (/
+%2)Microsoft.Extensions.Hosting.IHostBuilder"½Microsoft.Extensions.Hosting.IHostBuilder.ConfigureAppConfiguration(System.Action<Microsoft.Extensions.Hosting.HostBuilderContext, Microsoft.Extensions.Configuration.IConfigurationBuilder>)*1
+/
+%1)Microsoft.Extensions.Hosting.IHostBuilder*
+""2“ConfigureAppConfiguration(System.Action<Microsoft.Extensions.Hosting.HostBuilderContext, Microsoft.Extensions.Configuration.IConfigurationBuilder>)"v
+A
+7C:\TSP.NET\Sysop-Squad\SysopSquad\SysopSquad\Program.cs (1
+/
+%2)Microsoft.Extensions.Hosting.IHostBuilder* 
+1A
+7C:\TSP.NET\Sysop-Squad\SysopSquad\SysopSquad\Program.cs ("X
+A
+7C:\TSP.NET\Sysop-Squad\SysopSquad\SysopSquad\Program.cs (
+implicit return:
+argsstring[]B"
 SysopSquad.Program

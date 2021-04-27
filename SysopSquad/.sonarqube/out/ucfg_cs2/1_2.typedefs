@@ -1,19 +1,7 @@
-›
-(TicketHandling.Microservice.Model.Ticketobject=
-Ticket()1TicketHandling.Microservice.Model.Ticket.Ticket()9
-Id.get/TicketHandling.Microservice.Model.Ticket.Id.get9
-Id.set/TicketHandling.Microservice.Model.Ticket.Id.setK
-Description.get8TicketHandling.Microservice.Model.Ticket.Description.getK
-Description.set8TicketHandling.Microservice.Model.Ticket.Description.set=
-User.get1TicketHandling.Microservice.Model.Ticket.User.get=
-User.set1TicketHandling.Microservice.Model.Ticket.User.set?
-	Agent.get2TicketHandling.Microservice.Model.Ticket.Agent.get?
-	Agent.set2TicketHandling.Microservice.Model.Ticket.Agent.setC
-Runtime.get4TicketHandling.Microservice.Model.Ticket.Runtime.getC
-Runtime.set4TicketHandling.Microservice.Model.Ticket.Runtime.setA
-
-Rating.get3TicketHandling.Microservice.Model.Ticket.Rating.getA
-
-Rating.set3TicketHandling.Microservice.Model.Ticket.Rating.setC
-Reviews.get4TicketHandling.Microservice.Model.Ticket.Reviews.getC
-Reviews.set4TicketHandling.Microservice.Model.Ticket.Reviews.set
+±
+#TicketHandling.Microservice.Startupobjectœ
+:Startup(Microsoft.Extensions.Configuration.IConfiguration)^TicketHandling.Microservice.Startup.Startup(Microsoft.Extensions.Configuration.IConfiguration)Ä
+NConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)rTicketHandling.Microservice.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)ƒ
+mConfigure(Microsoft.AspNetCore.Builder.IApplicationBuilder, Microsoft.AspNetCore.Hosting.IWebHostEnvironment)‘TicketHandling.Microservice.Startup.Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder, Microsoft.AspNetCore.Hosting.IWebHostEnvironment)J
+Configuration.get5TicketHandling.Microservice.Startup.Configuration.getJ
+Configuration.set5TicketHandling.Microservice.Startup.Configuration.set

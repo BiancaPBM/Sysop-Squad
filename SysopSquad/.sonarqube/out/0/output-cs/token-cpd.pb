@@ -1,19 +1,19 @@
-¿
+Í
 
-AC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Program.cs
+HC:\TSP.NET\Sysop-Squad\SysopSquad\ReviewHandling.Microservice\Program.cs
 	namespace
 
- 	
-Account
+ 	
+ReviewHandling
 
 
- 
+ 
 .
 
- 
+ 
 Microservice
 
- 
+ %
 { 
 public 
 
@@ -84,13 +84,13 @@ UseStartup )
 ) 
 ; 
 } 
-} ì
-AC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Startup.cs
-	namespace 	
-Account
- 
-. 
-Microservice 
+} ú
+HC:\TSP.NET\Sysop-Squad\SysopSquad\ReviewHandling.Microservice\Startup.cs
+	namespace 	
+ReviewHandling
+ 
+. 
+Microservice %
 { 
 public 
 
@@ -149,14 +149,14 @@ SwaggerDoc!! 
 {!!3 4
 Title!!5 :
 =!!; <
-$str!!= S
-,!!S T
-Version!!U \
-=!!] ^
-$str!!_ c
-}!!d e
-)!!e f
-;!!f g
+$str!!= Z
+,!!Z [
+Version!!\ c
+=!!d e
+$str!!f j
+}!!k l
+)!!l m
+;!!m n
 }"" 
 )"" 
 ;"" 
@@ -206,10 +206,10 @@ UseSwagger++ 
 (,,7 8
 $str,,8 R
 ,,,R S
-$str,,T m
-),,m n
-),,n o
-;,,o p
+$str,,T t
+),,t u
+),,u v
+;,,v w
 }-- 
 app// 
 .// 

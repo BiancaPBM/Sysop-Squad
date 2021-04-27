@@ -1,5 +1,5 @@
-³
-AC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Program.cs
+º
+HC:\TSP.NET\Sysop-Squad\SysopSquad\ReviewHandling.Microservice\Program.cs
 
  
 
@@ -7,8 +7,8 @@ AC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Program.cs
 ) - "
 # 4 
 > B& *
-* 4 é
-AC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Startup.cs
+* 4 ð
+HC:\TSP.NET\Sysop-Squad\SysopSquad\ReviewHandling.Microservice\Startup.cs
 
  
 

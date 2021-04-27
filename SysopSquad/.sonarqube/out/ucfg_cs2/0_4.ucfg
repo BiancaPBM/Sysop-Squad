@@ -1,23 +1,33 @@
 
-WAccount.Microservice.Startup.Startup(Microsoft.Extensions.Configuration.IConfiguration)K
-AC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Startup.cs ("1*U
-1K
-AC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Startup.cs	 (	*
-0*ù
-0K
-AC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Startup.cs ()¡
-ž
-K
-AC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Startup.cs ()7
-%01Microsoft.Extensions.Configuration.IConfiguration".Account.Microservice.Startup.Configuration.set* 
-Account.Microservice.Startup*D
-B
-configuration1Microsoft.Extensions.Configuration.IConfiguration*
-2*´
-2K
-AC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Startup.cs	 (	"b
-K
-AC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Startup.cs (	
-implicit return:B
-configuration1Microsoft.Extensions.Configuration.IConfigurationB 
-Account.Microservice.Startup
+2ReviewHandling.Microservice.Program.Main(string[])R
+HC:\TSP.NET\Sysop-Squad\SysopSquad\ReviewHandling.Microservice\Program.cs ("0*–
+0R
+HC:\TSP.NET\Sysop-Squad\SysopSquad\ReviewHandling.Microservice\Program.cs ("†
+ƒ
+R
+HC:\TSP.NET\Sysop-Squad\SysopSquad\ReviewHandling.Microservice\Program.cs (#/
+%0)Microsoft.Extensions.Hosting.IHostBuilder"?ReviewHandling.Microservice.Program.CreateHostBuilder(string[])*'"%
+#ReviewHandling.Microservice.Program*
+
+argsstring[]ðí
+R
+HC:\TSP.NET\Sysop-Squad\SysopSquad\ReviewHandling.Microservice\Program.cs (+(
+%1"Microsoft.Extensions.Hosting.IHost"1Microsoft.Extensions.Hosting.IHostBuilder.Build()*1
+/
+%0)Microsoft.Extensions.Hosting.IHostBuilder2Build()»
+¸
+R
+HC:\TSP.NET\Sysop-Squad\SysopSquad\ReviewHandling.Microservice\Program.cs (1
+
+%2void"fMicrosoft.Extensions.Hosting.HostingAbstractionsHostExtensions.Run(Microsoft.Extensions.Hosting.IHost)*B"@
+>Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions**
+(
+%1"Microsoft.Extensions.Hosting.IHost*
+1*Â
+1R
+HC:\TSP.NET\Sysop-Squad\SysopSquad\ReviewHandling.Microservice\Program.cs	 (	"i
+R
+HC:\TSP.NET\Sysop-Squad\SysopSquad\ReviewHandling.Microservice\Program.cs (	
+implicit return:
+argsstring[]B'"%
+#ReviewHandling.Microservice.Program

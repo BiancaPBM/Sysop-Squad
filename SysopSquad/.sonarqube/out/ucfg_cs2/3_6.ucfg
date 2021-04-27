@@ -1,16 +1,77 @@
 
-$SysopSquad.Startup.Configuration.getA
-7C:\TSP.NET\Sysop-Squad\SysopSquad\SysopSquad\Startup.cs. (1"0*¨
+aSysopSquad.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)A
+7C:\TSP.NET\Sysop-Squad\SysopSquad\SysopSquad\Startup.cs (%"0*ì
 0A
-7C:\TSP.NET\Sysop-Squad\SysopSquad\SysopSquad\Startup.cs2 (2„
-‡
+7C:\TSP.NET\Sysop-Squad\SysopSquad\SysopSquad\Startup.cs 7(˝
+˙
 A
-7C:\TSP.NET\Sysop-Squad\SysopSquad\SysopSquad\Startup.cs. (27
-%01Microsoft.Extensions.Configuration.IConfiguration"__id*\*Z
-SysopSquad.Startup"B
-Configuration1Microsoft.Extensions.Configuration.IConfiguration"~
+7C:\TSP.NET\Sysop-Squad\SysopSquad\SysopSquad\Startup.cs ( /
+%0)Ocelot.DependencyInjection.IOcelotBuilder"}Ocelot.DependencyInjection.ServiceCollectionExtensions.AddOcelot(Microsoft.Extensions.DependencyInjection.IServiceCollection)*:"8
+6Ocelot.DependencyInjection.ServiceCollectionExtensions*I
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollectionˇ
+¸
 A
-7C:\TSP.NET\Sysop-Squad\SysopSquad\SysopSquad\Startup.cs. (29
-7
-%01Microsoft.Extensions.Configuration.IConfigurationB
+7C:\TSP.NET\Sysop-Squad\SysopSquad\SysopSquad\Startup.cs !(A
+%1;Microsoft.Extensions.DependencyInjection.IServiceCollection"“Microsoft.Extensions.DependencyInjection.CorsServiceCollectionExtensions.AddCors(Microsoft.Extensions.DependencyInjection.IServiceCollection, System.Action<Microsoft.AspNetCore.Cors.Infrastructure.CorsOptions>)*L"J
+HMicrosoft.Extensions.DependencyInjection.CorsServiceCollectionExtensions*I
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollection*
+""õ
+ò
+A
+7C:\TSP.NET\Sysop-Squad\SysopSquad\SysopSquad\Startup.cs" "(#
+%2System.Text.Encoding"System.Text.Encoding.UTF8.get*"
+System.Text.Encoding «
+A
+7C:\TSP.NET\Sysop-Squad\SysopSquad\SysopSquad\Startup.cs" "(I
+%3byte[]"%System.Text.Encoding.GetBytes(string)*
+
+%2System.Text.Encoding*
+Secret key for jwt tokens2GetBytes(string)j
+h
+A
+7C:\TSP.NET\Sysop-Squad\SysopSquad\SysopSquad\Startup.cs" "(I
+keybyte[]"__id*
+
+%3byte[]†
+ù
+A
+7C:\TSP.NET\Sysop-Squad\SysopSquad\SysopSquad\Startup.cs# '(?
+%49Microsoft.AspNetCore.Authentication.AuthenticationBuilder"ÎMicrosoft.Extensions.DependencyInjection.AuthenticationServiceCollectionExtensions.AddAuthentication(Microsoft.Extensions.DependencyInjection.IServiceCollection, System.Action<Microsoft.AspNetCore.Authentication.AuthenticationOptions>)*V"T
+RMicrosoft.Extensions.DependencyInjection.AuthenticationServiceCollectionExtensions*I
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollection*
+""É
+Ä
+A
+7C:\TSP.NET\Sysop-Squad\SysopSquad\SysopSquad\Startup.cs# 2(?
+%59Microsoft.AspNetCore.Authentication.AuthenticationBuilder"€Microsoft.Extensions.DependencyInjection.JwtBearerExtensions.AddJwtBearer(Microsoft.AspNetCore.Authentication.AuthenticationBuilder, string, System.Action<Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerOptions>)*@">
+<Microsoft.Extensions.DependencyInjection.JwtBearerExtensions*A
+?
+%49Microsoft.AspNetCore.Authentication.AuthenticationBuilder*
+ApiSecurity*
+""∞
+≠
+A
+7C:\TSP.NET\Sysop-Squad\SysopSquad\SysopSquad\Startup.cs3 3(%:
+%64Microsoft.Extensions.DependencyInjection.IMvcBuilder"ìMicrosoft.Extensions.DependencyInjection.MvcServiceCollectionExtensions.AddControllers(Microsoft.Extensions.DependencyInjection.IServiceCollection)*K"I
+GMicrosoft.Extensions.DependencyInjection.MvcServiceCollectionExtensions*I
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollectionê
+ç
+A
+7C:\TSP.NET\Sysop-Squad\SysopSquad\SysopSquad\Startup.cs4 7(A
+%7;Microsoft.Extensions.DependencyInjection.IServiceCollection"›Microsoft.Extensions.DependencyInjection.SwaggerGenServiceCollectionExtensions.AddSwaggerGen(Microsoft.Extensions.DependencyInjection.IServiceCollection, System.Action<Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenOptions>)*R"P
+NMicrosoft.Extensions.DependencyInjection.SwaggerGenServiceCollectionExtensions*I
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollection*
+""*
+1*†
+1A
+7C:\TSP.NET\Sysop-Squad\SysopSquad\SysopSquad\Startup.cs8	 8(	"X
+A
+7C:\TSP.NET\Sysop-Squad\SysopSquad\SysopSquad\Startup.cs8 8(	
+implicit return:G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollectionB
 SysopSquad.Startup

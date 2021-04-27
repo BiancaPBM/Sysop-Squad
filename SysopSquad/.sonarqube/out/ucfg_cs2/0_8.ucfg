@@ -1,82 +1,81 @@
 
-äAccount.Microservice.Startup.Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder, Microsoft.AspNetCore.Hosting.IWebHostEnvironment)K
-AC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Startup.cs& &("0*©
-0K
-AC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Startup.cs( ((#Œ
-À
-K
-AC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Startup.cs( ((#
+ëReviewHandling.Microservice.Startup.Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder, Microsoft.AspNetCore.Hosting.IWebHostEnvironment)R
+HC:\TSP.NET\Sysop-Squad\SysopSquad\ReviewHandling.Microservice\Startup.cs& &("0*∑
+0R
+HC:\TSP.NET\Sysop-Squad\SysopSquad\ReviewHandling.Microservice\Startup.cs( ((#’
+“
+R
+HC:\TSP.NET\Sysop-Squad\SysopSquad\ReviewHandling.Microservice\Startup.cs( ((#
 
 %0bool"vMicrosoft.Extensions.Hosting.HostEnvironmentEnvExtensions.IsDevelopment(Microsoft.Extensions.Hosting.IHostEnvironment)*=";
 9Microsoft.Extensions.Hosting.HostEnvironmentEnvExtensions*9
 7
 env0Microsoft.AspNetCore.Hosting.IWebHostEnvironment*
 1
-2*Ï
-
-1K
-AC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Startup.cs* ,(ní
-è
-K
-AC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Startup.cs* *(/6
+2*à
+1R
+HC:\TSP.NET\Sysop-Squad\SysopSquad\ReviewHandling.Microservice\Startup.cs* ,(uô
+ñ
+R
+HC:\TSP.NET\Sysop-Squad\SysopSquad\ReviewHandling.Microservice\Startup.cs* *(/6
 %10Microsoft.AspNetCore.Builder.IApplicationBuilder"âMicrosoft.AspNetCore.Builder.DeveloperExceptionPageExtensions.UseDeveloperExceptionPage(Microsoft.AspNetCore.Builder.IApplicationBuilder)*A"?
 =Microsoft.AspNetCore.Builder.DeveloperExceptionPageExtensions*9
 7
-app0Microsoft.AspNetCore.Builder.IApplicationBuilderπ
-∂
-K
-AC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Startup.cs+ +( 6
+app0Microsoft.AspNetCore.Builder.IApplicationBuilder¿
+Ω
+R
+HC:\TSP.NET\Sysop-Squad\SysopSquad\ReviewHandling.Microservice\Startup.cs+ +( 6
 %20Microsoft.AspNetCore.Builder.IApplicationBuilder"∞Microsoft.AspNetCore.Builder.SwaggerBuilderExtensions.UseSwagger(Microsoft.AspNetCore.Builder.IApplicationBuilder, System.Action<Swashbuckle.AspNetCore.Swagger.SwaggerOptions>)*9"7
 5Microsoft.AspNetCore.Builder.SwaggerBuilderExtensions*9
 7
 app0Microsoft.AspNetCore.Builder.IApplicationBuilder*
-""√
-¿
-K
-AC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Startup.cs, ,(o6
+"" 
+«
+R
+HC:\TSP.NET\Sysop-Squad\SysopSquad\ReviewHandling.Microservice\Startup.cs, ,(v6
 %30Microsoft.AspNetCore.Builder.IApplicationBuilder"∏Microsoft.AspNetCore.Builder.SwaggerUIBuilderExtensions.UseSwaggerUI(Microsoft.AspNetCore.Builder.IApplicationBuilder, System.Action<Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIOptions>)*;"9
 7Microsoft.AspNetCore.Builder.SwaggerUIBuilderExtensions*9
 7
 app0Microsoft.AspNetCore.Builder.IApplicationBuilder*
 ""*
-2*Ó
-2K
-AC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Startup.cs/ 8(É
-Ä
-K
-AC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Startup.cs/ /(%6
+2*ë
+2R
+HC:\TSP.NET\Sysop-Squad\SysopSquad\ReviewHandling.Microservice\Startup.cs/ 8(ä
+á
+R
+HC:\TSP.NET\Sysop-Squad\SysopSquad\ReviewHandling.Microservice\Startup.cs/ /(%6
 %40Microsoft.AspNetCore.Builder.IApplicationBuilder"Microsoft.AspNetCore.Builder.HttpsPolicyBuilderExtensions.UseHttpsRedirection(Microsoft.AspNetCore.Builder.IApplicationBuilder)*=";
 9Microsoft.AspNetCore.Builder.HttpsPolicyBuilderExtensions*9
 7
-app0Microsoft.AspNetCore.Builder.IApplicationBuilderô
-ñ
-K
-AC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Startup.cs1 1(6
+app0Microsoft.AspNetCore.Builder.IApplicationBuilder†
+ù
+R
+HC:\TSP.NET\Sysop-Squad\SysopSquad\ReviewHandling.Microservice\Startup.cs1 1(6
 %50Microsoft.AspNetCore.Builder.IApplicationBuilder"ÖMicrosoft.AspNetCore.Builder.EndpointRoutingApplicationBuilderExtensions.UseRouting(Microsoft.AspNetCore.Builder.IApplicationBuilder)*L"J
 HMicrosoft.AspNetCore.Builder.EndpointRoutingApplicationBuilderExtensions*9
 7
-app0Microsoft.AspNetCore.Builder.IApplicationBuilderã
-à
-K
-AC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Startup.cs3 3("6
+app0Microsoft.AspNetCore.Builder.IApplicationBuilderí
+è
+R
+HC:\TSP.NET\Sysop-Squad\SysopSquad\ReviewHandling.Microservice\Startup.cs3 3("6
 %60Microsoft.AspNetCore.Builder.IApplicationBuilder"ÅMicrosoft.AspNetCore.Builder.AuthorizationAppBuilderExtensions.UseAuthorization(Microsoft.AspNetCore.Builder.IApplicationBuilder)*B"@
 >Microsoft.AspNetCore.Builder.AuthorizationAppBuilderExtensions*9
 7
-app0Microsoft.AspNetCore.Builder.IApplicationBuilderÊ
-„
-K
-AC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Startup.cs5 8(6
+app0Microsoft.AspNetCore.Builder.IApplicationBuilderÌ
+Í
+R
+HC:\TSP.NET\Sysop-Squad\SysopSquad\ReviewHandling.Microservice\Startup.cs5 8(6
 %70Microsoft.AspNetCore.Builder.IApplicationBuilder" Microsoft.AspNetCore.Builder.EndpointRoutingApplicationBuilderExtensions.UseEndpoints(Microsoft.AspNetCore.Builder.IApplicationBuilder, System.Action<Microsoft.AspNetCore.Routing.IEndpointRouteBuilder>)*L"J
 HMicrosoft.AspNetCore.Builder.EndpointRoutingApplicationBuilderExtensions*9
 7
 app0Microsoft.AspNetCore.Builder.IApplicationBuilder*
 ""*
-3*¥
-3K
-AC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Startup.cs9	 9(	"b
-K
-AC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Startup.cs9 9(	
+3*¬
+3R
+HC:\TSP.NET\Sysop-Squad\SysopSquad\ReviewHandling.Microservice\Startup.cs9	 9(	"i
+R
+HC:\TSP.NET\Sysop-Squad\SysopSquad\ReviewHandling.Microservice\Startup.cs9 9(	
 implicit return:7
 app0Microsoft.AspNetCore.Builder.IApplicationBuilder:7
-env0Microsoft.AspNetCore.Hosting.IWebHostEnvironmentB 
-Account.Microservice.Startup
+env0Microsoft.AspNetCore.Hosting.IWebHostEnvironmentB'%
+#ReviewHandling.Microservice.Startup

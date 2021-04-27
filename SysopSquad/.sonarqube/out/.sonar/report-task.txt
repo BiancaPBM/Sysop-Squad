@@ -1,7 +1,7 @@
 organization=blue-team
 projectKey=Sysop-Squad-Backend
 serverUrl=https://sonarcloud.io
-serverVersion=8.0.0.19301
+serverVersion=8.0.0.19625
 dashboardUrl=https://sonarcloud.io/dashboard?id=Sysop-Squad-Backend
-ceTaskId=AXjVxxE22LRr_R_ncAa5
-ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXjVxxE22LRr_R_ncAa5
+ceTaskId=AXkVGV2TvDzDnQdoDWxb
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXkVGV2TvDzDnQdoDWxb
