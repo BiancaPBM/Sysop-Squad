@@ -7,14 +7,18 @@ import { LogInComponent } from './log-in/log-in.component';
 import { SignUpComponent } from './sign-up/sign-up.component';
 import { TicketListComponent } from './ticket-list/ticket-list.component'
 import { AgentSolutionsComponent } from './agent-solutions/agent-solutions.component'
+import { MyProfileComponent } from "./my-profile/my-profile.component";
+import { SettingsComponent } from "./settings/settings.component";
 
 const routes: Routes = [
   { path: '', component: MenuComponent },
+  { path:'my-profile', component: MyProfileComponent},
   { path: 'form-component', component: FormComponent },
   { path: 'log-in', component: LogInComponent },
   { path: 'sign-up', component: SignUpComponent },
   { path: 'tickets', component: TicketListComponent },
-  { path: 'agent-solutions', component: AgentSolutionsComponent }
+  { path: 'agent-solutions', component: AgentSolutionsComponent},
+  { path: 'settings', component: SettingsComponent}
 ];
 
 @NgModule({

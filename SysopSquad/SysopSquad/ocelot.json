@@ -10,7 +10,7 @@
           "Port": "5004"
         }
       ],
-      "UpstreamPathTemplate": "api/tickets",
+      "UpstreamPathTemplate": "/api/tickets",
       "UpstreamHttpMethod": [ "GET" ]
     },
     {

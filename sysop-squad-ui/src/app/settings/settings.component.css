@@ -1,0 +1,33 @@
+.ticket_card {
+  width: 80%;
+  min-width: 100vh;
+  background-color: coral;
+  margin-bottom: 1%;
+  min-height: 25vh;
+  color: white;
+}
+
+.card-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top: 20%;
+  
+}
+
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: larger;
+}
+
+.mat-card-header .mat-card-title {
+  font-size: 36px;
+}
+
+.mat-form-field-wrapper {
+  display: flex;
+  flex-direction: column;
+}

@@ -25,7 +25,8 @@ export class LogInComponent implements OnInit {
   onSubmit(): void {
     let login = new LoginModel(this.loginForm.controls.username.value, this.loginForm.controls.password.value);
     this.authenticationService.login(login)
-    .subscribe((data) => { localStorage.setItem("currentUser","123456");
+    .subscribe((data) => {
+                          localStorage.setItem("currentUser", "dear user");
                           localStorage.setItem("token",data.token);
                           localStorage.setItem("expiration", data.expiration);
                           return this.router.navigate(['form-component'])});

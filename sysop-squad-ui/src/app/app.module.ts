@@ -52,6 +52,7 @@ import { HttpClientModule } from '@angular/common/http';
 import { AgentSolutionsComponent } from './agent-solutions/agent-solutions.component';
 import { MyProfileComponent } from './my-profile/my-profile.component';
 import { NavbarComponent } from './navbar/navbar.component';
+import { SettingsComponent } from './settings/settings.component';
 
 
 const materialModules = [
@@ -101,7 +102,8 @@ const materialModules = [
     TicketComponent,
     AgentSolutionsComponent,
     NavbarComponent,
-    MyProfileComponent
+    MyProfileComponent,
+    SettingsComponent
   ],
   imports: [
     BrowserModule,
