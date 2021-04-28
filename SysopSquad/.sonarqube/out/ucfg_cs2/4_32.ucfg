@@ -1,18 +1,18 @@
 
-8TicketHandling.Microservice.Data.DataContext.Tickets.set[
-QC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Data\DataContext.cs. (1"0*´
-0[
-QC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Data\DataContext.cs2 (2†
-ƒ
-[
-QC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Data\DataContext.cs. (2g.
-,TicketHandling.Microservice.Data.DataContext"5
-Tickets*MongoDB.Driver.IMongoCollection<TDocument>"__id*5
-3
-value*MongoDB.Driver.IMongoCollection<TDocument>"È
-[
-QC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Data\DataContext.cs. (2i*g.
-,TicketHandling.Microservice.Data.DataContext"5
-Tickets*MongoDB.Driver.IMongoCollection<TDocument>:3
-value*MongoDB.Driver.IMongoCollection<TDocument>B0.
-,TicketHandling.Microservice.Data.DataContext
+JTicketHandling.Microservice.Model.TicketsDatabaseSettings.DatabaseName.seth
+^C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Model\TicketsDatabaseSettings.cs& ()"0*“
+0h
+^C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Model\TicketsDatabaseSettings.cs* (*Ý
+Ú
+h
+^C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Model\TicketsDatabaseSettings.cs& (*U;
+9TicketHandling.Microservice.Model.TicketsDatabaseSettings"
+DatabaseNamestring"__id*
+
+valuestring"Ã
+h
+^C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Model\TicketsDatabaseSettings.cs& (*W*U;
+9TicketHandling.Microservice.Model.TicketsDatabaseSettings"
+DatabaseNamestring:
+valuestringB=;
+9TicketHandling.Microservice.Model.TicketsDatabaseSettings

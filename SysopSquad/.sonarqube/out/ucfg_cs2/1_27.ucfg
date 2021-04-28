@@ -1,16 +1,18 @@
 
-NTicketHandling.Microservice.Model.TicketsDatabaseSettings.ConnectionString.geth
-^C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Model\TicketsDatabaseSettings.cs% (("0*Ê
+JTicketHandling.Microservice.Model.TicketsDatabaseSettings.DatabaseName.seth
+^C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Model\TicketsDatabaseSettings.cs& ()"0*“
 0h
-^C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Model\TicketsDatabaseSettings.cs) ()Þ
-Û
+^C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Model\TicketsDatabaseSettings.cs* (*Ý
+Ú
 h
-^C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Model\TicketsDatabaseSettings.cs% ()
-%0string"__id*[*Y;
-9TicketHandling.Microservice.Model.TicketsDatabaseSettings"
-ConnectionStringstring"z
+^C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Model\TicketsDatabaseSettings.cs& (*U;
+9TicketHandling.Microservice.Model.TicketsDatabaseSettings"
+DatabaseNamestring"__id*
+
+valuestring"Ã
 h
-^C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Model\TicketsDatabaseSettings.cs% ()
-
-%0stringB=;
+^C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Model\TicketsDatabaseSettings.cs& (*W*U;
+9TicketHandling.Microservice.Model.TicketsDatabaseSettings"
+DatabaseNamestring:
+valuestringB=;
 9TicketHandling.Microservice.Model.TicketsDatabaseSettings

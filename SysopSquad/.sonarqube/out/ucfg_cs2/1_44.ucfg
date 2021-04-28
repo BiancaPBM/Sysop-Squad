@@ -1,51 +1,42 @@
 
-ATicketHandling.Microservice.Data.TicketRepository.GetById(string)`
-VC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Data\TicketRepository.cs5 5(%"0*m
+pTicketHandling.Microservice.Data.TicketRepository.UpdateTicket(string, TicketHandling.Microservice.Model.Ticket)`
+VC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Data\TicketRepository.csC C(""0*‘	
 0`
-VC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Data\TicketRepository.csA A(*
-1
-2*¯
-1`
-VC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Data\TicketRepository.cs9 :(7í
+VC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Data\TicketRepository.csG G(Pí
 è
 `
-VC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Data\TicketRepository.cs9 9(2
+VC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Data\TicketRepository.csG G(2
 %0,TicketHandling.Microservice.Data.DataContext"__id*q*o3
 1TicketHandling.Microservice.Data.TicketRepository"8
 _context,TicketHandling.Microservice.Data.DataContextá
 Ñ
 `
-VC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Data\TicketRepository.cs9 9(%0
+VC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Data\TicketRepository.csG G(0
 %1*MongoDB.Driver.IMongoCollection<TDocument>"8TicketHandling.Microservice.Data.DataContext.Tickets.get*4
 2
-%0,TicketHandling.Microservice.Data.DataContextÿ
-’
+%0,TicketHandling.Microservice.Data.DataContext≈
+¬
 `
-VC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Data\TicketRepository.cs9 :(88
-%22MongoDB.Driver.IFindFluent<TDocument, TProjection>"√MongoDB.Driver.IMongoCollectionExtensions.Find<TDocument>(MongoDB.Driver.IMongoCollection<TDocument>, System.Linq.Expressions.Expression<System.Func<TDocument, bool>>, MongoDB.Driver.FindOptions)*-"+
+VC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Data\TicketRepository.csG G(Q*
+%2$System.Threading.Tasks.Task<TResult>"ÄMongoDB.Driver.IMongoCollectionExtensions.ReplaceOneAsync<TDocument>(MongoDB.Driver.IMongoCollection<TDocument>, System.Linq.Expressions.Expression<System.Func<TDocument, bool>>, TDocument, MongoDB.Driver.ReplaceOptions, System.Threading.CancellationToken)*-"+
 )MongoDB.Driver.IMongoCollectionExtensions*2
 0
 %1*MongoDB.Driver.IMongoCollection<TDocument>*
+""*4
+2
+ticket(TicketHandling.Microservice.Model.Ticket*
 ""*
-""™
-ß
-`
-VC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Data\TicketRepository.cs9 ;(.*
-%3$System.Threading.Tasks.Task<TResult>"®MongoDB.Driver.IFindFluentExtensions.FirstOrDefaultAsync<TDocument, TProjection>(MongoDB.Driver.IFindFluent<TDocument, TProjection>, System.Threading.CancellationToken)*("&
-$MongoDB.Driver.IFindFluentExtensions*:
-8
-%22MongoDB.Driver.IFindFluent<TDocument, TProjection>*
-"""j
-`
-VC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Data\TicketRepository.cs9 ;(/
-""*j
+""*
+1
+2*j
+1`
+VC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Data\TicketRepository.csM M(*
+2*ﬁ
 2`
-VC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Data\TicketRepository.csA A(*
-3*ﬁ
-3`
-VC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Data\TicketRepository.csA A("w
+VC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Data\TicketRepository.csM M("w
 `
-VC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Data\TicketRepository.csA A(
+VC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Data\TicketRepository.csM M(
 implicit return:
-idstringB53
+idstring:2
+ticket(TicketHandling.Microservice.Model.TicketB53
 1TicketHandling.Microservice.Data.TicketRepository

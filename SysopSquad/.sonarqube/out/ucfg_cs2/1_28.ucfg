@@ -1,16 +1,33 @@
 
-JTicketHandling.Microservice.Model.TicketsDatabaseSettings.DatabaseName.geth
-^C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Model\TicketsDatabaseSettings.cs! ($"0*Æ
-0h
-^C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Model\TicketsDatabaseSettings.cs% (%Ú
-×
-h
-^C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Model\TicketsDatabaseSettings.cs! (%
-%0string"__id*W*U;
-9TicketHandling.Microservice.Model.TicketsDatabaseSettings"
-DatabaseNamestring"z
-h
-^C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Model\TicketsDatabaseSettings.cs! (%
-
-%0stringB=;
-9TicketHandling.Microservice.Model.TicketsDatabaseSettings
+?TicketHandling.Microservice.Controllers.TicketsController.Get()g
+]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs/ (2"2*²
+0g
+]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs (+²
+¯
+g
+]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs ("8
+%02TicketHandling.Microservice.Data.ITicketRepository"__id*ƒ*€;
+9TicketHandling.Microservice.Controllers.TicketsController"A
+_repository2TicketHandling.Microservice.Data.ITicketRepository›˜
+g
+]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs (+*
+%1$System.Threading.Tasks.Task<TResult>";TicketHandling.Microservice.Data.ITicketRepository.GetAll()*:
+8
+%02TicketHandling.Microservice.Data.ITicketRepository2GetAll()"q
+g
+]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs
+ (,
+""*ì
+1g
+]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs	 (	"~
+g
+]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs (	
+implicit return*ò
+2g
+]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs4 (4
+}
+g
+]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs/ (2
+%2"__entrypoint*
+0B=;
+9TicketHandling.Microservice.Controllers.TicketsController

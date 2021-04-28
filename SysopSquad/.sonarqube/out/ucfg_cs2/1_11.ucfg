@@ -1,38 +1,91 @@
 
-TicketHandling.Microservice.Controllers.TicketsController.TicketsController(TicketHandling.Microservice.Data.ITicketRepository)g
-]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs ( "3*è
-1g
-]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs	 (	u
-s
+tTicketHandling.Microservice.Data.DataContext.DataContext(TicketHandling.Microservice.Model.ITicketsDatabaseSettings)[
+QC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Data\DataContext.cs ("1*e
+1[
+QC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Data\DataContext.cs (*
+0*Ž
+0[
+QC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Data\DataContext.cs
+
+ (MŸœ
+[
+QC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Data\DataContext.cs
+# 
+(<
+%0string"OTicketHandling.Microservice.Model.ITicketsDatabaseSettings.ConnectionString.get*H
+F
+settings:TicketHandling.Microservice.Model.ITicketsDatabaseSettings2ConnectionString.getž›
+[
+QC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Data\DataContext.cs
+ 
+(= 
+%1MongoDB.Driver.MongoClient"MongoDB.Driver.MongoClientÐ
+Í
+[
+QC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Data\DataContext.cs
+ 
+("
 
-%0void"8Microsoft.AspNetCore.Mvc.ControllerBase.ControllerBase()*+)
-'Microsoft.AspNetCore.Mvc.ControllerBase*
-0*­
-0g
-]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs
- ("¹
-¶
-g
-]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs
- ("€;
-9TicketHandling.Microservice.Controllers.TicketsController"A
-_repository2TicketHandling.Microservice.Data.ITicketRepository"__id*B
-@
-
-repository2TicketHandling.Microservice.Data.ITicketRepository*
-2*ì
-2g
-]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs	 (	"~
-g
-]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs (	
-implicit return*ò
-3g
-]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs> (>
-}
-g
-]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs ( 
-%1"__entrypoint*
-1:@
-
-repository2TicketHandling.Microservice.Data.ITicketRepositoryB=;
-9TicketHandling.Microservice.Controllers.TicketsController
+%2void".MongoDB.Driver.MongoClient.MongoClient(string)*"
+ 
+%1MongoDB.Driver.MongoClient*
+
+%0string°
+­
+[
+QC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Data\DataContext.cs
+
+ 
+(=$
+clientMongoDB.Driver.MongoClient"__id*"
+ 
+%1MongoDB.Driver.MongoClient—”
+[
+QC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Data\DataContext.cs( (=
+%3string"KTicketHandling.Microservice.Model.ITicketsDatabaseSettings.DatabaseName.get*H
+F
+settings:TicketHandling.Microservice.Model.ITicketsDatabaseSettings2DatabaseName.get›
+˜
+[
+QC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Data\DataContext.cs (>#
+%4MongoDB.Driver.IMongoDatabase"TMongoDB.Driver.MongoClient.GetDatabase(string, MongoDB.Driver.MongoDatabaseSettings)*&
+$
+clientMongoDB.Driver.MongoClient*
+
+%3string*
+""¸
+µ
+[
+QC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Data\DataContext.cs
+ (>)
+databaseMongoDB.Driver.IMongoDatabase"__id*%
+#
+%4MongoDB.Driver.IMongoDatabase©¦
+[
+QC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Data\DataContext.cs/ (M
+%5string"TTicketHandling.Microservice.Model.ITicketsDatabaseSettings.TicketsCollectionName.get*H
+F
+settings:TicketHandling.Microservice.Model.ITicketsDatabaseSettings2TicketsCollectionName.get‰†
+[
+QC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Data\DataContext.cs (N0
+%6*MongoDB.Driver.IMongoCollection<TDocument>"fMongoDB.Driver.IMongoDatabase.GetCollection<TDocument>(string, MongoDB.Driver.MongoCollectionSettings)*+
+)
+databaseMongoDB.Driver.IMongoDatabase*
+
+%5string*
+""2HGetCollection<TDocument>(string, MongoDB.Driver.MongoCollectionSettings)²
+¯
+[
+QC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Data\DataContext.cs (N0
+%7*MongoDB.Driver.IMongoCollection<TDocument>"8TicketHandling.Microservice.Data.DataContext.Tickets.set*0.
+,TicketHandling.Microservice.Data.DataContext*2
+0
+%6*MongoDB.Driver.IMongoCollection<TDocument>*
+2*Ô
+2[
+QC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Data\DataContext.cs ("r
+[
+QC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Data\DataContext.cs (
+implicit return:F
+settings:TicketHandling.Microservice.Model.ITicketsDatabaseSettingsB0.
+,TicketHandling.Microservice.Data.DataContext

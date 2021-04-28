@@ -1,106 +1,38 @@
 
-jTicketHandling.Microservice.Controllers.TicketsController.Insert(TicketHandling.Microservice.Model.Ticket)g
-]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs,) ,(/"2*·
-0g
-]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs.
- /(J≤
-Ø
-g
-]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs. .(8
-%02TicketHandling.Microservice.Data.ITicketRepository"__id*É*Ä;
-9TicketHandling.Microservice.Controllers.TicketsController"A
-_repository2TicketHandling.Microservice.Data.ITicketRepositoryûõ
-g
-]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs. .(-!
-%1System.Threading.Tasks.Task"fTicketHandling.Microservice.Data.ITicketRepository.AddTicket(TicketHandling.Microservice.Model.Ticket)*:
-8
-%02TicketHandling.Microservice.Data.ITicketRepository*4
+FTicketHandling.Microservice.Data.TicketRepository.DeleteTicket(string)`
+VC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Data\TicketRepository.cs (""0*Î
+0`
+VC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Data\TicketRepository.cs! !(Gí
+è
+`
+VC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Data\TicketRepository.cs! !(2
+%0,TicketHandling.Microservice.Data.DataContext"__id*q*o3
+1TicketHandling.Microservice.Data.TicketRepository"8
+_context,TicketHandling.Microservice.Data.DataContextá
+Ñ
+`
+VC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Data\TicketRepository.cs! !(0
+%1*MongoDB.Driver.IMongoCollection<TDocument>"8TicketHandling.Microservice.Data.DataContext.Tickets.get*4
 2
-ticket(TicketHandling.Microservice.Model.Ticket23AddTicket(TicketHandling.Microservice.Model.Ticket)·
-ﬁ
-g
-]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs/7 /(@
-%2string"/TicketHandling.Microservice.Model.Ticket.Id.get*4
-2
-ticket(TicketHandling.Microservice.Model.Ticketîë
-g
-]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs/ /(K4
-%3.Microsoft.AspNetCore.Mvc.CreatedAtActionResult"OMicrosoft.AspNetCore.Mvc.ControllerBase.CreatedAtAction(string, object, object)*+)
-'Microsoft.AspNetCore.Mvc.ControllerBase*	
-GetById*
-""*4
-2
-ticket(TicketHandling.Microservice.Model.Ticket2'CreatedAtAction(string, object, object)"°
-g
-]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs/
- /(L6
-4
-%3.Microsoft.AspNetCore.Mvc.CreatedAtActionResult*Ï
-1g
-]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs0	 0(	"~
-g
-]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs0 0(	
-implicit return*ö
-2g
-]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs,> ,(>Ω
-∫
-g
-]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs,) ,(/A
-2
-ticket(TicketHandling.Microservice.Model.Ticket"
-xobject"__entrypointœ
-Ã
-g
-]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs,) ,(/S
-2
-ticket(TicketHandling.Microservice.Model.Ticket"
-<Id>k__BackingFieldstring"__entrypointæ
-ª
-g
-]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs,) ,(/B
-2
-ticket(TicketHandling.Microservice.Model.Ticket"
-Idstring"__entrypointÿ
-’
-g
-]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs,) ,(/\
-2
-ticket(TicketHandling.Microservice.Model.Ticket"&
-<Description>k__BackingFieldstring"__entrypoint«
-ƒ
-g
-]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs,) ,(/K
-2
-ticket(TicketHandling.Microservice.Model.Ticket"
-Descriptionstring"__entrypoint—
-Œ
-g
-]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs,) ,(/U
-2
-ticket(TicketHandling.Microservice.Model.Ticket"
-<User>k__BackingFieldstring"__entrypoint¿
-Ω
-g
-]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs,) ,(/D
-2
-ticket(TicketHandling.Microservice.Model.Ticket"
-Userstring"__entrypoint“
-œ
-g
-]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs,) ,(/V
-2
-ticket(TicketHandling.Microservice.Model.Ticket" 
-<Agent>k__BackingFieldstring"__entrypoint¡
-æ
-g
-]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs,) ,(/E
-2
-ticket(TicketHandling.Microservice.Model.Ticket"
-Agentstring"__entrypoint
-}
-g
-]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs,) ,(/
-%4"__entrypoint*
-0:2
-ticket(TicketHandling.Microservice.Model.TicketB=;
-9TicketHandling.Microservice.Controllers.TicketsController
+%0,TicketHandling.Microservice.Data.DataContext‹
+Ÿ
+`
+VC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Data\TicketRepository.cs! !(H*
+%2$System.Threading.Tasks.Task<TResult>"’MongoDB.Driver.IMongoCollectionExtensions.DeleteOneAsync<TDocument>(MongoDB.Driver.IMongoCollection<TDocument>, System.Linq.Expressions.Expression<System.Func<TDocument, bool>>, System.Threading.CancellationToken)*-"+
+)MongoDB.Driver.IMongoCollectionExtensions*2
+0
+%1*MongoDB.Driver.IMongoCollection<TDocument>*
+""*
+""*
+1
+2*j
+1`
+VC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Data\TicketRepository.cs' '(*
+2*ﬁ
+2`
+VC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Data\TicketRepository.cs' '("w
+`
+VC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Data\TicketRepository.cs' '(
+implicit return:
+idstringB53
+1TicketHandling.Microservice.Data.TicketRepository

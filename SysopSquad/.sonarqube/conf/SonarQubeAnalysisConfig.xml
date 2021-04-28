@@ -141,28 +141,28 @@
       <AnalyzerPlugins>
         <AnalyzerPlugin Key="csharp" Version="8.20.0.28934" StaticResourceName="SonarAnalyzer-8.20.0.28934.zip">
           <AssemblyPaths>
-            <Path>C:\Users\bpantaru\AppData\Local\Temp\.sonarqube\resources\6\Google.Protobuf.dll</Path>
-            <Path>C:\Users\bpantaru\AppData\Local\Temp\.sonarqube\resources\6\SonarAnalyzer.CFG.dll</Path>
-            <Path>C:\Users\bpantaru\AppData\Local\Temp\.sonarqube\resources\6\SonarAnalyzer.CSharp.dll</Path>
-            <Path>C:\Users\bpantaru\AppData\Local\Temp\.sonarqube\resources\6\SonarAnalyzer.dll</Path>
+            <Path>C:\Users\bpantaru\AppData\Local\Temp\.sonarqube\resources\0\Google.Protobuf.dll</Path>
+            <Path>C:\Users\bpantaru\AppData\Local\Temp\.sonarqube\resources\0\SonarAnalyzer.CFG.dll</Path>
+            <Path>C:\Users\bpantaru\AppData\Local\Temp\.sonarqube\resources\0\SonarAnalyzer.CSharp.dll</Path>
+            <Path>C:\Users\bpantaru\AppData\Local\Temp\.sonarqube\resources\0\SonarAnalyzer.dll</Path>
           </AssemblyPaths>
         </AnalyzerPlugin>
         <AnalyzerPlugin Key="vbnet" Version="8.20.0.28934" StaticResourceName="SonarAnalyzer-8.20.0.28934.zip">
           <AssemblyPaths>
-            <Path>C:\Users\bpantaru\AppData\Local\Temp\.sonarqube\resources\7\Google.Protobuf.dll</Path>
-            <Path>C:\Users\bpantaru\AppData\Local\Temp\.sonarqube\resources\7\SonarAnalyzer.dll</Path>
-            <Path>C:\Users\bpantaru\AppData\Local\Temp\.sonarqube\resources\7\SonarAnalyzer.VisualBasic.dll</Path>
+            <Path>C:\Users\bpantaru\AppData\Local\Temp\.sonarqube\resources\1\Google.Protobuf.dll</Path>
+            <Path>C:\Users\bpantaru\AppData\Local\Temp\.sonarqube\resources\1\SonarAnalyzer.dll</Path>
+            <Path>C:\Users\bpantaru\AppData\Local\Temp\.sonarqube\resources\1\SonarAnalyzer.VisualBasic.dll</Path>
           </AssemblyPaths>
         </AnalyzerPlugin>
         <AnalyzerPlugin Key="securitycsharpfrontend" Version="8.9.0-M1.10592" StaticResourceName="SonarAnalyzer.Security-8.9.0-M1.10592.zip">
           <AssemblyPaths>
-            <Path>C:\Users\bpantaru\AppData\Local\Temp\.sonarqube\resources\8\Google.Protobuf.License.txt</Path>
-            <Path>C:\Users\bpantaru\AppData\Local\Temp\.sonarqube\resources\8\Microsoft.AspNetCore.Razor.Language.dll</Path>
-            <Path>C:\Users\bpantaru\AppData\Local\Temp\.sonarqube\resources\8\SonarAnalyzer.Security.dll</Path>
-            <Path>C:\Users\bpantaru\AppData\Local\Temp\.sonarqube\resources\8\System.Buffers.dll</Path>
-            <Path>C:\Users\bpantaru\AppData\Local\Temp\.sonarqube\resources\8\System.Memory.dll</Path>
-            <Path>C:\Users\bpantaru\AppData\Local\Temp\.sonarqube\resources\8\System.Numerics.Vectors.dll</Path>
-            <Path>C:\Users\bpantaru\AppData\Local\Temp\.sonarqube\resources\8\System.Runtime.CompilerServices.Unsafe.dll</Path>
+            <Path>C:\Users\bpantaru\AppData\Local\Temp\.sonarqube\resources\2\Google.Protobuf.License.txt</Path>
+            <Path>C:\Users\bpantaru\AppData\Local\Temp\.sonarqube\resources\2\Microsoft.AspNetCore.Razor.Language.dll</Path>
+            <Path>C:\Users\bpantaru\AppData\Local\Temp\.sonarqube\resources\2\SonarAnalyzer.Security.dll</Path>
+            <Path>C:\Users\bpantaru\AppData\Local\Temp\.sonarqube\resources\2\System.Buffers.dll</Path>
+            <Path>C:\Users\bpantaru\AppData\Local\Temp\.sonarqube\resources\2\System.Memory.dll</Path>
+            <Path>C:\Users\bpantaru\AppData\Local\Temp\.sonarqube\resources\2\System.Numerics.Vectors.dll</Path>
+            <Path>C:\Users\bpantaru\AppData\Local\Temp\.sonarqube\resources\2\System.Runtime.CompilerServices.Unsafe.dll</Path>
           </AssemblyPaths>
         </AnalyzerPlugin>
       </AnalyzerPlugins>
@@ -177,17 +177,17 @@
       <AnalyzerPlugins>
         <AnalyzerPlugin Key="csharp" Version="8.20.0.28934" StaticResourceName="SonarAnalyzer-8.20.0.28934.zip">
           <AssemblyPaths>
-            <Path>C:\Users\bpantaru\AppData\Local\Temp\.sonarqube\resources\6\Google.Protobuf.dll</Path>
-            <Path>C:\Users\bpantaru\AppData\Local\Temp\.sonarqube\resources\6\SonarAnalyzer.CFG.dll</Path>
-            <Path>C:\Users\bpantaru\AppData\Local\Temp\.sonarqube\resources\6\SonarAnalyzer.CSharp.dll</Path>
-            <Path>C:\Users\bpantaru\AppData\Local\Temp\.sonarqube\resources\6\SonarAnalyzer.dll</Path>
+            <Path>C:\Users\bpantaru\AppData\Local\Temp\.sonarqube\resources\0\Google.Protobuf.dll</Path>
+            <Path>C:\Users\bpantaru\AppData\Local\Temp\.sonarqube\resources\0\SonarAnalyzer.CFG.dll</Path>
+            <Path>C:\Users\bpantaru\AppData\Local\Temp\.sonarqube\resources\0\SonarAnalyzer.CSharp.dll</Path>
+            <Path>C:\Users\bpantaru\AppData\Local\Temp\.sonarqube\resources\0\SonarAnalyzer.dll</Path>
           </AssemblyPaths>
         </AnalyzerPlugin>
         <AnalyzerPlugin Key="vbnet" Version="8.20.0.28934" StaticResourceName="SonarAnalyzer-8.20.0.28934.zip">
           <AssemblyPaths>
-            <Path>C:\Users\bpantaru\AppData\Local\Temp\.sonarqube\resources\7\Google.Protobuf.dll</Path>
-            <Path>C:\Users\bpantaru\AppData\Local\Temp\.sonarqube\resources\7\SonarAnalyzer.dll</Path>
-            <Path>C:\Users\bpantaru\AppData\Local\Temp\.sonarqube\resources\7\SonarAnalyzer.VisualBasic.dll</Path>
+            <Path>C:\Users\bpantaru\AppData\Local\Temp\.sonarqube\resources\1\Google.Protobuf.dll</Path>
+            <Path>C:\Users\bpantaru\AppData\Local\Temp\.sonarqube\resources\1\SonarAnalyzer.dll</Path>
+            <Path>C:\Users\bpantaru\AppData\Local\Temp\.sonarqube\resources\1\SonarAnalyzer.VisualBasic.dll</Path>
           </AssemblyPaths>
         </AnalyzerPlugin>
       </AnalyzerPlugins>

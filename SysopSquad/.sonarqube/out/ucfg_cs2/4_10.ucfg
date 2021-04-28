@@ -1,16 +1,18 @@
 
-8TicketHandling.Microservice.Model.Ticket.Description.getW
-MC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Model\Ticket.cs  (#"0*Å
+8TicketHandling.Microservice.Model.Ticket.Description.setW
+MC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Model\Ticket.cs% (("0*º
 0W
-MC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Model\Ticket.cs$ ($∑
-¥
+MC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Model\Ticket.cs) ()∫
+∑
 W
-MC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Model\Ticket.cs  ($
-%0string"__id*E*C*
+MC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Model\Ticket.cs% ()C*
 (TicketHandling.Microservice.Model.Ticket"
-Descriptionstring"i
+Descriptionstring"__id*
+
+valuestring"†
 W
-MC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Model\Ticket.cs  ($
-
-%0stringB,*
+MC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Model\Ticket.cs% ()E*C*
+(TicketHandling.Microservice.Model.Ticket"
+Descriptionstring:
+valuestringB,*
 (TicketHandling.Microservice.Model.Ticket

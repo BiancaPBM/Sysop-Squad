@@ -1,23 +1,18 @@
 
-MSysopSquad.Startup.Startup(Microsoft.Extensions.Configuration.IConfiguration)A
-7C:\TSP.NET\Sysop-Squad\SysopSquad\SysopSquad\Startup.cs ("1*K
-1A
-7C:\TSP.NET\Sysop-Squad\SysopSquad\SysopSquad\Startup.cs	 (	*
-0*Ñ
-0A
-7C:\TSP.NET\Sysop-Squad\SysopSquad\SysopSquad\Startup.cs ()ƒ
-€
-A
-7C:\TSP.NET\Sysop-Squad\SysopSquad\SysopSquad\Startup.cs ()7
-%01Microsoft.Extensions.Configuration.IConfiguration"$SysopSquad.Startup.Configuration.set*
-SysopSquad.Startup*D
-B
-configuration1Microsoft.Extensions.Configuration.IConfiguration*
-2* 
-2A
-7C:\TSP.NET\Sysop-Squad\SysopSquad\SysopSquad\Startup.cs	 (	"X
-A
-7C:\TSP.NET\Sysop-Squad\SysopSquad\SysopSquad\Startup.cs (	
-implicit return:B
-configuration1Microsoft.Extensions.Configuration.IConfigurationB
-SysopSquad.Startup
+5ReviewHandling.Microservice.Startup.Configuration.setR
+HC:\TSP.NET\Sysop-Squad\SysopSquad\ReviewHandling.Microservice\Startup.cs. (1"0*¨
+0R
+HC:\TSP.NET\Sysop-Squad\SysopSquad\ReviewHandling.Microservice\Startup.cs2 (2ˆ
+…
+R
+HC:\TSP.NET\Sysop-Squad\SysopSquad\ReviewHandling.Microservice\Startup.cs. (2k%
+#ReviewHandling.Microservice.Startup"B
+Configuration1Microsoft.Extensions.Configuration.IConfiguration"__id*<
+:
+value1Microsoft.Extensions.Configuration.IConfiguration"Ã
+R
+HC:\TSP.NET\Sysop-Squad\SysopSquad\ReviewHandling.Microservice\Startup.cs. (2m*k%
+#ReviewHandling.Microservice.Startup"B
+Configuration1Microsoft.Extensions.Configuration.IConfiguration::
+value1Microsoft.Extensions.Configuration.IConfigurationB'%
+#ReviewHandling.Microservice.Startup

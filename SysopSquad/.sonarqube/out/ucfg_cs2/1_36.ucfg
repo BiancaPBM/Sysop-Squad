@@ -1,83 +1,31 @@
 
-ITicketHandling.Microservice.Controllers.TicketsController.GetById(string)g
-]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs0 (7"4*ˇ
-0g
-]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs (≤
-Ø
-g
-]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs  (+8
-%02TicketHandling.Microservice.Data.ITicketRepository"__id*É*Ä;
-9TicketHandling.Microservice.Controllers.TicketsController"A
-_repository2TicketHandling.Microservice.Data.ITicketRepositoryπ∂
-g
-]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs  (7*
-%1$System.Threading.Tasks.Task<TResult>"BTicketHandling.Microservice.Data.ITicketRepository.GetById(string)*:
-8
-%02TicketHandling.Microservice.Data.ITicketRepository*
-
-idstring2GetById(string)Æ
-´
-g
-]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs (72
-ticket(TicketHandling.Microservice.Model.Ticket"__id*
-""Ê
-„
-g
-]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs (
-
-%2bool""object.operator ==(object, object)*
-"
-object*4
-2
-ticket(TicketHandling.Microservice.Model.Ticket*
-""*
-1
-2*î
-1g
-]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs! !(àÖ
-g
-]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs! !(-
-%3'Microsoft.AspNetCore.Mvc.NotFoundResult"2Microsoft.AspNetCore.Mvc.ControllerBase.NotFound()*+)
-'Microsoft.AspNetCore.Mvc.ControllerBase2
-NotFound()"ö
-g
-]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs! !(/
--
-%3'Microsoft.AspNetCore.Mvc.NotFoundResult*é
-2g
-]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs# #("ü
-g
-]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs#
- #(4
-2
-ticket(TicketHandling.Microservice.Model.Ticket*Ï
-3g
-]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs$	 $(	"~
-g
-]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs$ $(	
-implicit return*
-4g
-]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.csB (Bê
-ç
-g
-]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs0 (7
-%4"__entrypoint*
-
-idstring÷
-”
-g
-]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs	 (
-%5"
-__annotate*FD
-BMicrosoft.AspNetCore.Mvc.HttpGetAttribute.HttpGetAttribute(string)*
-
-idstringê
-ç
-g
-]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs8 (A
-idstring"__annotation*
-
-%5*
-0:
-idstringB=;
-9TicketHandling.Microservice.Controllers.TicketsController
+?TicketHandling.Microservice.Program.CreateHostBuilder(string[])R
+HC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Program.cs# (4"0*´
+0R
+HC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Program.cs (Ö
+Ç
+R
+HC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Program.cs (+/
+%0)Microsoft.Extensions.Hosting.IHostBuilder"@Microsoft.Extensions.Hosting.Host.CreateDefaultBuilder(string[])*%"#
+!Microsoft.Extensions.Hosting.Host*
+
+argsstring[]ø
+º
+R
+HC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Program.cs (/
+%1)Microsoft.Extensions.Hosting.IHostBuilder"∫Microsoft.Extensions.Hosting.GenericHostBuilderExtensions.ConfigureWebHostDefaults(Microsoft.Extensions.Hosting.IHostBuilder, System.Action<Microsoft.AspNetCore.Hosting.IWebHostBuilder>)*=";
+9Microsoft.Extensions.Hosting.GenericHostBuilderExtensions*1
+/
+%0)Microsoft.Extensions.Hosting.IHostBuilder*
+"""á
+R
+HC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Program.cs (1
+/
+%1)Microsoft.Extensions.Hosting.IHostBuilder*¬
+1R
+HC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Program.cs ("i
+R
+HC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Program.cs (
+implicit return:
+argsstring[]B'"%
+#TicketHandling.Microservice.Program

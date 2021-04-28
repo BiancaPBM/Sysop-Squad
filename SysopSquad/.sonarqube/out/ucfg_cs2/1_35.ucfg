@@ -1,33 +1,38 @@
 
-ITicketHandling.Microservice.Controllers.TicketsController.OrderByReview()g
-]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs&/ &(<"2*À
-0g
-]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs( ((2²
-¯
-g
-]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs( (("8
-%02TicketHandling.Microservice.Data.ITicketRepository"__id*ƒ*€;
-9TicketHandling.Microservice.Controllers.TicketsController"A
-_repository2TicketHandling.Microservice.Data.ITicketRepository©¦
-g
-]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs( ((2*
-%1$System.Threading.Tasks.Task<TResult>"BTicketHandling.Microservice.Data.ITicketRepository.OrderByReview()*:
-8
-%02TicketHandling.Microservice.Data.ITicketRepository2OrderByReview()"q
-g
-]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs(
- ((3
-""*ì
-1g
-]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs)	 )(	"~
-g
-]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs) )(	
-implicit return*ò
-2g
-]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs&> &(>
-}
-g
-]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs&/ &(<
-%2"__entrypoint*
-0B=;
-9TicketHandling.Microservice.Controllers.TicketsController
+eTicketHandling.Microservice.Data.TicketRepository.AddTicket(TicketHandling.Microservice.Model.Ticket)`
+VC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Data\TicketRepository.cs ("0*ý
+0`
+VC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Data\TicketRepository.cs (4’
+
+`
+VC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Data\TicketRepository.cs (2
+%0,TicketHandling.Microservice.Data.DataContext"__id*q*o3
+1TicketHandling.Microservice.Data.TicketRepository"8
+_context,TicketHandling.Microservice.Data.DataContext‡
+„
+`
+VC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Data\TicketRepository.cs (0
+%1*MongoDB.Driver.IMongoCollection<TDocument>"8TicketHandling.Microservice.Data.DataContext.Tickets.get*4
+2
+%0,TicketHandling.Microservice.Data.DataContextîë
+`
+VC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Data\TicketRepository.cs (5!
+%2System.Threading.Tasks.Task"‰MongoDB.Driver.IMongoCollection<TDocument>.InsertOneAsync(TDocument, MongoDB.Driver.InsertOneOptions, System.Threading.CancellationToken)*2
+0
+%1*MongoDB.Driver.IMongoCollection<TDocument>*4
+2
+ticket(TicketHandling.Microservice.Model.Ticket*
+""*
+""2^InsertOneAsync(TDocument, MongoDB.Driver.InsertOneOptions, System.Threading.CancellationToken)*
+1
+2*j
+1`
+VC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Data\TicketRepository.cs (*
+2*Þ
+2`
+VC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Data\TicketRepository.cs ("w
+`
+VC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Data\TicketRepository.cs (
+implicit return:2
+ticket(TicketHandling.Microservice.Model.TicketB53
+1TicketHandling.Microservice.Data.TicketRepository

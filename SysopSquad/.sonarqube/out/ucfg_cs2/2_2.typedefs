@@ -1,6 +1,7 @@
-Ì
--Account.Microservice.Migrations.InitialCreate2Microsoft.EntityFrameworkCore.Migrations.Migrationobject¬
-=Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)kAccount.Microservice.Migrations.InitialCreate.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)°
-?Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)mAccount.Microservice.Migrations.InitialCreate.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)ª
-<BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)jAccount.Microservice.Migrations.InitialCreate.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)P
-InitialCreate()=Account.Microservice.Migrations.InitialCreate.InitialCreate()
+Ë
+SysopSquad.Startupobject‹
+:Startup(Microsoft.Extensions.Configuration.IConfiguration)MSysopSquad.Startup.Startup(Microsoft.Extensions.Configuration.IConfiguration)³
+NConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)aSysopSquad.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)ò
+mConfigure(Microsoft.AspNetCore.Builder.IApplicationBuilder, Microsoft.AspNetCore.Hosting.IWebHostEnvironment)€SysopSquad.Startup.Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder, Microsoft.AspNetCore.Hosting.IWebHostEnvironment)9
+Configuration.get$SysopSquad.Startup.Configuration.get9
+Configuration.set$SysopSquad.Startup.Configuration.set
