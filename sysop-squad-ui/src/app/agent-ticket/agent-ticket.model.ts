@@ -1,0 +1,13 @@
+export class Ticket{
+    id: string = "";
+    description: string ="";
+    user: string ="";
+    agent: string = "";
+    runtime: string = "";
+    rating: string = ""; 
+    reviews: string = "";
+
+  
+
+   constructor (){}
+}

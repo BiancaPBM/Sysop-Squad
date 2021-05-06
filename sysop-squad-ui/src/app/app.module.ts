@@ -53,6 +53,7 @@ import { AgentSolutionsComponent } from './agent-solutions/agent-solutions.compo
 import { MyProfileComponent } from './my-profile/my-profile.component';
 import { NavbarComponent } from './navbar/navbar.component';
 import { SettingsComponent } from './settings/settings.component';
+import { AgentTicketComponent } from './agent-ticket/agent-ticket.component';
 
 
 const materialModules = [
@@ -103,7 +104,8 @@ const materialModules = [
     AgentSolutionsComponent,
     NavbarComponent,
     MyProfileComponent,
-    SettingsComponent
+    SettingsComponent,
+    AgentTicketComponent
   ],
   imports: [
     BrowserModule,

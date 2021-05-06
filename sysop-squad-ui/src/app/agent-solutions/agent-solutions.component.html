@@ -1,36 +1,6 @@
 <div class="techy_background">
-<div class="small_spacer">.</div>
-<div class="solution" style="margin-top: 3.5%;">
-    <h3 style="color: gray; margin-top: 3%; ">Me laptop iz brokien</h3>
-  <form class="example-form">
-      <mat-form-field class="example-full-width" style="margin-top: 2%;">
-        <mat-label>Fix</mat-label>
-        <input matInput >
-      </mat-form-field>
-      <button class="mat-icon-button" type="submit" style="float: right; margin-bottom: 2%;">Submit fix</button>
-    </form>
-  </div>
-
-  <div class="solution">
-    <h3 style="color: gray; margin-top: 1%;">Me phone iz not opiening</h3>
-  <form class="example-form">
-      <mat-form-field class="example-full-width" style="margin-top: 2%;">
-        <mat-label>Fix</mat-label>
-        <input matInput >
-      </mat-form-field>
-      <button class="mat-icon-button" type="submit" style="float: right; margin-bottom: 2%;">Submit fix</button>
-    </form>
-  </div>
-
-  <div class="solution">
-    <h3 style="color: gray; margin-top: 1%;">Ai nid ei new xbocsf</h3>
-  <form class="example-form">
-      <mat-form-field class="example-full-width" style="margin-top: 2%;">
-        <mat-label>Fix</mat-label>
-        <input matInput >
-      </mat-form-field>
-      <button class="mat-icon-button" type="submit" style="float: right; margin-bottom: 2%;">Submit fix</button>
-    </form>
-  </div>
+<div class="small_spacer"style="margin-top: 3.5%;">.</div>
+<div class="content" *ngFor = "let ticket of tickets">
+  <ticket [ticket] = ticket></ticket>   
 </div>
 <router-outlet></router-outlet>
