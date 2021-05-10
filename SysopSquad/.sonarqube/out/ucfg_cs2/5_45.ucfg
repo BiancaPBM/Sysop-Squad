@@ -1,0 +1,64 @@
+
+ATicketHandling.Microservice.Data.TicketRepository.OrderByReview()`
+VC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Data\TicketRepository.csN+ N(8"0*m
+0`
+VC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Data\TicketRepository.csZ Z(*
+1
+2*Ç
+1`
+VC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Data\TicketRepository.csR S(?í
+è
+`
+VC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Data\TicketRepository.csR R(2
+%0,TicketHandling.Microservice.Data.DataContext"__id*q*o3
+1TicketHandling.Microservice.Data.TicketRepository"8
+_context,TicketHandling.Microservice.Data.DataContextá
+Ñ
+`
+VC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Data\TicketRepository.csR R(%0
+%1*MongoDB.Driver.IMongoCollection<TDocument>"8TicketHandling.Microservice.Data.DataContext.Tickets.get*4
+2
+%0,TicketHandling.Microservice.Data.DataContextÿ
+’
+`
+VC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Data\TicketRepository.csR R(:8
+%22MongoDB.Driver.IFindFluent<TDocument, TProjection>"√MongoDB.Driver.IMongoCollectionExtensions.Find<TDocument>(MongoDB.Driver.IMongoCollection<TDocument>, System.Linq.Expressions.Expression<System.Func<TDocument, bool>>, MongoDB.Driver.FindOptions)*-"+
+)MongoDB.Driver.IMongoCollectionExtensions*2
+0
+%1*MongoDB.Driver.IMongoCollection<TDocument>*
+""*
+""‹
+Ÿ
+`
+VC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Data\TicketRepository.csR S(6?
+%39MongoDB.Driver.IOrderedFindFluent<TDocument, TProjection>"≈MongoDB.Driver.IFindFluentExtensions.SortByDescending<TDocument, TProjection>(MongoDB.Driver.IFindFluent<TDocument, TProjection>, System.Linq.Expressions.Expression<System.Func<TDocument, object>>)*("&
+$MongoDB.Driver.IFindFluentExtensions*:
+8
+%22MongoDB.Driver.IFindFluent<TDocument, TProjection>*
+""µ≤
+`
+VC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Data\TicketRepository.csR S(@8
+%42MongoDB.Driver.IFindFluent<TDocument, TProjection>">MongoDB.Driver.IFindFluent<TDocument, TProjection>.Limit(int?)*A
+?
+%39MongoDB.Driver.IOrderedFindFluent<TDocument, TProjection>*2
+2Limit(int?)ù
+ö
+`
+VC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Data\TicketRepository.csR T(*
+%5$System.Threading.Tasks.Task<TResult>"îMongoDB.Driver.IAsyncCursorSourceExtensions.ToListAsync<TDocument>(MongoDB.Driver.IAsyncCursorSource<TDocument>, System.Threading.CancellationToken)*/"-
++MongoDB.Driver.IAsyncCursorSourceExtensions*:
+8
+%42MongoDB.Driver.IFindFluent<TDocument, TProjection>*
+"""j
+`
+VC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Data\TicketRepository.csR T(
+""*j
+2`
+VC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Data\TicketRepository.csZ Z(*
+3*ﬁ
+3`
+VC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Data\TicketRepository.csZ Z("w
+`
+VC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Data\TicketRepository.csZ Z(
+implicit returnB53
+1TicketHandling.Microservice.Data.TicketRepository

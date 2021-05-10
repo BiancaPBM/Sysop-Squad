@@ -1,0 +1,7 @@
+Ë
+SysopSquad.Startupobject‹
+:Startup(Microsoft.Extensions.Configuration.IConfiguration)MSysopSquad.Startup.Startup(Microsoft.Extensions.Configuration.IConfiguration)³
+NConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)aSysopSquad.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)ò
+mConfigure(Microsoft.AspNetCore.Builder.IApplicationBuilder, Microsoft.AspNetCore.Hosting.IWebHostEnvironment)€SysopSquad.Startup.Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder, Microsoft.AspNetCore.Hosting.IWebHostEnvironment)9
+Configuration.get$SysopSquad.Startup.Configuration.get9
+Configuration.set$SysopSquad.Startup.Configuration.set

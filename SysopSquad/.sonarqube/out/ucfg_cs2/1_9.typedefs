@@ -1,5 +1,6 @@
-á
-2Account.Microservice.Controllers.AccountController'Microsoft.AspNetCore.Mvc.ControllerBaseobjectÔ
-õAccountController(Microsoft.AspNetCore.Identity.UserManager<Account.Microservice.Model.ApplicationUser>, Microsoft.Extensions.Configuration.IConfiguration)ŒAccount.Microservice.Controllers.AccountController.AccountController(Microsoft.AspNetCore.Identity.UserManager<Account.Microservice.Model.ApplicationUser>, Microsoft.Extensions.Configuration.IConfiguration)è
-,Login(Account.Microservice.Model.LoginModel)_Account.Microservice.Controllers.AccountController.Login(Account.Microservice.Model.LoginModel)õ
-2Register(Account.Microservice.Model.RegisterModel)eAccount.Microservice.Controllers.AccountController.Register(Account.Microservice.Model.RegisterModel)
+Ã
+-Account.Microservice.Migrations.InitialCreate2Microsoft.EntityFrameworkCore.Migrations.Migrationobject¨
+=Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)kAccount.Microservice.Migrations.InitialCreate.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)∞
+?Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)mAccount.Microservice.Migrations.InitialCreate.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)™
+<BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)jAccount.Microservice.Migrations.InitialCreate.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)P
+InitialCreate()=Account.Microservice.Migrations.InitialCreate.InitialCreate()

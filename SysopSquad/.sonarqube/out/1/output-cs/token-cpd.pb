@@ -478,7 +478,7 @@ StatusCodeZZ 
 ;\\ 
 }]] 
 }^^ 
-}__ ì
+}__ ³
 SC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Data\ApplicationDbContext.cs
 	namespace		 	
 Account		
@@ -515,9 +515,28 @@ SC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Data\ApplicationDbContex
 optionsW ^
 )^ _
 { 
-} 
-} 
-} ßÅ
+} 
+	protected 
+override 
+void 
+OnModelCreating +
+(+ ,
+ModelBuilder, 8
+builder9 @
+)@ A
+{ 
+base 
+
+.
+ 
+OnModelCreating 
+( 
+builder "
+)" #
+;# $
+} 
+} 
+} ßÅ
 aC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Migrations\20210419194739_InitialCreate.cs
 	namespace 	
 Account
@@ -2542,7 +2561,7 @@ HC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Model\Response.cs
 ;$ %
 }& '
 } 
-} Ó
+} ¿
 
 AC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Program.cs
 	namespace
@@ -2560,10 +2579,9 @@ AC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Program.cs
  
 { 
 public 
-
-static 
-class 
-Program  
+
+class 
+Program 
 { 
 public 
 static 
@@ -2629,477 +2647,475 @@ UseStartup )
 ) 
 ; 
 } 
-} ¬@
+} ˆ@
 AC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Startup.cs
-	namespace 	
-Account
+	namespace 	
+Account
  
-. 
-Microservice 
-{ 
-public 
+. 
+Microservice 
+{ 
+public 
 
-class 
-Startup 
-{ 
-public 
-Startup 
-( 
-IConfiguration %
-configuration& 3
-)3 4
-{ 	
-Configuration 
-= 
-configuration )
-;) *
-} 	
-public 
-IConfiguration 
-Configuration +
-{, -
-get. 1
-;1 2
-}3 4
-public 
-void 
-ConfigureServices %
-(% &
-IServiceCollection& 8
-services9 A
-)A B
-{ 
+class 
+Startup 
+{ 
+public 
+Startup 
+( 
+IConfiguration %
+configuration& 3
+)3 4
+{ 	
+Configuration 
+= 
+configuration )
+;) *
+} 	
+public 
+IConfiguration 
+Configuration +
+{, -
+get. 1
+;1 2
+}3 4
+public 
+void 
+ConfigureServices %
+(% &
+IServiceCollection& 8
+services9 A
+)A B
+{ 
+services 
+. 
+AddControllers 
+( 
+) 
+;  
 services 
-. 
-AddControllers 
-( 
-) 
-;  
-services   
-.   
-AddDbContext   
-<    
-ApplicationDbContext   0
->  0 1
-(  1 2
-options  2 9
-=>  : <
-options  = D
-.  D E
-UseSqlServer  E Q
-(  Q R
-Configuration  R _
-.  _ `
-GetConnectionString  ` s
-(  s t
-$str  t }
-)  } ~
-)  ~ 
-)	   €
+. 
+AddDbContext 
+<  
+ApplicationDbContext 0
+>0 1
+(1 2
+options2 9
+=>: <
+options= D
+.D E
+UseSqlServerE Q
+(Q R
+ConfigurationR _
+._ `
+GetConnectionString` s
+(s t
+$strt }
+)} ~
+)~ 
+)	 €
 ;
-  € 
-services## 
-.## 
-AddIdentity## 
-<## 
-ApplicationUser## *
-,##* +
-IdentityRole##, 8
+€ 
+services"" 
+."" 
+AddIdentity"" 
+<"" 
+ApplicationUser"" *
+,""* +
+IdentityRole"", 8
+>""8 9
+(""9 :
+)"": ;
+.##
+ $
+AddEntityFrameworkStores## #
+<### $ 
+ApplicationDbContext##$ 8
 >##8 9
 (##9 :
 )##: ;
 .$$
  $
-AddEntityFrameworkStores$$ #
-<$$# $ 
-ApplicationDbContext$$$ 8
->$$8 9
-($$9 :
-)$$: ;
-.%%
- $
-AddDefaultTokenProviders%% #
-(%%# $
-)%%$ %
-;%%% &
-services(( 
-.(( 
-AddAuthentication((  
-(((  !
-options((! (
-=>(() +
-{)) 
+AddDefaultTokenProviders$$ #
+($$# $
+)$$$ %
+;$$% &
+services'' 
+.'' 
+AddAuthentication''  
+(''  !
+options''! (
+=>'') +
+{(( 
+options)) 
+.)) %
+DefaultAuthenticateScheme)) )
+=))* +
+JwtBearerDefaults)), =
+.))= > 
+AuthenticationScheme))> R
+;))R S
 options** 
-.** %
-DefaultAuthenticateScheme** )
-=*** +
-JwtBearerDefaults**, =
-.**= > 
-AuthenticationScheme**> R
-;**R S
+.** "
+DefaultChallengeScheme** &
+=**' (
+JwtBearerDefaults**) :
+.**: ; 
+AuthenticationScheme**; O
+;**O P
 options++ 
-.++ "
-DefaultChallengeScheme++ &
-=++' (
-JwtBearerDefaults++) :
-.++: ; 
-AuthenticationScheme++; O
-;++O P
-options,, 
-.,, 
-DefaultScheme,, 
-=,, 
-JwtBearerDefaults,,  1
-.,,1 2 
-AuthenticationScheme,,2 F
-;,,F G
-}-- 
-)-- 
-.00 
-AddJwtBearer00 
-(00 
-options00 
-=>00 
-{11 
+.++ 
+DefaultScheme++ 
+=++ 
+JwtBearerDefaults++  1
+.++1 2 
+AuthenticationScheme++2 F
+;++F G
+},, 
+),, 
+.// 
+AddJwtBearer// 
+(// 
+options// 
+=>// 
+{00 
+options11 
+.11 
+	SaveToken11 
+=11 
+true11  
+;11  !
 options22 
-.22 
-	SaveToken22 
-=22 
-true22  
-;22  !
+.22  
+RequireHttpsMetadata22 $
+=22% &
+false22' ,
+;22, -
 options33 
-.33  
-RequireHttpsMetadata33 $
-=33% &
-false33' ,
-;33, -
-options44 
-.44 %
-TokenValidationParameters44 )
-=44* +
-new44, /%
-TokenValidationParameters440 I
-(44I J
-)44J K
-{55 	
-ValidateIssuer66
+.33 %
+TokenValidationParameters33 )
+=33* +
+new33, /%
+TokenValidationParameters330 I
+(33I J
+)33J K
+{44 	
+ValidateIssuer55
  
-=66 
-true66 
-,66  
-ValidateAudience77
+=55 
+true55 
+,55  
+ValidateAudience66
  
-=77 
-true77 !
-,77! "
-ValidAudience88
+=66 
+true66 !
+,66! "
+ValidAudience77
  
-=88 
-Configuration88 '
-[88' (
-$str88( ;
-]88; <
-,88< =
-ValidIssuer99
+=77 
+Configuration77 '
+[77' (
+$str77( ;
+]77; <
+,77< =
+ValidIssuer88
  
-=99 
-Configuration99 %
-[99% &
-$str99& 7
-]997 8
-,998 9
-IssuerSigningKey::
+=88 
+Configuration88 %
+[88% &
+$str88& 7
+]887 8
+,888 9
+IssuerSigningKey99
  
-=:: 
-new::   
-SymmetricSecurityKey::! 5
-(::5 6
-Encoding::6 >
-.::> ?
-UTF8::? C
-.::C D
-GetBytes::D L
-(::L M
-Configuration::M Z
-[::Z [
-$str::[ g
-]::g h
-)::h i
-)::i j
-};; 	
-;;;	 
+=99 
+new99   
+SymmetricSecurityKey99! 5
+(995 6
+Encoding996 >
+.99> ?
+UTF899? C
+.99C D
+GetBytes99D L
+(99L M
+Configuration99M Z
+[99Z [
+$str99[ g
+]99g h
+)99h i
+)99i j
+}:: 	
+;::	 
 
-}<< 
-)<< 
-;<< 	
-services>> 
-.>> 
-AddSwaggerGen>> 
-(>> 
-swagger>> $
-=>>>% '
-{?? 
-swaggerAA 
-.AA 
+};; 
+);; 
+;;; 	
+services== 
+.== 
+AddSwaggerGen== 
+(== 
+swagger== $
+=>==% '
+{>> 
+swagger@@ 
+.@@ 
 
-SwaggerDocAA 
-(AA 
-$strAA 
-,AA  
-newAA! $
-OpenApiInfoAA% 0
-{BB 	
-VersionCC
+SwaggerDoc@@ 
+(@@ 
+$str@@ 
+,@@  
+new@@! $
+OpenApiInfo@@% 0
+{AA 	
+VersionBB
  
-=CC 
-$strCC 
-,CC 
-TitleDD
+=BB 
+$strBB 
+,BB 
+TitleCC
  
-=DD 
-$strDD %
-,DD% &
-DescriptionEE
+=CC 
+$strCC %
+,CC% &
+DescriptionDD
  
-=EE 
-$strEE \
-}FF 	
-)FF	 
+=DD 
+$strDD \
+}EE 	
+)EE	 
 
-;FF
+;EE
  
-swaggerHH 
-.HH !
-AddSecurityDefinitionHH %
-(HH% &
-$strHH& .
-,HH. /
-newHH0 3!
-OpenApiSecuritySchemeHH4 I
-(HHI J
-)HHJ K
-{II 	
-NameJJ
+swaggerGG 
+.GG !
+AddSecurityDefinitionGG %
+(GG% &
+$strGG& .
+,GG. /
+newGG0 3!
+OpenApiSecuritySchemeGG4 I
+(GGI J
+)GGJ K
+{HH 	
+NameII
  
-=JJ 
-$strJJ  
-,JJ  !
-TypeKK
+=II 
+$strII  
+,II  !
+TypeJJ
  
-=KK 
-SecuritySchemeTypeKK #
-.KK# $
-ApiKeyKK$ *
-,KK* +
-SchemeLL
+=JJ 
+SecuritySchemeTypeJJ #
+.JJ# $
+ApiKeyJJ$ *
+,JJ* +
+SchemeKK
  
-=LL 
-$strLL 
-,LL 
-BearerFormatMM
+=KK 
+$strKK 
+,KK 
+BearerFormatLL
  
-=MM 
-$strMM 
-,MM 
-InNN
+=LL 
+$strLL 
+,LL 
+InMM
  
-=NN 
-ParameterLocationNN  
-.NN  !
-HeaderNN! '
-,NN' (
-DescriptionOO
+=MM 
+ParameterLocationMM  
+.MM  !
+HeaderMM! '
+,MM' (
+DescriptionNN
  
-=OO 
-$str	OO £
+=NN 
+$str	NN £
 ,
-OO£ ¤
-}PP 	
-)PP	 
+NN£ ¤
+}OO 	
+)OO	 
 
-;PP
+;OO
  
-swaggerQQ 
-.QQ "
-AddSecurityRequirementQQ &
-(QQ& '
-newQQ' *&
-OpenApiSecurityRequirementQQ+ E
-{RR 
-{SS 
-newTT !
-OpenApiSecuritySchemeTT 3
-{UU 
-	ReferenceVV  )
-=VV* +
-newVV, /
-OpenApiReferenceVV0 @
-{WW  !
-TypeXX$ (
-=XX) *
-ReferenceTypeXX+ 8
-.XX8 9
-SecuritySchemeXX9 G
-,XXG H
-IdYY$ &
-=YY' (
-$strYY) 1
-}ZZ  !
-}[[ 
-,[[ 
-Array\\ !
-.\\! "
-Empty\\" '
-<\\' (
-string\\( .
->\\. /
-(\\/ 0
-)\\0 1
-}]] 
-}^^ 
-)^^ 
-;^^ 
-}__ 
-)__ 
-;__ 	
-services`` 
-.`` 
-AddCors`` 
-(`` 
-c`` 
-=>`` 
-{aa 
-cbb 	
-.bb	 
+swaggerPP 
+.PP "
+AddSecurityRequirementPP &
+(PP& '
+newPP' *&
+OpenApiSecurityRequirementPP+ E
+{QQ 
+{RR 
+newSS !
+OpenApiSecuritySchemeSS 3
+{TT 
+	ReferenceUU  )
+=UU* +
+newUU, /
+OpenApiReferenceUU0 @
+{VV  !
+TypeWW$ (
+=WW) *
+ReferenceTypeWW+ 8
+.WW8 9
+SecuritySchemeWW9 G
+,WWG H
+IdXX$ &
+=XX' (
+$strXX) 1
+}YY  !
+}ZZ 
+,ZZ 
+new[[ 
+string[[  &
+[[[& '
+][[' (
+{[[) *
+}[[* +
+}\\ 
+}]] 
+)]] 
+;]] 
+}^^ 
+)^^ 
+;^^ 	
+services__ 
+.__ 
+AddCors__ 
+(__ 
+c__ 
+=>__ 
+{`` 
+caa 	
+.aa	 
 
-	AddPolicybb
+	AddPolicyaa
  
-(bb 
-$strbb !
-,bb! "
-optionsbb# *
-=>bb+ -
-optionsbb. 5
-.bb5 6
-AllowAnyOriginbb6 D
-(bbD E
-)bbE F
-)bbF G
-;bbG H
-}cc 
-)cc 
-;cc 	
-}dd 
-publicgg 
+(aa 
+$straa !
+,aa! "
+optionsaa# *
+=>aa+ -
+optionsaa. 5
+.aa5 6
+AllowAnyOriginaa6 D
+(aaD E
+)aaE F
+)aaF G
+;aaG H
+}bb 
+)bb 
+;bb 	
+}cc 
+publicff 
 
-voidgg 
-	Configuregg 
-(gg 
-IApplicationBuildergg -
-appgg. 1
-,gg1 2
-IWebHostEnvironmentgg3 F
-envggG J
-)ggJ K
-{hh 	
-appii
+voidff 
+	Configureff 
+(ff 
+IApplicationBuilderff -
+appff. 1
+,ff1 2
+IWebHostEnvironmentff3 F
+envffG J
+)ffJ K
+{gg 	
+apphh
  
-.ii 
-UseCorsii 
-(ii 
-optionsii 
-=>ii  
-optionsii! (
-.ii( )
-AllowAnyOriginii) 7
-(ii7 8
-)ii8 9
-.ii9 :
-AllowAnyMethodii: H
-(iiH I
-)iiI J
-.jj 
-AllowAnyHeaderjj 
+.hh 
+UseCorshh 
+(hh 
+optionshh 
+=>hh  
+optionshh! (
+.hh( )
+AllowAnyOriginhh) 7
+(hh7 8
+)hh8 9
+.hh9 :
+AllowAnyMethodhh: H
+(hhH I
+)hhI J
+.ii 
+AllowAnyHeaderii 
+(ii 
+)ii 
+)ii 
+;ii 
+ifjj 
+(jj	 
+
+envjj
+ 
+.jj 
+IsDevelopmentjj 
 (jj 
 )jj 
 )jj 
-;jj 
-ifkk 
-(kk	 
-
-envkk
- 
-.kk 
-IsDevelopmentkk 
-(kk 
-)kk 
-)kk 
-{ll 
+{kk 
+appll 
+.ll %
+UseDeveloperExceptionPagell -
+(ll- .
+)ll. /
+;ll/ 0
 appmm 
-.mm %
-UseDeveloperExceptionPagemm -
-(mm- .
-)mm. /
-;mm/ 0
+.mm 
+
+UseSwaggermm 
+(mm 
+)mm  
+;mm  !
 appnn 
-.nn 
+.nn 
+UseSwaggerUInn  
+(nn  !
+cnn! "
+=>nn# %
+cnn& '
+.nn' (
+SwaggerEndpointnn( 7
+(nn7 8
+$strnn8 R
+,nnR S
+$strnnT m
+)nnm n
+)nnn o
+;nno p
+}oo 
+appqq 
+.qq 
+UseHttpsRedirectionqq #
+(qq# $
+)qq$ %
+;qq% &
+appss 
+.ss 
 
-UseSwaggernn 
-(nn 
-)nn  
-;nn  !
-appoo 
-.oo 
-UseSwaggerUIoo  
-(oo  !
-coo! "
-=>oo# %
-coo& '
-.oo' (
-SwaggerEndpointoo( 7
-(oo7 8
-$stroo8 R
-,ooR S
-$strooT m
-)oom n
-)oon o
-;ooo p
-}pp 
-apprr 
-.rr 
-UseHttpsRedirectionrr #
-(rr# $
-)rr$ %
-;rr% &
-apptt 
-.tt 
-
-UseRoutingtt 
-(tt 
-)tt 
-;tt 
-appvv 
-.vv 
-UseAuthorizationvv  
-(vv  !
-)vv! "
-;vv" #
-appxx 
-.xx 
-UseEndpointsxx 
-(xx 
-	endpointsxx &
-=>xx' )
-{yy 
-	endpointszz 
-.zz 
-MapControllerszz (
-(zz( )
-)zz) *
-;zz* +
-}{{ 
-){{ 
-;{{ 
-}|| 	
-}}} 
-}~~ 
+UseRoutingss 
+(ss 
+)ss 
+;ss 
+appuu 
+.uu 
+UseAuthorizationuu  
+(uu  !
+)uu! "
+;uu" #
+appww 
+.ww 
+UseEndpointsww 
+(ww 
+	endpointsww &
+=>ww' )
+{xx 
+	endpointsyy 
+.yy 
+MapControllersyy (
+(yy( )
+)yy) *
+;yy* +
+}zz 
+)zz 
+;zz 
+}{{ 	
+}|| 
+}}} 

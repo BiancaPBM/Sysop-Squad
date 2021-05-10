@@ -1,4 +1,5 @@
-À
-AAccount.Microservice.Migrations.ApplicationDbContextModelSnapshot:Microsoft.EntityFrameworkCore.Infrastructure.ModelSnapshotobject≤
-6BuildModel(Microsoft.EntityFrameworkCore.ModelBuilder)xAccount.Microservice.Migrations.ApplicationDbContextModelSnapshot.BuildModel(Microsoft.EntityFrameworkCore.ModelBuilder)å
-#ApplicationDbContextModelSnapshot()eAccount.Microservice.Migrations.ApplicationDbContextModelSnapshot.ApplicationDbContextModelSnapshot()
+á
+2Account.Microservice.Controllers.AccountController'Microsoft.AspNetCore.Mvc.ControllerBaseobjectÔ
+õAccountController(Microsoft.AspNetCore.Identity.UserManager<Account.Microservice.Model.ApplicationUser>, Microsoft.Extensions.Configuration.IConfiguration)ŒAccount.Microservice.Controllers.AccountController.AccountController(Microsoft.AspNetCore.Identity.UserManager<Account.Microservice.Model.ApplicationUser>, Microsoft.Extensions.Configuration.IConfiguration)è
+,Login(Account.Microservice.Model.LoginModel)_Account.Microservice.Controllers.AccountController.Login(Account.Microservice.Model.LoginModel)õ
+2Register(Account.Microservice.Model.RegisterModel)eAccount.Microservice.Controllers.AccountController.Register(Account.Microservice.Model.RegisterModel)

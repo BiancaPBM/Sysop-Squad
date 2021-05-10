@@ -20,37 +20,10 @@
   </Settings>
   <Rules>
     <Rule>
-      <Key>S2115</Key>
-    </Rule>
-    <Rule>
       <Key>S3443</Key>
     </Rule>
     <Rule>
-      <Key>S3329</Key>
-    </Rule>
-    <Rule>
-      <Key>S4502</Key>
-    </Rule>
-    <Rule>
-      <Key>S5542</Key>
-    </Rule>
-    <Rule>
-      <Key>S4423</Key>
-    </Rule>
-    <Rule>
-      <Key>S4426</Key>
-    </Rule>
-    <Rule>
       <Key>S3330</Key>
-    </Rule>
-    <Rule>
-      <Key>S2053</Key>
-    </Rule>
-    <Rule>
-      <Key>S5122</Key>
-    </Rule>
-    <Rule>
-      <Key>S2092</Key>
     </Rule>
     <Rule>
       <Key>S3925</Key>
@@ -60,6 +33,9 @@
     </Rule>
     <Rule>
       <Key>S5547</Key>
+    </Rule>
+    <Rule>
+      <Key>S5542</Key>
     </Rule>
     <Rule>
       <Key>S5753</Key>
@@ -81,6 +57,9 @@
     </Rule>
     <Rule>
       <Key>S4210</Key>
+    </Rule>
+    <Rule>
+      <Key>S4423</Key>
     </Rule>
     <Rule>
       <Key>S1155</Key>
@@ -128,6 +107,9 @@
       <Key>S5443</Key>
     </Rule>
     <Rule>
+      <Key>S2053</Key>
+    </Rule>
+    <Rule>
       <Key>S4036</Key>
     </Rule>
     <Rule>
@@ -138,6 +120,9 @@
     </Rule>
     <Rule>
       <Key>S2245</Key>
+    </Rule>
+    <Rule>
+      <Key>S4426</Key>
     </Rule>
     <Rule>
       <Key>S927</Key>
@@ -192,6 +177,9 @@
     </Rule>
     <Rule>
       <Key>S2583</Key>
+    </Rule>
+    <Rule>
+      <Key>S3329</Key>
     </Rule>
     <Rule>
       <Key>S2688</Key>
@@ -285,6 +273,9 @@
     </Rule>
     <Rule>
       <Key>S2178</Key>
+    </Rule>
+    <Rule>
+      <Key>S2092</Key>
     </Rule>
     <Rule>
       <Key>S1104</Key>

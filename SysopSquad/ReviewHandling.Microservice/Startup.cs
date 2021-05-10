@@ -14,7 +14,7 @@ using System.Threading.Tasks;
 
 namespace ReviewHandling.Microservice
 {
-    public class Startup
+    public static class Startup
     {
         public Startup(IConfiguration configuration)
         {
