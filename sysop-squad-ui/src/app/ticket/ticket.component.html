@@ -3,11 +3,12 @@
       <mat-card-title>{{ticket.description}}</mat-card-title>
     </mat-card-header>
     <mat-card-content>
-      <p>
+      <p class="text_margin">
         {{ticket.user}} - {{ticket.agent}}
       </p>
+      
+        <div class="card_status text_margin">Status: ACTIVE</div>
+      
     </mat-card-content>
-    <mat-card-actions class="wrapper">
-      <div class="card_status">Status:</div><div class="green_status">ACTIVE</div>
-    </mat-card-actions>
+    
   </mat-card>

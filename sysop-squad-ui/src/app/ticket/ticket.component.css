@@ -1,7 +1,14 @@
 .ticket_card {
     width: 100%;
-    min-width: 100vh;
+    min-width: 75vh;
     background-color: coral;
     margin-bottom: 1%;
-    min-height: 25vh;
+    min-height: 12vh;
   }
+.text_margin{
+  margin-left:2%;
+}
+
+.text_float{
+  float:right;
+}
