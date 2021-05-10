@@ -1,18 +1,31 @@
 
-/Account.Microservice.Model.Response.Message.setR
-HC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Model\Response.cs! ($"0*›
-0R
-HC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Model\Response.cs% (%¬
-©
-R
-HC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Model\Response.cs! (%:%
-#Account.Microservice.Model.Response"
-Messagestring"__id*
-
-valuestring"’
-R
-HC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Model\Response.cs! (%<*:%
-#Account.Microservice.Model.Response"
-Messagestring:
-valuestringB'%
-#Account.Microservice.Model.Response
+8Account.Microservice.Program.CreateHostBuilder(string[])K
+AC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Program.cs# (4"0*
+0K
+AC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Program.cs (þ
+û
+K
+AC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Program.cs (+/
+%0)Microsoft.Extensions.Hosting.IHostBuilder"@Microsoft.Extensions.Hosting.Host.CreateDefaultBuilder(string[])*%"#
+!Microsoft.Extensions.Hosting.Host*
+
+argsstring[]¸
+µ
+K
+AC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Program.cs (/
+%1)Microsoft.Extensions.Hosting.IHostBuilder"ºMicrosoft.Extensions.Hosting.GenericHostBuilderExtensions.ConfigureWebHostDefaults(Microsoft.Extensions.Hosting.IHostBuilder, System.Action<Microsoft.AspNetCore.Hosting.IWebHostBuilder>)*=";
+9Microsoft.Extensions.Hosting.GenericHostBuilderExtensions*1
+/
+%0)Microsoft.Extensions.Hosting.IHostBuilder*
+"""€
+K
+AC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Program.cs (1
+/
+%1)Microsoft.Extensions.Hosting.IHostBuilder*´
+1K
+AC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Program.cs ("b
+K
+AC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Program.cs (
+implicit return:
+argsstring[]B "
+Account.Microservice.Program

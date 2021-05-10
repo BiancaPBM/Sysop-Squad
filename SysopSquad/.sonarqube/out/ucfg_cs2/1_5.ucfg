@@ -1,9 +1,13 @@
 
-.Account.Microservice.Model.Response.Response()R
-HC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Model\Response.cs ("0*Â
-0R
-HC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Model\Response.cs ("i
-R
-HC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Model\Response.cs (
-implicit returnB'%
-#Account.Microservice.Model.Response
+=Account.Microservice.Migrations.InitialCreate.InitialCreate()k
+aC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Migrations\20210419194739_InitialCreate.cs (&"0*‚
+0m
+aC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Migrations\20210419194739_InitialCreate.csÚ Ú(‡
+„
+
+%0void">Microsoft.EntityFrameworkCore.Migrations.Migration.Migration()*64
+2Microsoft.EntityFrameworkCore.Migrations.Migration"ƒ
+l
+aC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Migrations\20210419194739_InitialCreate.cs Ú(
+implicit returnB1/
+-Account.Microservice.Migrations.InitialCreate

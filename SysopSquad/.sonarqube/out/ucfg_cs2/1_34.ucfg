@@ -1,167 +1,0 @@
-
-kAccount.Microservice.Migrations.InitialCreate.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)k
-aC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Migrations\20210419194739_InitialCreate.cs  (""0*⁄Q
-0l
-aC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Migrations\20210419194739_InitialCreate.cs
- ¿(:âÜ
-k
-aC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Migrations\20210419194739_InitialCreate.cs
- (_
-%0YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>"µMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.CreateTable<TColumns>(string, System.Func<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.ColumnsBuilder, TColumns>, string, System.Action<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>>, string)*O
-M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
-AspNetRoles*
-""*
-""*
-""*
-""2˚CreateTable<TColumns>(string, System.Func<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.ColumnsBuilder, TColumns>, string, System.Action<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>>, string)âÜ
-k
-aC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Migrations\20210419194739_InitialCreate.cs /(_
-%1YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>"µMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.CreateTable<TColumns>(string, System.Func<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.ColumnsBuilder, TColumns>, string, System.Action<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>>, string)*O
-M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
-AspNetUsers*
-""*
-""*
-""*
-""2˚CreateTable<TColumns>(string, System.Func<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.ColumnsBuilder, TColumns>, string, System.Action<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>>, string)éã
-k
-aC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Migrations\20210419194739_InitialCreate.cs1 D(_
-%2YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>"µMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.CreateTable<TColumns>(string, System.Func<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.ColumnsBuilder, TColumns>, string, System.Action<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>>, string)*O
-M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
-AspNetRoleClaims*
-""*
-""*
-""*
-""2˚CreateTable<TColumns>(string, System.Func<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.ColumnsBuilder, TColumns>, string, System.Action<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>>, string)éã
-k
-aC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Migrations\20210419194739_InitialCreate.csF Y(_
-%3YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>"µMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.CreateTable<TColumns>(string, System.Func<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.ColumnsBuilder, TColumns>, string, System.Action<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>>, string)*O
-M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
-AspNetUserClaims*
-""*
-""*
-""*
-""2˚CreateTable<TColumns>(string, System.Func<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.ColumnsBuilder, TColumns>, string, System.Action<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>>, string)éã
-k
-aC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Migrations\20210419194739_InitialCreate.cs[ m(_
-%4YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>"µMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.CreateTable<TColumns>(string, System.Func<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.ColumnsBuilder, TColumns>, string, System.Action<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>>, string)*O
-M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
-AspNetUserLogins*
-""*
-""*
-""*
-""2˚CreateTable<TColumns>(string, System.Func<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.ColumnsBuilder, TColumns>, string, System.Action<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>>, string)éã
-l
-aC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Migrations\20210419194739_InitialCreate.cso Ö(_
-%5YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>"µMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.CreateTable<TColumns>(string, System.Func<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.ColumnsBuilder, TColumns>, string, System.Action<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>>, string)*O
-M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
-AspNetUserRoles*
-""*
-""*
-""*
-""2˚CreateTable<TColumns>(string, System.Func<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.ColumnsBuilder, TColumns>, string, System.Action<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>>, string)êç
-m
-aC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Migrations\20210419194739_InitialCreate.csá ô(_
-%6YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>"µMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.CreateTable<TColumns>(string, System.Func<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.ColumnsBuilder, TColumns>, string, System.Action<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>>, string)*O
-M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
-AspNetUserTokens*
-""*
-""*
-""*
-""2˚CreateTable<TColumns>(string, System.Func<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.ColumnsBuilder, TColumns>, string, System.Action<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>>, string)Æ´
-m
-aC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Migrations\20210419194739_InitialCreate.csõ û(!_
-%7YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"sMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.CreateIndex(string, string, string, string, bool, string)*O
-M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
-IX_AspNetRoleClaims_RoleId*
-AspNetRoleClaims*
-
-RoleId*
-""*
-""*
-""29CreateIndex(string, string, string, string, bool, string)æª
-m
-aC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Migrations\20210419194739_InitialCreate.cs† •(7_
-%8YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"sMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.CreateIndex(string, string, string, string, bool, string)*O
-M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
-RoleNameIndex*
-AspNetRoles*
-NormalizedName*
-""*
-""* 
-[NormalizedName] IS NOT NULL29CreateIndex(string, string, string, string, bool, string)Æ´
-m
-aC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Migrations\20210419194739_InitialCreate.csß ™(!_
-%9YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"sMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.CreateIndex(string, string, string, string, bool, string)*O
-M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
-IX_AspNetUserClaims_UserId*
-AspNetUserClaims*
-
-UserId*
-""*
-""*
-""29CreateIndex(string, string, string, string, bool, string)Ø¨
-m
-aC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Migrations\20210419194739_InitialCreate.cs¨ Ø(!`
-%10YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"sMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.CreateIndex(string, string, string, string, bool, string)*O
-M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
-IX_AspNetUserLogins_UserId*
-AspNetUserLogins*
-
-UserId*
-""*
-""*
-""29CreateIndex(string, string, string, string, bool, string)≠™
-m
-aC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Migrations\20210419194739_InitialCreate.cs± ¥(!`
-%11YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"sMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.CreateIndex(string, string, string, string, bool, string)*O
-M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
-IX_AspNetUserRoles_RoleId*
-AspNetUserRoles*
-
-RoleId*
-""*
-""*
-""29CreateIndex(string, string, string, string, bool, string)£†
-m
-aC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Migrations\20210419194739_InitialCreate.cs∂ π(*`
-%12YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"sMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.CreateIndex(string, string, string, string, bool, string)*O
-M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
-
-EmailIndex*
-AspNetUsers*
-NormalizedEmail*
-""*
-""*
-""29CreateIndex(string, string, string, string, bool, string)«ƒ
-m
-aC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Migrations\20210419194739_InitialCreate.csª ¿(;`
-%13YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"sMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.CreateIndex(string, string, string, string, bool, string)*O
-M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
-UserNameIndex*
-AspNetUsers*
-NormalizedUserName*
-""*
-""*$"
- [NormalizedUserName] IS NOT NULL29CreateIndex(string, string, string, string, bool, string)*
-1*˘
-1m
-aC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Migrations\20210419194739_InitialCreate.cs¡	 ¡(	"Ñ
-m
-aC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Migrations\20210419194739_InitialCreate.cs¡ ¡(	
-implicit return:M
-migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilderB1/
--Account.Microservice.Migrations.InitialCreate

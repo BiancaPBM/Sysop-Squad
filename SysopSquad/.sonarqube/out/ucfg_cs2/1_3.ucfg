@@ -1,9 +1,13 @@
 
-2Account.Microservice.Model.LoginModel.LoginModel()T
-JC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Model\LoginModel.cs	 	("0*Æ
-0T
-JC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Model\LoginModel.cs ("k
-T
-JC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Model\LoginModel.cs	 (
-implicit returnB)'
-%Account.Microservice.Model.LoginModel
+<Account.Microservice.Model.ApplicationUser.ApplicationUser()Y
+OC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Model\ApplicationUser.cs	 	("0*Ë
+0Y
+OC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Model\ApplicationUser.cs (y
+w
+
+%0void"9Microsoft.AspNetCore.Identity.IdentityUser.IdentityUser()*.,
+*Microsoft.AspNetCore.Identity.IdentityUser"p
+Y
+OC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Model\ApplicationUser.cs	 (
+implicit returnB.,
+*Account.Microservice.Model.ApplicationUser

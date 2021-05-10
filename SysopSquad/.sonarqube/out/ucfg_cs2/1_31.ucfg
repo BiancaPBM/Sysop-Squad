@@ -1,288 +1,83 @@
 
-eAccount.Microservice.Controllers.AccountController.Register(Account.Microservice.Model.RegisterModel)a
-WC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Controllers\AccountController.csL% L(-"6*œ
-
-0a
-WC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Controllers\AccountController.csN
- O(ü
-ú
-a
-WC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Controllers\AccountController.csN N((6
-%00Microsoft.AspNetCore.Identity.UserManager<TUser>"__id*y*w4
-2Account.Microservice.Controllers.AccountController"?
-userManager0Microsoft.AspNetCore.Identity.UserManager<TUser>‡
-›
-a
-WC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Controllers\AccountController.csN9 N(G
-%1string"5Account.Microservice.Model.RegisterModel.Username.get*3
-1
-model(Account.Microservice.Model.RegisterModeløº
-a
-WC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Controllers\AccountController.csN N(H*
-%2$System.Threading.Tasks.Task<TResult>"HMicrosoft.AspNetCore.Identity.UserManager<TUser>.FindByNameAsync(string)*8
-6
-%00Microsoft.AspNetCore.Identity.UserManager<TUser>*
-
-%1string2FindByNameAsync(string)Æ
-´
-a
-WC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Controllers\AccountController.csN
- N(H8
-
-userExists*Account.Microservice.Model.ApplicationUser"__id*
-""Ê
-„
-a
-WC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Controllers\AccountController.csO
- O(
-
-%3bool""object.operator !=(object, object)*
-"
-object*:
-8
-
-userExists*Account.Microservice.Model.ApplicationUser*
-""*
-1
-2*¶
-1b
-WC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Controllers\AccountController.csP P(Öy
-w
-a
-WC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Controllers\AccountController.csP P(B
-%4"__id*
-""∑¥
-b
-WC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Controllers\AccountController.csPD P(á)
-%5#Account.Microservice.Model.Response"#Account.Microservice.Model.Responseœ
-Ã
-a
-WC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Controllers\AccountController.csPH P(P
-
-%6void".Account.Microservice.Model.Response.Response()*+
-)
-%5#Account.Microservice.Model.Response‹
-Ÿ
-a
-WC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Controllers\AccountController.csPS P(c
-%7string".Account.Microservice.Model.Response.Status.set*+
-)
-%5#Account.Microservice.Model.Response*	
-ErrorÌ
-Í
-b
-WC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Controllers\AccountController.csPe P(Ö
-%8string"/Account.Microservice.Model.Response.Message.set*+
-)
-%5#Account.Microservice.Model.Response*
-User already exists!–Õ
-b
-WC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Controllers\AccountController.csP P(à+
-%9%Microsoft.AspNetCore.Mvc.ObjectResult"?Microsoft.AspNetCore.Mvc.ControllerBase.StatusCode(int, object)*+)
-'Microsoft.AspNetCore.Mvc.ControllerBase*
-
-%4*+
-)
-%5#Account.Microservice.Model.Response2StatusCode(int, object)"ì
-b
-WC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Controllers\AccountController.csP P(â-
-+
-%9%Microsoft.AspNetCore.Mvc.ObjectResult*œ
-2a
-WC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Controllers\AccountController.csR Y(≈¬
-a
-WC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Controllers\AccountController.csR W(1
-%10*Account.Microservice.Model.ApplicationUser"*Account.Microservice.Model.ApplicationUserÊ
-„
-a
-WC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Controllers\AccountController.csR! R(0
-%11void"<Account.Microservice.Model.ApplicationUser.ApplicationUser()*3
-1
-%10*Account.Microservice.Model.ApplicationUserﬁ
-€
-a
-WC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Controllers\AccountController.csT T(
-%12string"2Account.Microservice.Model.RegisterModel.Email.get*3
-1
-model(Account.Microservice.Model.RegisterModelÇˇ
-a
-WC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Controllers\AccountController.csT T(
-%13string":Microsoft.AspNetCore.Identity.IdentityUser<TKey>.Email.set*3
-1
-%10*Account.Microservice.Model.ApplicationUser*
-
-%12string2	Email.set¢
-ü
-a
-WC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Controllers\AccountController.csU U(&
-%14System.Guid"System.Guid.NewGuid()*"
-System.Guid£
-†
-a
-WC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Controllers\AccountController.csU U(1
-%15string"System.Guid.ToString()*
-
-%14System.Guidíè
-a
-WC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Controllers\AccountController.csU U(1
-%16string"BMicrosoft.AspNetCore.Identity.IdentityUser<TKey>.SecurityStamp.set*3
-1
-%10*Account.Microservice.Model.ApplicationUser*
-
-%15string2SecurityStamp.set·
-ﬁ
-a
-WC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Controllers\AccountController.csV V(!
-%17string"5Account.Microservice.Model.RegisterModel.Username.get*3
-1
-model(Account.Microservice.Model.RegisterModelàÖ
-a
-WC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Controllers\AccountController.csV V(!
-%18string"=Microsoft.AspNetCore.Identity.IdentityUser<TKey>.UserName.set*3
-1
-%10*Account.Microservice.Model.ApplicationUser*
-
-%17string2UserName.set’
-“
-a
-WC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Controllers\AccountController.csR W(2
-user*Account.Microservice.Model.ApplicationUser"__id*3
-1
-%10*Account.Microservice.Model.ApplicationUser†
-ù
-a
-WC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Controllers\AccountController.csX X($7
-%190Microsoft.AspNetCore.Identity.UserManager<TUser>"__id*y*w4
-2Account.Microservice.Controllers.AccountController"?
-userManager0Microsoft.AspNetCore.Identity.UserManager<TUser>·
-ﬁ
-a
-WC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Controllers\AccountController.csX7 X(E
-%20string"5Account.Microservice.Model.RegisterModel.Password.get*3
-1
-model(Account.Microservice.Model.RegisterModel˛˚
-a
-WC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Controllers\AccountController.csX X(F+
-%21$System.Threading.Tasks.Task<TResult>"KMicrosoft.AspNetCore.Identity.UserManager<TUser>.CreateAsync(TUser, string)*9
-7
-%190Microsoft.AspNetCore.Identity.UserManager<TUser>*4
-2
-user*Account.Microservice.Model.ApplicationUser*
-
-%20string2CreateAsync(TUser, string)¨
-©
-a
-WC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Controllers\AccountController.csX
- X(F6
-result,Microsoft.AspNetCore.Identity.IdentityResult"__id*
-""È
-Ê
-a
-WC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Controllers\AccountController.csY Y(
-%22bool":Microsoft.AspNetCore.Identity.IdentityResult.Succeeded.get*8
-6
-result,Microsoft.AspNetCore.Identity.IdentityResult*
-3
-4*‹
-3b
-WC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Controllers\AccountController.csZ Z(Øz
-x
-a
-WC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Controllers\AccountController.csZ Z(B
-%23"__id*
-""∏µ
-b
-WC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Controllers\AccountController.csZD Z(±*
-%24#Account.Microservice.Model.Response"#Account.Microservice.Model.Response—
-Œ
-a
-WC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Controllers\AccountController.csZH Z(P
-%25void".Account.Microservice.Model.Response.Response()*,
-*
-%24#Account.Microservice.Model.Responseﬁ
-€
-a
-WC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Controllers\AccountController.csZS Z(c
-%26string".Account.Microservice.Model.Response.Status.set*,
-*
-%24#Account.Microservice.Model.Response*	
-Errorô
-ñ
-b
-WC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Controllers\AccountController.csZe Z(Ø
-%27string"/Account.Microservice.Model.Response.Message.set*,
-*
-%24#Account.Microservice.Model.Response*B@
->User creation failed! Please check user details and try again.”–
-b
-WC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Controllers\AccountController.csZ Z(≤,
-%28%Microsoft.AspNetCore.Mvc.ObjectResult"?Microsoft.AspNetCore.Mvc.ControllerBase.StatusCode(int, object)*+)
-'Microsoft.AspNetCore.Mvc.ControllerBase*
-
-%23*,
-*
-%24#Account.Microservice.Model.Response2StatusCode(int, object)"î
-b
-WC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Controllers\AccountController.csZ Z(≥.
-,
-%28%Microsoft.AspNetCore.Mvc.ObjectResult*Ï
-4a
-WC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Controllers\AccountController.cs\ \(ÒÓ
-a
-WC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Controllers\AccountController.cs\ \((
-%29!Microsoft.AspNetCore.Mvc.OkResult",Microsoft.AspNetCore.Mvc.ControllerBase.Ok()*+)
-'Microsoft.AspNetCore.Mvc.ControllerBase2Ok()"è
-a
-WC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Controllers\AccountController.cs\ \(*
-(
-%29!Microsoft.AspNetCore.Mvc.OkResult*‡
-5a
-WC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Controllers\AccountController.cs] ]("x
-a
-WC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Controllers\AccountController.cs] ](
-implicit return*î
-6a
-WC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Controllers\AccountController.csLM L(MŒ
-À
-a
-WC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Controllers\AccountController.csL% L(-X
-1
-model(Account.Microservice.Model.RegisterModel"#
-<Username>k__BackingFieldstring"__entrypointΩ
-∫
-a
-WC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Controllers\AccountController.csL% L(-G
-1
-model(Account.Microservice.Model.RegisterModel"
-Usernamestring"__entrypointÀ
-»
-a
-WC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Controllers\AccountController.csL% L(-U
-1
-model(Account.Microservice.Model.RegisterModel" 
-<Email>k__BackingFieldstring"__entrypoint∫
-∑
-a
-WC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Controllers\AccountController.csL% L(-D
-1
-model(Account.Microservice.Model.RegisterModel"
-Emailstring"__entrypointŒ
-À
-a
-WC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Controllers\AccountController.csL% L(-X
-1
-model(Account.Microservice.Model.RegisterModel"#
-<Password>k__BackingFieldstring"__entrypointΩ
-∫
-a
-WC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Controllers\AccountController.csL% L(-G
-1
-model(Account.Microservice.Model.RegisterModel"
-Passwordstring"__entrypointz
-x
-a
-WC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Controllers\AccountController.csL% L(-
-%30"__entrypoint*
-0:1
-model(Account.Microservice.Model.RegisterModelB64
-2Account.Microservice.Controllers.AccountController
+kAccount.Microservice.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)K
+AC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Startup.cs (%"0*ö$
+0K
+AC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Startup.cs c(∫
+∑
+K
+AC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Startup.cs (:
+%04Microsoft.Extensions.DependencyInjection.IMvcBuilder"ìMicrosoft.Extensions.DependencyInjection.MvcServiceCollectionExtensions.AddControllers(Microsoft.Extensions.DependencyInjection.IServiceCollection)*K"I
+GMicrosoft.Extensions.DependencyInjection.MvcServiceCollectionExtensions*I
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollection¥
+±
+L
+AC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Startup.cs   (ÄA
+%1;Microsoft.Extensions.DependencyInjection.IServiceCollection"·Microsoft.Extensions.DependencyInjection.EntityFrameworkServiceCollectionExtensions.AddDbContext<TContext>(Microsoft.Extensions.DependencyInjection.IServiceCollection, System.Action<Microsoft.EntityFrameworkCore.DbContextOptionsBuilder>, Microsoft.Extensions.DependencyInjection.ServiceLifetime, Microsoft.Extensions.DependencyInjection.ServiceLifetime)*W"U
+SMicrosoft.Extensions.DependencyInjection.EntityFrameworkServiceCollectionExtensions*I
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollection*
+""*
+""*
+""»
+≈
+K
+AC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Startup.cs# #(;3
+%2-Microsoft.AspNetCore.Identity.IdentityBuilder"£Microsoft.Extensions.DependencyInjection.IdentityServiceCollectionExtensions.AddIdentity<TUser, TRole>(Microsoft.Extensions.DependencyInjection.IServiceCollection)*P"N
+LMicrosoft.Extensions.DependencyInjection.IdentityServiceCollectionExtensions*I
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollectionπ
+∂
+K
+AC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Startup.cs# $(;3
+%3-Microsoft.AspNetCore.Identity.IdentityBuilder"£Microsoft.Extensions.DependencyInjection.IdentityEntityFrameworkBuilderExtensions.AddEntityFrameworkStores<TContext>(Microsoft.AspNetCore.Identity.IdentityBuilder)*U"S
+QMicrosoft.Extensions.DependencyInjection.IdentityEntityFrameworkBuilderExtensions*5
+3
+%2-Microsoft.AspNetCore.Identity.IdentityBuilder˙
+˜
+K
+AC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Startup.cs# %(%3
+%4-Microsoft.AspNetCore.Identity.IdentityBuilder"Microsoft.AspNetCore.Identity.IdentityBuilderExtensions.AddDefaultTokenProviders(Microsoft.AspNetCore.Identity.IdentityBuilder)*;"9
+7Microsoft.AspNetCore.Identity.IdentityBuilderExtensions*5
+3
+%3-Microsoft.AspNetCore.Identity.IdentityBuilder™
+ß
+K
+AC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Startup.cs( -(?
+%59Microsoft.AspNetCore.Authentication.AuthenticationBuilder"ÎMicrosoft.Extensions.DependencyInjection.AuthenticationServiceCollectionExtensions.AddAuthentication(Microsoft.Extensions.DependencyInjection.IServiceCollection, System.Action<Microsoft.AspNetCore.Authentication.AuthenticationOptions>)*V"T
+RMicrosoft.Extensions.DependencyInjection.AuthenticationServiceCollectionExtensions*I
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollection*
+""Ù
+Ò
+K
+AC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Startup.cs( <(?
+%69Microsoft.AspNetCore.Authentication.AuthenticationBuilder"”Microsoft.Extensions.DependencyInjection.JwtBearerExtensions.AddJwtBearer(Microsoft.AspNetCore.Authentication.AuthenticationBuilder, System.Action<Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerOptions>)*@">
+<Microsoft.Extensions.DependencyInjection.JwtBearerExtensions*A
+?
+%59Microsoft.AspNetCore.Authentication.AuthenticationBuilder*
+""ö
+ó
+K
+AC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Startup.cs> _(A
+%7;Microsoft.Extensions.DependencyInjection.IServiceCollection"›Microsoft.Extensions.DependencyInjection.SwaggerGenServiceCollectionExtensions.AddSwaggerGen(Microsoft.Extensions.DependencyInjection.IServiceCollection, System.Action<Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenOptions>)*R"P
+NMicrosoft.Extensions.DependencyInjection.SwaggerGenServiceCollectionExtensions*I
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollection*
+""â
+Ü
+K
+AC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Startup.cs` c(A
+%8;Microsoft.Extensions.DependencyInjection.IServiceCollection"“Microsoft.Extensions.DependencyInjection.CorsServiceCollectionExtensions.AddCors(Microsoft.Extensions.DependencyInjection.IServiceCollection, System.Action<Microsoft.AspNetCore.Cors.Infrastructure.CorsOptions>)*L"J
+HMicrosoft.Extensions.DependencyInjection.CorsServiceCollectionExtensions*I
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollection*
+""*
+1*¥
+1K
+AC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Startup.csd d("b
+K
+AC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Startup.csd d(
+implicit return:G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollectionB 
+Account.Microservice.Startup

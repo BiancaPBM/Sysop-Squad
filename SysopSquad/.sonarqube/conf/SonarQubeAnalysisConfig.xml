@@ -6,7 +6,7 @@
   <SonarScannerWorkingDirectory>C:\TSP.NET\Sysop-Squad\SysopSquad</SonarScannerWorkingDirectory>
   <HasBeginStepCommandLineCredentials>true</HasBeginStepCommandLineCredentials>
   <SonarQubeHostUrl>https://sonarcloud.io</SonarQubeHostUrl>
-  <SonarQubeVersion>8.0.0.19667</SonarQubeVersion>
+  <SonarQubeVersion>8.0.0.20026</SonarQubeVersion>
   <SonarProjectKey>Sysop-Squad-Backend</SonarProjectKey>
   <AdditionalConfig>
     <ConfigSetting Id="BuildUri" />
@@ -16,11 +16,11 @@
   </AdditionalConfig>
   <ServerSettings>
     <Property Name="sonar.project.monorepo.enabled">false</Property>
-    <Property Name="sonaranalyzer-cs.nuget.packageVersion">8.20.0.28934</Property>
-    <Property Name="sonaranalyzer.security.cs.pluginVersion">8.9.0-M1.10592</Property>
+    <Property Name="sonaranalyzer-cs.nuget.packageVersion">8.22.0.31243</Property>
+    <Property Name="sonaranalyzer.security.cs.pluginVersion">8.9.0.11439</Property>
     <Property Name="sonar.cs.ignoreHeaderComments">true</Property>
     <Property Name="sonar.c.file.suffixes">.c,.h</Property>
-    <Property Name="sonar.typescript.file.suffixes">.ts,.tsx,.vue</Property>
+    <Property Name="sonar.typescript.file.suffixes">.ts,.tsx</Property>
     <Property Name="sonar.cobol.dialect">ibm-enterprise-cobol</Property>
     <Property Name="email.fromName">SonarCloud</Property>
     <Property Name="sonar.python.xunit.skipDetails">false</Property>
@@ -30,7 +30,7 @@
     <Property Name="sonar.forceAuthentication">false</Property>
     <Property Name="sonar.notifications.delay">60</Property>
     <Property Name="sonar.cpp.file.suffixes">.cc,.cpp,.cxx,.c++,.hh,.hpp,.hxx,.h++,.ipp</Property>
-    <Property Name="sonaranalyzer.security.cs.nuget.packageVersion">8.9.0-M1.10592</Property>
+    <Property Name="sonaranalyzer.security.cs.nuget.packageVersion">8.9.0.11439</Property>
     <Property Name="sonaranalyzer-cs.ruleNamespace">SonarAnalyzer.CSharp</Property>
     <Property Name="sonar.cs.analyzeGeneratedCode">false</Property>
     <Property Name="sonar.builtInQualityProfiles.disableNotificationOnUpdate">false</Property>
@@ -67,7 +67,7 @@
     <Property Name="sonar.plsql.file.suffixes">sql,tab,pkb</Property>
     <Property Name="sonaranalyzer.security.cs.ruleNamespace">SonarAnalyzer.Security</Property>
     <Property Name="sonar.cobol.tab.width">8</Property>
-    <Property Name="sonaranalyzer-vbnet.staticResourceName">SonarAnalyzer-8.20.0.28934.zip</Property>
+    <Property Name="sonaranalyzer-vbnet.staticResourceName">SonarAnalyzer-8.22.0.31243.zip</Property>
     <Property Name="sonar.java.file.suffixes">.java,.jav</Property>
     <Property Name="sonar.kotlin.file.suffixes">.kt</Property>
     <Property Name="sonar.php.file.suffixes">php,php3,php4,php5,phtml,inc</Property>
@@ -75,7 +75,7 @@
     <Property Name="sonar.dbcleaner.weeksBeforeDeletingAllSnapshots">480</Property>
     <Property Name="sonar.python.coverage.reportPaths">coverage-reports/*coverage-*.xml</Property>
     <Property Name="sonar.javascript.jQueryObjectAliases">$, jQuery</Property>
-    <Property Name="sonaranalyzer-vbnet.nuget.packageVersion">8.20.0.28934</Property>
+    <Property Name="sonaranalyzer-vbnet.nuget.packageVersion">8.22.0.31243</Property>
     <Property Name="sonar.go.file.suffixes">.go</Property>
     <Property Name="sonar.cpd.cobol.minimumLines">30</Property>
     <Property Name="sonar.cobol.exec.recoveryMode">true</Property>
@@ -92,7 +92,7 @@
     <Property Name="sonar.auth.bitbucket.enabled">true</Property>
     <Property Name="sonaranalyzer-vbnet.nuget.packageId">SonarAnalyzer.VisualBasic</Property>
     <Property Name="email.from">noreply@sonarcloud.io</Property>
-    <Property Name="sonaranalyzer-vbnet.pluginVersion">8.20.0.28934</Property>
+    <Property Name="sonaranalyzer-vbnet.pluginVersion">8.22.0.31243</Property>
     <Property Name="sonaranalyzer.security.cs.analyzerId">SonarAnalyzer.Security</Property>
     <Property Name="sonar.dbcleaner.weeksBeforeKeepingOnlyOneSnapshotByWeek">1</Property>
     <Property Name="sonaranalyzer-vbnet.analyzerId">SonarAnalyzer.VisualBasic</Property>
@@ -105,7 +105,7 @@
     <Property Name="sonar.objc.file.suffixes">.m</Property>
     <Property Name="sonar.autoscan.enabled">false</Property>
     <Property Name="sonar.ruby.coverage.reportPaths">coverage/.resultset.json</Property>
-    <Property Name="sonaranalyzer-cs.staticResourceName">SonarAnalyzer-8.20.0.28934.zip</Property>
+    <Property Name="sonaranalyzer-cs.staticResourceName">SonarAnalyzer-8.22.0.31243.zip</Property>
     <Property Name="sonar.cpd.cobol.ignoreLiteral">true</Property>
     <Property Name="sonaranalyzer-cs.nuget.packageId">SonarAnalyzer.CSharp</Property>
     <Property Name="sonar.authenticator.downcase">false</Property>
@@ -113,9 +113,9 @@
     <Property Name="sonar.organizations.anyoneCanCreate">true</Property>
     <Property Name="sonar.technicalDebt.ratingGrid">0.05,0.1,0.2,0.5</Property>
     <Property Name="sonar.lf.enableGravatar">true</Property>
-    <Property Name="sonaranalyzer-cs.pluginVersion">8.20.0.28934</Property>
-    <Property Name="sonaranalyzer.security.cs.staticResourceName">SonarAnalyzer.Security-8.9.0-M1.10592.zip</Property>
-    <Property Name="sonar.javascript.file.suffixes">.js,.jsx,.mjs</Property>
+    <Property Name="sonaranalyzer-cs.pluginVersion">8.22.0.31243</Property>
+    <Property Name="sonaranalyzer.security.cs.staticResourceName">SonarAnalyzer.Security-8.9.0.11439.zip</Property>
+    <Property Name="sonar.javascript.file.suffixes">.js,.jsx,.mjs,.vue</Property>
     <Property Name="sonar.cpd.abap.minimumLines">20</Property>
     <Property Name="sonar.vbnet.analyzeGeneratedCode">false</Property>
     <Property Name="sonaranalyzer-vbnet.pluginKey">vbnet</Property>
@@ -126,7 +126,7 @@
     <Property Name="sonar.core.id">1BD809FA-AWHW8ct9-T_TB3XqouNu</Property>
     <Property Name="node_10_end_of_support_date">1620604800000</Property>
     <Property Name="node_10_grace_period_termination_date">1621814400000</Property>
-    <Property Name="sonar.core.startTime">4/28/2021 1:08:43 PM</Property>
+    <Property Name="sonar.core.startTime">5/10/2021 12:30:31 PM</Property>
   </ServerSettings>
   <LocalSettings>
     <Property Name="sonar.verbose">true</Property>
@@ -139,30 +139,30 @@
       <RuleSetFilePath>C:\TSP.NET\Sysop-Squad\SysopSquad\.sonarqube\conf\SonarQubeRoslyn-cs.ruleset</RuleSetFilePath>
       <TestProjectRuleSetFilePath>C:\TSP.NET\Sysop-Squad\SysopSquad\.sonarqube\conf\SonarQubeRoslyn-cs-test.ruleset</TestProjectRuleSetFilePath>
       <AnalyzerPlugins>
-        <AnalyzerPlugin Key="csharp" Version="8.20.0.28934" StaticResourceName="SonarAnalyzer-8.20.0.28934.zip">
+        <AnalyzerPlugin Key="csharp" Version="8.22.0.31243" StaticResourceName="SonarAnalyzer-8.22.0.31243.zip">
           <AssemblyPaths>
-            <Path>C:\Users\bpantaru\AppData\Local\Temp\.sonarqube\resources\0\Google.Protobuf.dll</Path>
-            <Path>C:\Users\bpantaru\AppData\Local\Temp\.sonarqube\resources\0\SonarAnalyzer.CFG.dll</Path>
-            <Path>C:\Users\bpantaru\AppData\Local\Temp\.sonarqube\resources\0\SonarAnalyzer.CSharp.dll</Path>
-            <Path>C:\Users\bpantaru\AppData\Local\Temp\.sonarqube\resources\0\SonarAnalyzer.dll</Path>
+            <Path>C:\Users\bpantaru\AppData\Local\Temp\.sonarqube\resources\3\Google.Protobuf.dll</Path>
+            <Path>C:\Users\bpantaru\AppData\Local\Temp\.sonarqube\resources\3\SonarAnalyzer.CFG.dll</Path>
+            <Path>C:\Users\bpantaru\AppData\Local\Temp\.sonarqube\resources\3\SonarAnalyzer.CSharp.dll</Path>
+            <Path>C:\Users\bpantaru\AppData\Local\Temp\.sonarqube\resources\3\SonarAnalyzer.dll</Path>
           </AssemblyPaths>
         </AnalyzerPlugin>
-        <AnalyzerPlugin Key="vbnet" Version="8.20.0.28934" StaticResourceName="SonarAnalyzer-8.20.0.28934.zip">
+        <AnalyzerPlugin Key="vbnet" Version="8.22.0.31243" StaticResourceName="SonarAnalyzer-8.22.0.31243.zip">
           <AssemblyPaths>
-            <Path>C:\Users\bpantaru\AppData\Local\Temp\.sonarqube\resources\1\Google.Protobuf.dll</Path>
-            <Path>C:\Users\bpantaru\AppData\Local\Temp\.sonarqube\resources\1\SonarAnalyzer.dll</Path>
-            <Path>C:\Users\bpantaru\AppData\Local\Temp\.sonarqube\resources\1\SonarAnalyzer.VisualBasic.dll</Path>
+            <Path>C:\Users\bpantaru\AppData\Local\Temp\.sonarqube\resources\4\Google.Protobuf.dll</Path>
+            <Path>C:\Users\bpantaru\AppData\Local\Temp\.sonarqube\resources\4\SonarAnalyzer.dll</Path>
+            <Path>C:\Users\bpantaru\AppData\Local\Temp\.sonarqube\resources\4\SonarAnalyzer.VisualBasic.dll</Path>
           </AssemblyPaths>
         </AnalyzerPlugin>
-        <AnalyzerPlugin Key="securitycsharpfrontend" Version="8.9.0-M1.10592" StaticResourceName="SonarAnalyzer.Security-8.9.0-M1.10592.zip">
+        <AnalyzerPlugin Key="securitycsharpfrontend" Version="8.9.0.11439" StaticResourceName="SonarAnalyzer.Security-8.9.0.11439.zip">
           <AssemblyPaths>
-            <Path>C:\Users\bpantaru\AppData\Local\Temp\.sonarqube\resources\2\Google.Protobuf.License.txt</Path>
-            <Path>C:\Users\bpantaru\AppData\Local\Temp\.sonarqube\resources\2\Microsoft.AspNetCore.Razor.Language.dll</Path>
-            <Path>C:\Users\bpantaru\AppData\Local\Temp\.sonarqube\resources\2\SonarAnalyzer.Security.dll</Path>
-            <Path>C:\Users\bpantaru\AppData\Local\Temp\.sonarqube\resources\2\System.Buffers.dll</Path>
-            <Path>C:\Users\bpantaru\AppData\Local\Temp\.sonarqube\resources\2\System.Memory.dll</Path>
-            <Path>C:\Users\bpantaru\AppData\Local\Temp\.sonarqube\resources\2\System.Numerics.Vectors.dll</Path>
-            <Path>C:\Users\bpantaru\AppData\Local\Temp\.sonarqube\resources\2\System.Runtime.CompilerServices.Unsafe.dll</Path>
+            <Path>C:\Users\bpantaru\AppData\Local\Temp\.sonarqube\resources\5\Google.Protobuf.License.txt</Path>
+            <Path>C:\Users\bpantaru\AppData\Local\Temp\.sonarqube\resources\5\Microsoft.AspNetCore.Razor.Language.dll</Path>
+            <Path>C:\Users\bpantaru\AppData\Local\Temp\.sonarqube\resources\5\SonarAnalyzer.Security.dll</Path>
+            <Path>C:\Users\bpantaru\AppData\Local\Temp\.sonarqube\resources\5\System.Buffers.dll</Path>
+            <Path>C:\Users\bpantaru\AppData\Local\Temp\.sonarqube\resources\5\System.Memory.dll</Path>
+            <Path>C:\Users\bpantaru\AppData\Local\Temp\.sonarqube\resources\5\System.Numerics.Vectors.dll</Path>
+            <Path>C:\Users\bpantaru\AppData\Local\Temp\.sonarqube\resources\5\System.Runtime.CompilerServices.Unsafe.dll</Path>
           </AssemblyPaths>
         </AnalyzerPlugin>
       </AnalyzerPlugins>
@@ -175,19 +175,19 @@
       <RuleSetFilePath>C:\TSP.NET\Sysop-Squad\SysopSquad\.sonarqube\conf\SonarQubeRoslyn-vbnet.ruleset</RuleSetFilePath>
       <TestProjectRuleSetFilePath>C:\TSP.NET\Sysop-Squad\SysopSquad\.sonarqube\conf\SonarQubeRoslyn-vbnet-test.ruleset</TestProjectRuleSetFilePath>
       <AnalyzerPlugins>
-        <AnalyzerPlugin Key="csharp" Version="8.20.0.28934" StaticResourceName="SonarAnalyzer-8.20.0.28934.zip">
+        <AnalyzerPlugin Key="csharp" Version="8.22.0.31243" StaticResourceName="SonarAnalyzer-8.22.0.31243.zip">
           <AssemblyPaths>
-            <Path>C:\Users\bpantaru\AppData\Local\Temp\.sonarqube\resources\0\Google.Protobuf.dll</Path>
-            <Path>C:\Users\bpantaru\AppData\Local\Temp\.sonarqube\resources\0\SonarAnalyzer.CFG.dll</Path>
-            <Path>C:\Users\bpantaru\AppData\Local\Temp\.sonarqube\resources\0\SonarAnalyzer.CSharp.dll</Path>
-            <Path>C:\Users\bpantaru\AppData\Local\Temp\.sonarqube\resources\0\SonarAnalyzer.dll</Path>
+            <Path>C:\Users\bpantaru\AppData\Local\Temp\.sonarqube\resources\3\Google.Protobuf.dll</Path>
+            <Path>C:\Users\bpantaru\AppData\Local\Temp\.sonarqube\resources\3\SonarAnalyzer.CFG.dll</Path>
+            <Path>C:\Users\bpantaru\AppData\Local\Temp\.sonarqube\resources\3\SonarAnalyzer.CSharp.dll</Path>
+            <Path>C:\Users\bpantaru\AppData\Local\Temp\.sonarqube\resources\3\SonarAnalyzer.dll</Path>
           </AssemblyPaths>
         </AnalyzerPlugin>
-        <AnalyzerPlugin Key="vbnet" Version="8.20.0.28934" StaticResourceName="SonarAnalyzer-8.20.0.28934.zip">
+        <AnalyzerPlugin Key="vbnet" Version="8.22.0.31243" StaticResourceName="SonarAnalyzer-8.22.0.31243.zip">
           <AssemblyPaths>
-            <Path>C:\Users\bpantaru\AppData\Local\Temp\.sonarqube\resources\1\Google.Protobuf.dll</Path>
-            <Path>C:\Users\bpantaru\AppData\Local\Temp\.sonarqube\resources\1\SonarAnalyzer.dll</Path>
-            <Path>C:\Users\bpantaru\AppData\Local\Temp\.sonarqube\resources\1\SonarAnalyzer.VisualBasic.dll</Path>
+            <Path>C:\Users\bpantaru\AppData\Local\Temp\.sonarqube\resources\4\Google.Protobuf.dll</Path>
+            <Path>C:\Users\bpantaru\AppData\Local\Temp\.sonarqube\resources\4\SonarAnalyzer.dll</Path>
+            <Path>C:\Users\bpantaru\AppData\Local\Temp\.sonarqube\resources\4\SonarAnalyzer.VisualBasic.dll</Path>
           </AssemblyPaths>
         </AnalyzerPlugin>
       </AnalyzerPlugins>

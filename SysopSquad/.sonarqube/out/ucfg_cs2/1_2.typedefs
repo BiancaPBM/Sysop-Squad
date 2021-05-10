@@ -1,3 +1,9 @@
-[
-Account.Microservice.Programobject3
-	Program()&Account.Microservice.Program.Program()
+ù
+(Account.Microservice.Model.RegisterModelobjectK
+RegisterModel()8Account.Microservice.Model.RegisterModel.RegisterModel()E
+Username.get5Account.Microservice.Model.RegisterModel.Username.getE
+Username.set5Account.Microservice.Model.RegisterModel.Username.set?
+	Email.get2Account.Microservice.Model.RegisterModel.Email.get?
+	Email.set2Account.Microservice.Model.RegisterModel.Email.setE
+Password.get5Account.Microservice.Model.RegisterModel.Password.getE
+Password.set5Account.Microservice.Model.RegisterModel.Password.set
