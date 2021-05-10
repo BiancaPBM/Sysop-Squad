@@ -1,23 +1,9 @@
 
-MSysopSquad.Startup.Startup(Microsoft.Extensions.Configuration.IConfiguration)A
-7C:\TSP.NET\Sysop-Squad\SysopSquad\SysopSquad\Startup.cs ("1*K
-1A
-7C:\TSP.NET\Sysop-Squad\SysopSquad\SysopSquad\Startup.cs	 (	*
-0*Ñ
+SysopSquad.Program.Program()A
+7C:\TSP.NET\Sysop-Squad\SysopSquad\SysopSquad\Program.cs ("0* 
 0A
-7C:\TSP.NET\Sysop-Squad\SysopSquad\SysopSquad\Startup.cs ()ƒ
-€
+7C:\TSP.NET\Sysop-Squad\SysopSquad\SysopSquad\Program.cs ("X
 A
-7C:\TSP.NET\Sysop-Squad\SysopSquad\SysopSquad\Startup.cs ()7
-%01Microsoft.Extensions.Configuration.IConfiguration"$SysopSquad.Startup.Configuration.set*
-SysopSquad.Startup*D
-B
-configuration1Microsoft.Extensions.Configuration.IConfiguration*
-2* 
-2A
-7C:\TSP.NET\Sysop-Squad\SysopSquad\SysopSquad\Startup.cs	 (	"X
-A
-7C:\TSP.NET\Sysop-Squad\SysopSquad\SysopSquad\Startup.cs (	
-implicit return:B
-configuration1Microsoft.Extensions.Configuration.IConfigurationB
-SysopSquad.Startup
+7C:\TSP.NET\Sysop-Squad\SysopSquad\SysopSquad\Program.cs (
+implicit returnB
+SysopSquad.Program

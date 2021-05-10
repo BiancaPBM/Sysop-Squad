@@ -1,9 +1,7 @@
-ù
-(Account.Microservice.Model.RegisterModelobjectK
-RegisterModel()8Account.Microservice.Model.RegisterModel.RegisterModel()E
-Username.get5Account.Microservice.Model.RegisterModel.Username.getE
-Username.set5Account.Microservice.Model.RegisterModel.Username.set?
-	Email.get2Account.Microservice.Model.RegisterModel.Email.get?
-	Email.set2Account.Microservice.Model.RegisterModel.Email.setE
-Password.get5Account.Microservice.Model.RegisterModel.Password.getE
-Password.set5Account.Microservice.Model.RegisterModel.Password.set
+±
+#TicketHandling.Microservice.Startupobjectú
+:Startup(Microsoft.Extensions.Configuration.IConfiguration)^TicketHandling.Microservice.Startup.Startup(Microsoft.Extensions.Configuration.IConfiguration)ƒ
+NConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)rTicketHandling.Microservice.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)É
+mConfigure(Microsoft.AspNetCore.Builder.IApplicationBuilder, Microsoft.AspNetCore.Hosting.IWebHostEnvironment)ëTicketHandling.Microservice.Startup.Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder, Microsoft.AspNetCore.Hosting.IWebHostEnvironment)J
+Configuration.get5TicketHandling.Microservice.Startup.Configuration.getJ
+Configuration.set5TicketHandling.Microservice.Startup.Configuration.set

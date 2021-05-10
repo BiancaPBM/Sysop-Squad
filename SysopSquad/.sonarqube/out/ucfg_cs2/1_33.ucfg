@@ -1,83 +1,18 @@
 
-kAccount.Microservice.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)K
-AC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Startup.cs (%"0*š$
-0K
-AC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Startup.cs b(º
-·
-K
-AC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Startup.cs (:
-%04Microsoft.Extensions.DependencyInjection.IMvcBuilder"“Microsoft.Extensions.DependencyInjection.MvcServiceCollectionExtensions.AddControllers(Microsoft.Extensions.DependencyInjection.IServiceCollection)*K"I
-GMicrosoft.Extensions.DependencyInjection.MvcServiceCollectionExtensions*I
-G
-services;Microsoft.Extensions.DependencyInjection.IServiceCollection´
-±
-L
-AC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Startup.cs (€A
-%1;Microsoft.Extensions.DependencyInjection.IServiceCollection"áMicrosoft.Extensions.DependencyInjection.EntityFrameworkServiceCollectionExtensions.AddDbContext<TContext>(Microsoft.Extensions.DependencyInjection.IServiceCollection, System.Action<Microsoft.EntityFrameworkCore.DbContextOptionsBuilder>, Microsoft.Extensions.DependencyInjection.ServiceLifetime, Microsoft.Extensions.DependencyInjection.ServiceLifetime)*W"U
-SMicrosoft.Extensions.DependencyInjection.EntityFrameworkServiceCollectionExtensions*I
-G
-services;Microsoft.Extensions.DependencyInjection.IServiceCollection*
-""*
-""*
-""È
-Å
-K
-AC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Startup.cs" "(;3
-%2-Microsoft.AspNetCore.Identity.IdentityBuilder"£Microsoft.Extensions.DependencyInjection.IdentityServiceCollectionExtensions.AddIdentity<TUser, TRole>(Microsoft.Extensions.DependencyInjection.IServiceCollection)*P"N
-LMicrosoft.Extensions.DependencyInjection.IdentityServiceCollectionExtensions*I
-G
-services;Microsoft.Extensions.DependencyInjection.IServiceCollection¹
-¶
-K
-AC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Startup.cs" #(;3
-%3-Microsoft.AspNetCore.Identity.IdentityBuilder"£Microsoft.Extensions.DependencyInjection.IdentityEntityFrameworkBuilderExtensions.AddEntityFrameworkStores<TContext>(Microsoft.AspNetCore.Identity.IdentityBuilder)*U"S
-QMicrosoft.Extensions.DependencyInjection.IdentityEntityFrameworkBuilderExtensions*5
-3
-%2-Microsoft.AspNetCore.Identity.IdentityBuilderú
-÷
-K
-AC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Startup.cs" $(%3
-%4-Microsoft.AspNetCore.Identity.IdentityBuilder"Microsoft.AspNetCore.Identity.IdentityBuilderExtensions.AddDefaultTokenProviders(Microsoft.AspNetCore.Identity.IdentityBuilder)*;"9
-7Microsoft.AspNetCore.Identity.IdentityBuilderExtensions*5
-3
-%3-Microsoft.AspNetCore.Identity.IdentityBuilderª
-§
-K
-AC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Startup.cs' ,(?
-%59Microsoft.AspNetCore.Authentication.AuthenticationBuilder"ëMicrosoft.Extensions.DependencyInjection.AuthenticationServiceCollectionExtensions.AddAuthentication(Microsoft.Extensions.DependencyInjection.IServiceCollection, System.Action<Microsoft.AspNetCore.Authentication.AuthenticationOptions>)*V"T
-RMicrosoft.Extensions.DependencyInjection.AuthenticationServiceCollectionExtensions*I
-G
-services;Microsoft.Extensions.DependencyInjection.IServiceCollection*
-""ô
-ñ
-K
-AC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Startup.cs' ;(?
-%69Microsoft.AspNetCore.Authentication.AuthenticationBuilder"ÓMicrosoft.Extensions.DependencyInjection.JwtBearerExtensions.AddJwtBearer(Microsoft.AspNetCore.Authentication.AuthenticationBuilder, System.Action<Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerOptions>)*@">
-<Microsoft.Extensions.DependencyInjection.JwtBearerExtensions*A
-?
-%59Microsoft.AspNetCore.Authentication.AuthenticationBuilder*
-""š
-—
-K
-AC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Startup.cs= ^(A
-%7;Microsoft.Extensions.DependencyInjection.IServiceCollection"ÝMicrosoft.Extensions.DependencyInjection.SwaggerGenServiceCollectionExtensions.AddSwaggerGen(Microsoft.Extensions.DependencyInjection.IServiceCollection, System.Action<Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenOptions>)*R"P
-NMicrosoft.Extensions.DependencyInjection.SwaggerGenServiceCollectionExtensions*I
-G
-services;Microsoft.Extensions.DependencyInjection.IServiceCollection*
-""‰
-†
-K
-AC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Startup.cs_ b(A
-%8;Microsoft.Extensions.DependencyInjection.IServiceCollection"ÒMicrosoft.Extensions.DependencyInjection.CorsServiceCollectionExtensions.AddCors(Microsoft.Extensions.DependencyInjection.IServiceCollection, System.Action<Microsoft.AspNetCore.Cors.Infrastructure.CorsOptions>)*L"J
-HMicrosoft.Extensions.DependencyInjection.CorsServiceCollectionExtensions*I
-G
-services;Microsoft.Extensions.DependencyInjection.IServiceCollection*
-""*
-1*´
-1K
-AC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Startup.csc c("b
-K
-AC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Startup.csc c(
-implicit return:G
-services;Microsoft.Extensions.DependencyInjection.IServiceCollectionB 
-Account.Microservice.Startup
+4TicketHandling.Microservice.Model.Ticket.Reviews.setW
+MC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Model\Ticket.cs (!"0*«
+0W
+MC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Model\Ticket.cs" ("°
+­
+W
+MC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Model\Ticket.cs ("<*
+(TicketHandling.Microservice.Model.Ticket"
+Reviewsint"__id*
+
+valueint"™
+W
+MC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Model\Ticket.cs (">*<*
+(TicketHandling.Microservice.Model.Ticket"
+Reviewsint:
+valueintB,*
+(TicketHandling.Microservice.Model.Ticket

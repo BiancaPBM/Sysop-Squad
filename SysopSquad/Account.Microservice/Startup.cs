@@ -1,4 +1,3 @@
-using System;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
@@ -89,7 +88,7 @@ namespace Account.Microservice
                                     Id = "Bearer"
                                 }
                             },
-                            Array.Empty<string>()
+                            new string[] {}
                     }
                 });
       });

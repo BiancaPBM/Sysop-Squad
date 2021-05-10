@@ -1,20 +1,18 @@
 
-jAccount.Microservice.Data.ApplicationDbContext.OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)]
-SC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Data\ApplicationDbContext.cs (+"0*Ó
-0]
-SC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Data\ApplicationDbContext.cs ("éæ
-]
-SC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Data\ApplicationDbContext.cs (#
-
-%0void"ÎMicrosoft.AspNetCore.Identity.EntityFrameworkCore.IdentityDbContext<TUser, TRole, TKey, TUserClaim, TUserRole, TUserLogin, TRoleClaim, TUserToken>.OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)*20
-.Account.Microservice.Data.ApplicationDbContext*7
-5
-builder*Microsoft.EntityFrameworkCore.ModelBuilder2;OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)*
-1*Ø
-1]
-SC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Data\ApplicationDbContext.cs ("t
-]
-SC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Data\ApplicationDbContext.cs (
-implicit return:5
-builder*Microsoft.EntityFrameworkCore.ModelBuilderB20
-.Account.Microservice.Data.ApplicationDbContext
+JTicketHandling.Microservice.Model.TicketsDatabaseSettings.DatabaseName.seth
+^C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Model\TicketsDatabaseSettings.cs& ()"0*“
+0h
+^C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Model\TicketsDatabaseSettings.cs* (*Ý
+Ú
+h
+^C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Model\TicketsDatabaseSettings.cs& (*U;
+9TicketHandling.Microservice.Model.TicketsDatabaseSettings"
+DatabaseNamestring"__id*
+
+valuestring"Ã
+h
+^C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Model\TicketsDatabaseSettings.cs& (*W*U;
+9TicketHandling.Microservice.Model.TicketsDatabaseSettings"
+DatabaseNamestring:
+valuestringB=;
+9TicketHandling.Microservice.Model.TicketsDatabaseSettings

@@ -10,7 +10,7 @@ using TicketHandling.Microservice.Model;
 
 namespace TicketHandling.Microservice
 {
-  public static class Startup
+  public class Startup
     {
         public Startup(IConfiguration configuration)
         {

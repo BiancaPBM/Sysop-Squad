@@ -1,7 +1,4 @@
-±
-#ReviewHandling.Microservice.Startupobjectœ
-:Startup(Microsoft.Extensions.Configuration.IConfiguration)^ReviewHandling.Microservice.Startup.Startup(Microsoft.Extensions.Configuration.IConfiguration)Ä
-NConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)rReviewHandling.Microservice.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)ƒ
-mConfigure(Microsoft.AspNetCore.Builder.IApplicationBuilder, Microsoft.AspNetCore.Hosting.IWebHostEnvironment)‘ReviewHandling.Microservice.Startup.Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder, Microsoft.AspNetCore.Hosting.IWebHostEnvironment)J
-Configuration.get5ReviewHandling.Microservice.Startup.Configuration.getJ
-Configuration.set5ReviewHandling.Microservice.Startup.Configuration.set
+Þ
+.Account.Microservice.Data.ApplicationDbContextJMicrosoft.AspNetCore.Identity.EntityFrameworkCore.IdentityDbContext<TUser>WMicrosoft.AspNetCore.Identity.EntityFrameworkCore.IdentityDbContext<TUser, TRole, TKey>’Microsoft.AspNetCore.Identity.EntityFrameworkCore.IdentityDbContext<TUser, TRole, TKey, TUserClaim, TUserRole, TUserLogin, TRoleClaim, TUserToken>vMicrosoft.AspNetCore.Identity.EntityFrameworkCore.IdentityUserContext<TUser, TKey, TUserClaim, TUserLogin, TUserToken>'Microsoft.EntityFrameworkCore.DbContextobjectœ
+tApplicationDbContext(Microsoft.EntityFrameworkCore.DbContextOptions<Account.Microservice.Data.ApplicationDbContext>)£Account.Microservice.Data.ApplicationDbContext.ApplicationDbContext(Microsoft.EntityFrameworkCore.DbContextOptions<Account.Microservice.Data.ApplicationDbContext>)©
+;OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)jAccount.Microservice.Data.ApplicationDbContext.OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)

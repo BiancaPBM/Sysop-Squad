@@ -1,23 +1,18 @@
 
-WAccount.Microservice.Startup.Startup(Microsoft.Extensions.Configuration.IConfiguration)K
-AC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Startup.cs ("1*U
-1K
-AC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Startup.cs	 (	*
-0*ù
-0K
-AC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Startup.cs ()¡
-ž
-K
-AC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Startup.cs ()7
-%01Microsoft.Extensions.Configuration.IConfiguration".Account.Microservice.Startup.Configuration.set* 
-Account.Microservice.Startup*D
-B
-configuration1Microsoft.Extensions.Configuration.IConfiguration*
-2*´
-2K
-AC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Startup.cs	 (	"b
-K
-AC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Startup.cs (	
-implicit return:B
-configuration1Microsoft.Extensions.Configuration.IConfigurationB 
-Account.Microservice.Startup
+8TicketHandling.Microservice.Model.Ticket.Description.setW
+MC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Model\Ticket.cs% (("0*¼
+0W
+MC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Model\Ticket.cs) ()º
+·
+W
+MC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Model\Ticket.cs% ()C*
+(TicketHandling.Microservice.Model.Ticket"
+Descriptionstring"__id*
+
+valuestring" 
+W
+MC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Model\Ticket.cs% ()E*C*
+(TicketHandling.Microservice.Model.Ticket"
+Descriptionstring:
+valuestringB,*
+(TicketHandling.Microservice.Model.Ticket
