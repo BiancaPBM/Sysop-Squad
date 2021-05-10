@@ -1,28 +1,18 @@
 
-rReviewHandling.Microservice.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)R
-HC:\TSP.NET\Sysop-Squad\SysopSquad\ReviewHandling.Microservice\Startup.cs (%"0*Ä
-0R
-HC:\TSP.NET\Sysop-Squad\SysopSquad\ReviewHandling.Microservice\Startup.cs "(Á
-¾
-R
-HC:\TSP.NET\Sysop-Squad\SysopSquad\ReviewHandling.Microservice\Startup.cs (%:
-%04Microsoft.Extensions.DependencyInjection.IMvcBuilder"“Microsoft.Extensions.DependencyInjection.MvcServiceCollectionExtensions.AddControllers(Microsoft.Extensions.DependencyInjection.IServiceCollection)*K"I
-GMicrosoft.Extensions.DependencyInjection.MvcServiceCollectionExtensions*I
-G
-services;Microsoft.Extensions.DependencyInjection.IServiceCollection¡
-ž
-R
-HC:\TSP.NET\Sysop-Squad\SysopSquad\ReviewHandling.Microservice\Startup.cs "(A
-%1;Microsoft.Extensions.DependencyInjection.IServiceCollection"ÝMicrosoft.Extensions.DependencyInjection.SwaggerGenServiceCollectionExtensions.AddSwaggerGen(Microsoft.Extensions.DependencyInjection.IServiceCollection, System.Action<Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenOptions>)*R"P
-NMicrosoft.Extensions.DependencyInjection.SwaggerGenServiceCollectionExtensions*I
-G
-services;Microsoft.Extensions.DependencyInjection.IServiceCollection*
-""*
-1*Â
-1R
-HC:\TSP.NET\Sysop-Squad\SysopSquad\ReviewHandling.Microservice\Startup.cs#	 #(	"i
-R
-HC:\TSP.NET\Sysop-Squad\SysopSquad\ReviewHandling.Microservice\Startup.cs# #(	
-implicit return:G
-services;Microsoft.Extensions.DependencyInjection.IServiceCollectionB'%
-#ReviewHandling.Microservice.Startup
+STicketHandling.Microservice.Model.TicketsDatabaseSettings.TicketsCollectionName.seth
+^C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Model\TicketsDatabaseSettings.cs/ (2"0*¥
+0h
+^C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Model\TicketsDatabaseSettings.cs3 (3æ
+ã
+h
+^C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Model\TicketsDatabaseSettings.cs/ (3^;
+9TicketHandling.Microservice.Model.TicketsDatabaseSettings"
+TicketsCollectionNamestring"__id*
+
+valuestring"Ì
+h
+^C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Model\TicketsDatabaseSettings.cs/ (3`*^;
+9TicketHandling.Microservice.Model.TicketsDatabaseSettings"
+TicketsCollectionNamestring:
+valuestringB=;
+9TicketHandling.Microservice.Model.TicketsDatabaseSettings

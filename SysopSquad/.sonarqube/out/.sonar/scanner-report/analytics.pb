@@ -1,8 +1,8 @@
 
 #
 physical_memory_byte16981385216
-&
-msbuild_major_minor_versionUnknown
+$
+msbuild_major_minor_version16.10
 
 java_major_version11
 
@@ -13,12 +13,12 @@
 'force_node_under_10_during_grace_periodfalse
 
 scanner_major_version5.1
+
+msbuild_major_version16
  
-msbuild_major_versionUnknown
-
-msbuild_versionUnknown
+msbuild_version16.10.0.18107
  
-peak_used_heap_byte	177659712
+peak_used_heap_byte	229888624
 
 scanner_typeScannerMSBuild
 !
@@ -38,8 +38,6 @@ Windows 10
 
 
 scmgit
-¦
-msbuild_unknown_reason‹Get version command exited / had an exception (exit code : N/A ; stdout: N/A ; stderr: N/A ; exception : org.sonar.api.utils.command.CommandException: java.io.IOException: Cannot run program "msbuild": CreateProcess error=2, The system cannot find the file specified)
 
 node_js_versionv14.15.3>
 garbage_collectors(

@@ -1,31 +1,18 @@
 
-?ReviewHandling.Microservice.Program.CreateHostBuilder(string[])R
-HC:\TSP.NET\Sysop-Squad\SysopSquad\ReviewHandling.Microservice\Program.cs# (4"0*«
-0R
-HC:\TSP.NET\Sysop-Squad\SysopSquad\ReviewHandling.Microservice\Program.cs (…
-‚
-R
-HC:\TSP.NET\Sysop-Squad\SysopSquad\ReviewHandling.Microservice\Program.cs (+/
-%0)Microsoft.Extensions.Hosting.IHostBuilder"@Microsoft.Extensions.Hosting.Host.CreateDefaultBuilder(string[])*%"#
-!Microsoft.Extensions.Hosting.Host*
-
-argsstring[]¿
-¼
-R
-HC:\TSP.NET\Sysop-Squad\SysopSquad\ReviewHandling.Microservice\Program.cs (/
-%1)Microsoft.Extensions.Hosting.IHostBuilder"ºMicrosoft.Extensions.Hosting.GenericHostBuilderExtensions.ConfigureWebHostDefaults(Microsoft.Extensions.Hosting.IHostBuilder, System.Action<Microsoft.AspNetCore.Hosting.IWebHostBuilder>)*=";
-9Microsoft.Extensions.Hosting.GenericHostBuilderExtensions*1
-/
-%0)Microsoft.Extensions.Hosting.IHostBuilder*
-"""‡
-R
-HC:\TSP.NET\Sysop-Squad\SysopSquad\ReviewHandling.Microservice\Program.cs (1
-/
-%1)Microsoft.Extensions.Hosting.IHostBuilder*Â
-1R
-HC:\TSP.NET\Sysop-Squad\SysopSquad\ReviewHandling.Microservice\Program.cs ("i
-R
-HC:\TSP.NET\Sysop-Squad\SysopSquad\ReviewHandling.Microservice\Program.cs (
-implicit return:
-argsstring[]B'"%
-#ReviewHandling.Microservice.Program
+/TicketHandling.Microservice.Model.Ticket.Id.setW
+MC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Model\Ticket.cs ("0*ª
+0W
+MC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Model\Ticket.cs  ( ±
+®
+W
+MC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Model\Ticket.cs ( :*
+(TicketHandling.Microservice.Model.Ticket"
+Idstring"__id*
+
+valuestring"—
+W
+MC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Model\Ticket.cs ( <*:*
+(TicketHandling.Microservice.Model.Ticket"
+Idstring:
+valuestringB,*
+(TicketHandling.Microservice.Model.Ticket

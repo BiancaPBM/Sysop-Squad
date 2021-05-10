@@ -1,13 +1,18 @@
 
-=Account.Microservice.Migrations.InitialCreate.InitialCreate()k
-aC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Migrations\20210419194739_InitialCreate.cs (&"0*‚
-0m
-aC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Migrations\20210419194739_InitialCreate.csÚ Ú(‡
-„
-
-%0void">Microsoft.EntityFrameworkCore.Migrations.Migration.Migration()*64
-2Microsoft.EntityFrameworkCore.Migrations.Migration"ƒ
-l
-aC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Migrations\20210419194739_InitialCreate.cs Ú(
-implicit returnB1/
--Account.Microservice.Migrations.InitialCreate
+5ReviewHandling.Microservice.Startup.Configuration.setR
+HC:\TSP.NET\Sysop-Squad\SysopSquad\ReviewHandling.Microservice\Startup.cs. (1"0*¨
+0R
+HC:\TSP.NET\Sysop-Squad\SysopSquad\ReviewHandling.Microservice\Startup.cs2 (2ˆ
+…
+R
+HC:\TSP.NET\Sysop-Squad\SysopSquad\ReviewHandling.Microservice\Startup.cs. (2k%
+#ReviewHandling.Microservice.Startup"B
+Configuration1Microsoft.Extensions.Configuration.IConfiguration"__id*<
+:
+value1Microsoft.Extensions.Configuration.IConfiguration"Ã
+R
+HC:\TSP.NET\Sysop-Squad\SysopSquad\ReviewHandling.Microservice\Startup.cs. (2m*k%
+#ReviewHandling.Microservice.Startup"B
+Configuration1Microsoft.Extensions.Configuration.IConfiguration::
+value1Microsoft.Extensions.Configuration.IConfigurationB'%
+#ReviewHandling.Microservice.Startup

@@ -1,38 +1,24 @@
 
-TicketHandling.Microservice.Controllers.TicketsController.TicketsController(TicketHandling.Microservice.Data.ITicketRepository)g
-]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs ( "3*è
-1g
-]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs	 (	u
-s
-
-%0void"8Microsoft.AspNetCore.Mvc.ControllerBase.ControllerBase()*+)
-'Microsoft.AspNetCore.Mvc.ControllerBase*
-0*­
-0g
-]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs
- ("¹
-¶
-g
-]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs
- ("€;
-9TicketHandling.Microservice.Controllers.TicketsController"A
-_repository2TicketHandling.Microservice.Data.ITicketRepository"__id*B
-@
-
-repository2TicketHandling.Microservice.Data.ITicketRepository*
-2*ì
-2g
-]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs	 (	"~
-g
-]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs (	
-implicit return*ò
-3g
-]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs> (>
-}
-g
-]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs ( 
-%1"__entrypoint*
-1:@
-
-repository2TicketHandling.Microservice.Data.ITicketRepositoryB=;
-9TicketHandling.Microservice.Controllers.TicketsController
+.Account.Microservice.Model.Response.Status.getR
+HC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Model\Response.cs
+ 
+("0*è
+0R
+HC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Model\Response.cs
+ 
+(¨
+¥
+R
+HC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Model\Response.cs
+ 
+(
+%0string"__id*;*9%
+#Account.Microservice.Model.Response"
+Statusstring"d
+R
+HC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Model\Response.cs
+ 
+(
+
+%0stringB'%
+#Account.Microservice.Model.Response

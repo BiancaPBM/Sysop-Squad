@@ -1,18 +1,20 @@
-É
-]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs 8rF	
- !"#$%&'()+,-./02345678:;<=>?@ACDEFGHIJKLMNOx‚!#(./57:;=?@FGIKLr
-QC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Data\DataContext.cs 8r	
-‚
-l
-WC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Data\ITicketRepository.csr	
-Ì
-VC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Data\TicketRepository.cs 8rV	
- !"#$%&')*+,-./012356789:;<=>?@ACDEFGHIJKLMNOPQRSTUVWXYZ[\x‚!%-19:?GKRSXl
-MC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Model\Ticket.cs 8r	
-w
-^C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Model\TicketsDatabaseSettings.cs 8r
-m
-HC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Program.cs 8r	
-‚
-©
-HC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Startup.cs 8j,r7	!"#$%&'()*-./01234568:<>?@ACDEx‚!"$&(/13458:<>@
+Ö
+WC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Controllers\AccountController.cs 8rT	
+ !#$%&'()*,-./0234579:;<=>?ABCDEFGHJKLMNOPRSTUVWXYZ\]^_x‚ '(*./247<>ACDGNOPTUVXYZ\w
+SC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Data\ApplicationDbContext.cs 8r	
+‚€
+aC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Migrations\20210419194739_InitialCreate.cs" 8r“	
+ !"#$%&'()*+,-./123456789:;<=>?@ABCDFGHIJKLMNOPQRSTUVWXY[\]^_`abcdefghijklmopqrstuvwxyz{|}~€‚ƒ„…‡ˆ‰Š‹ŒŽ‘’“”•–—˜™›œž ¡¢£¤¥§¨©ª¬­®¯±²³´¶·¸¹»¼½¾¿ÀÁÃÄÅÆÈÉËÌÎÏÑÒÔÕ×ØÙÚÛ‚|
+ !"#$%&'()*,.135789;=>@CFHJLMNPRSUX[]_`abdfgiloqstvxy{~„‡‰‹ŒŽ’“•˜› §¬±¶»ÅÈËÎÑÔ×`
+OC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Model\ApplicationUser.csr	
+c
+JC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Model\LoginModel.cs 8r	
+e
+MC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Model\RegisterModel.cs 8r
+^
+HC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Model\Response.cs 8r	
+l
+AC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Program.cs 8r
+‚å
+AC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Startup.cs 8j!&.?Feri	
+"#$'()*+,/0123456789:;=>@ABCDEGHIJKLMNOPQRSTUVWXYZ[\]^_`abcfghijklmnoqsuwxyz{|}x‚!"')*+/1239=@GJMPW[_ahjlmnqsuwy
