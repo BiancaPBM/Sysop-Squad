@@ -7,7 +7,7 @@ import { AgentSolutionsService } from './agent-solutions.service';
 @Component({
   selector: 'app-agent-solutions',
   templateUrl: './agent-solutions.component.html',
-  styleUrls: ['../ticket/ticket.component.css']
+  styleUrls: ['../form/form.component.css']
 })
 export class AgentSolutionsComponent implements OnInit {
   tickets : Ticket[] = [];

@@ -1,4 +1,4 @@
-export class Ticket{
+export class AgentTicket{
     id: string = "";
     description: string ="";
     user: string ="";
@@ -7,7 +7,5 @@ export class Ticket{
     rating: string = ""; 
     reviews: string = "";
 
-  
-
-   constructor (){}
+    constructor (){}
 }

@@ -13,7 +13,7 @@ export class AgentTicket{
   constructor (){}
 }
 @Component({
-  selector: 'app-agent-ticket',
+  selector: 'agent-ticket',
   templateUrl: './agent-ticket.component.html',
   styleUrls: ['../form/form.component.css']
 })
