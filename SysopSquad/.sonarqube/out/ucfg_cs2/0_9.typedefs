@@ -1,7 +1,0 @@
-‡
-Account.Microservice.Startupobject•
-:Startup(Microsoft.Extensions.Configuration.IConfiguration)WAccount.Microservice.Startup.Startup(Microsoft.Extensions.Configuration.IConfiguration)½
-NConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)kAccount.Microservice.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)ü
-mConfigure(Microsoft.AspNetCore.Builder.IApplicationBuilder, Microsoft.AspNetCore.Hosting.IWebHostEnvironment)ŠAccount.Microservice.Startup.Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder, Microsoft.AspNetCore.Hosting.IWebHostEnvironment)C
-Configuration.get.Account.Microservice.Startup.Configuration.getC
-Configuration.set.Account.Microservice.Startup.Configuration.set

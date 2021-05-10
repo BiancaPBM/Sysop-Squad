@@ -6,7 +6,7 @@
   <SonarScannerWorkingDirectory>C:\TSP.NET\Sysop-Squad\SysopSquad</SonarScannerWorkingDirectory>
   <HasBeginStepCommandLineCredentials>true</HasBeginStepCommandLineCredentials>
   <SonarQubeHostUrl>https://sonarcloud.io</SonarQubeHostUrl>
-  <SonarQubeVersion>8.0.0.19625</SonarQubeVersion>
+  <SonarQubeVersion>8.0.0.19667</SonarQubeVersion>
   <SonarProjectKey>Sysop-Squad-Backend</SonarProjectKey>
   <AdditionalConfig>
     <ConfigSetting Id="BuildUri" />
@@ -124,9 +124,9 @@
     <Property Name="sonar.core.serverBaseURL">https://sonarcloud.io</Property>
     <Property Name="sonar.lf.logoWidthPx">105</Property>
     <Property Name="sonar.core.id">1BD809FA-AWHW8ct9-T_TB3XqouNu</Property>
-    <Property Name="sonar.core.startTime">4/27/2021 10:20:48 AM</Property>
     <Property Name="node_10_end_of_support_date">1620604800000</Property>
     <Property Name="node_10_grace_period_termination_date">1621814400000</Property>
+    <Property Name="sonar.core.startTime">4/28/2021 1:08:43 PM</Property>
   </ServerSettings>
   <LocalSettings>
     <Property Name="sonar.verbose">true</Property>

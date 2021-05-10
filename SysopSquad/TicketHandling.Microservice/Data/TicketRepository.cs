@@ -20,9 +20,9 @@ namespace TicketHandling.Microservice.Data
       {
         await _context.Tickets.InsertOneAsync(ticket);
       }
-      catch (Exception)
+      catch (Exception e)
       {
-        throw;
+        Console.WriteLine(e);
       }
     }
 
@@ -32,9 +32,9 @@ namespace TicketHandling.Microservice.Data
       {
         await _context.Tickets.DeleteOneAsync(ticket => ticket.Id == id);
       }
-      catch (Exception)
+      catch (Exception e)
       {
-        throw;
+        Console.WriteLine(e);
       }
     }
 
@@ -44,9 +44,10 @@ namespace TicketHandling.Microservice.Data
       {
         return await _context.Tickets.Find(ticket => true).ToListAsync();
       }
-      catch (Exception)
+      catch (Exception e)
       {
-        throw;
+        Console.WriteLine(e);
+        return new List<Ticket>();
       }
     }
 
@@ -58,9 +59,10 @@ namespace TicketHandling.Microservice.Data
                         .Find(ticket => ticket.Id == id)
                         .FirstOrDefaultAsync();
       }
-      catch (Exception)
+      catch (Exception e)
       {
-        throw;
+        Console.WriteLine(e);
+        return new Ticket();
       }
     }
 
@@ -68,11 +70,11 @@ namespace TicketHandling.Microservice.Data
     {
       try
       {
-        await _context.Tickets.ReplaceOneAsync(ticket => ticket.Id == id, ticket);
+        await _context.Tickets.ReplaceOneAsync(tick => tick.Id == id, ticket);
       }
-      catch (Exception)
+      catch (Exception e)
       {
-        throw;
+        Console.WriteLine(e);
       }
     }
     public async Task<IEnumerable<Ticket>> OrderByReview()
@@ -83,9 +85,10 @@ namespace TicketHandling.Microservice.Data
             .SortByDescending(ticket => ticket.Rating).Limit(10)
             .ToListAsync();
       }
-      catch (Exception)
+      catch (Exception e)
       {
-        throw;
+        Console.WriteLine(e);
+        return new List<Ticket>();
       }
     }
   }

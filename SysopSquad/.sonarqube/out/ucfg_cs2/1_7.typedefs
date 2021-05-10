@@ -1,9 +1,10 @@
-´
-1TicketHandling.Microservice.Data.TicketRepositoryobjectÎ
-LTicketRepository(TicketHandling.Microservice.Model.ITicketsDatabaseSettings)~TicketHandling.Microservice.Data.TicketRepository.TicketRepository(TicketHandling.Microservice.Model.ITicketsDatabaseSettings)œ
-3AddTicket(TicketHandling.Microservice.Model.Ticket)eTicketHandling.Microservice.Data.TicketRepository.AddTicket(TicketHandling.Microservice.Model.Ticket)^
-DeleteTicket(string)FTicketHandling.Microservice.Data.TicketRepository.DeleteTicket(string)F
-GetAll():TicketHandling.Microservice.Data.TicketRepository.GetAll()T
-GetById(string)ATicketHandling.Microservice.Data.TicketRepository.GetById(string)²
->UpdateTicket(string, TicketHandling.Microservice.Model.Ticket)pTicketHandling.Microservice.Data.TicketRepository.UpdateTicket(string, TicketHandling.Microservice.Model.Ticket)T
-OrderByReview()ATicketHandling.Microservice.Data.TicketRepository.OrderByReview()
+ç
+#Account.Microservice.Model.Responseobject<
+
+Response().Account.Microservice.Model.Response.Response()<
+
+Status.get.Account.Microservice.Model.Response.Status.get<
+
+Status.set.Account.Microservice.Model.Response.Status.set>
+Message.get/Account.Microservice.Model.Response.Message.get>
+Message.set/Account.Microservice.Model.Response.Message.set

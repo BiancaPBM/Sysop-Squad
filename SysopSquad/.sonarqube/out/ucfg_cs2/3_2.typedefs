@@ -1,7 +1,5 @@
-±
-#ReviewHandling.Microservice.Startupobjectœ
-:Startup(Microsoft.Extensions.Configuration.IConfiguration)^ReviewHandling.Microservice.Startup.Startup(Microsoft.Extensions.Configuration.IConfiguration)Ä
-NConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)rReviewHandling.Microservice.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)ƒ
-mConfigure(Microsoft.AspNetCore.Builder.IApplicationBuilder, Microsoft.AspNetCore.Hosting.IWebHostEnvironment)‘ReviewHandling.Microservice.Startup.Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder, Microsoft.AspNetCore.Hosting.IWebHostEnvironment)J
-Configuration.get5ReviewHandling.Microservice.Startup.Configuration.getJ
-Configuration.set5ReviewHandling.Microservice.Startup.Configuration.set
+Š
+,TicketHandling.Microservice.Data.DataContextobject¿
+GDataContext(TicketHandling.Microservice.Model.ITicketsDatabaseSettings)tTicketHandling.Microservice.Data.DataContext.DataContext(TicketHandling.Microservice.Model.ITicketsDatabaseSettings)G
+Tickets.get8TicketHandling.Microservice.Data.DataContext.Tickets.getG
+Tickets.set8TicketHandling.Microservice.Data.DataContext.Tickets.set

@@ -10,6 +10,7 @@ using Microsoft.OpenApi.Models;
 using Ocelot.DependencyInjection;
 using Ocelot.Middleware;
 using System.Text;
+using System.Threading.Tasks;
 
 namespace SysopSquad
 {
@@ -56,25 +57,23 @@ namespace SysopSquad
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
-        public async void Configure(IApplicationBuilder app, IWebHostEnvironment env)
+        public async Task Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
           app.UseCors(options => options.AllowAnyOrigin().AllowAnyMethod()
             .AllowAnyHeader());
            await app.UseOcelot();
-      if (env.IsDevelopment())
-            {
+          if (env.IsDevelopment())
+          {
                 app.UseDeveloperExceptionPage();
                 app.UseSwagger();
                 app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "SysopSquad v1"));
-            }
+          }
 
-            app.UseHttpsRedirection();
+          app.UseHttpsRedirection();
 
-            app.UseRouting();
+          app.UseRouting();
 
-            app.UseAuthorization();
-
-      
-    }
+          app.UseAuthorization();
+        }
     }
 }

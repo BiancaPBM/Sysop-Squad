@@ -1,16 +1,9 @@
 
-5ReviewHandling.Microservice.Startup.Configuration.getR
-HC:\TSP.NET\Sysop-Squad\SysopSquad\ReviewHandling.Microservice\Startup.cs. (1"0*Ò
+-TicketHandling.Microservice.Program.Program()R
+HC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Program.cs ("0*¬
 0R
-HC:\TSP.NET\Sysop-Squad\SysopSquad\ReviewHandling.Microservice\Startup.cs2 (2Ö
-Ç
+HC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Program.cs ("i
 R
-HC:\TSP.NET\Sysop-Squad\SysopSquad\ReviewHandling.Microservice\Startup.cs. (27
-%01Microsoft.Extensions.Configuration.IConfiguration"__id*m*k%
-#ReviewHandling.Microservice.Startup"B
-Configuration1Microsoft.Extensions.Configuration.IConfiguration"è
-R
-HC:\TSP.NET\Sysop-Squad\SysopSquad\ReviewHandling.Microservice\Startup.cs. (29
-7
-%01Microsoft.Extensions.Configuration.IConfigurationB'%
-#ReviewHandling.Microservice.Startup
+HC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Program.cs (
+implicit returnB'%
+#TicketHandling.Microservice.Program
