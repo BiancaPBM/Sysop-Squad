@@ -1,71 +1,0 @@
-
-rTicketHandling.Microservice.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)R
-HC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Startup.cs (%"0*Á
-0R
-HC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Startup.cs )(
-Ì
-R
-HC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Startup.cs (7
-%01Microsoft.Extensions.Configuration.IConfiguration"5TicketHandling.Microservice.Startup.Configuration.get*'%
-#TicketHandling.Microservice.Startup¥±
-R
-HC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Startup.cs (I>
-%18Microsoft.Extensions.Configuration.IConfigurationSection"DMicrosoft.Extensions.Configuration.IConfiguration.GetSection(string)*9
-7
-%01Microsoft.Extensions.Configuration.IConfiguration*
-""2GetSection(string)‰
-·
-R
-HC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Startup.cs (JA
-%2;Microsoft.Extensions.DependencyInjection.IServiceCollection"‹Microsoft.Extensions.DependencyInjection.OptionsConfigurationServiceCollectionExtensions.Configure<TOptions>(Microsoft.Extensions.DependencyInjection.IServiceCollection, Microsoft.Extensions.Configuration.IConfiguration)*\"Z
-XMicrosoft.Extensions.DependencyInjection.OptionsConfigurationServiceCollectionExtensions*I
-G
-services;Microsoft.Extensions.DependencyInjection.IServiceCollection*@
->
-%18Microsoft.Extensions.Configuration.IConfigurationSectionê
-ç
-R
-HC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Startup.cs (QA
-%3;Microsoft.Extensions.DependencyInjection.IServiceCollection"œMicrosoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions.AddSingleton<TService>(Microsoft.Extensions.DependencyInjection.IServiceCollection, System.Func<System.IServiceProvider, TService>)*O"M
-KMicrosoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions*I
-G
-services;Microsoft.Extensions.DependencyInjection.IServiceCollection*
-""È
-Ê
-R
-HC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Startup.cs (HA
-%4;Microsoft.Extensions.DependencyInjection.IServiceCollection"∞Microsoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions.AddTransient<TService, TImplementation>(Microsoft.Extensions.DependencyInjection.IServiceCollection)*O"M
-KMicrosoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions*I
-G
-services;Microsoft.Extensions.DependencyInjection.IServiceCollection¡
-æ
-R
-HC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Startup.cs! !(%:
-%54Microsoft.Extensions.DependencyInjection.IMvcBuilder"ìMicrosoft.Extensions.DependencyInjection.MvcServiceCollectionExtensions.AddControllers(Microsoft.Extensions.DependencyInjection.IServiceCollection)*K"I
-GMicrosoft.Extensions.DependencyInjection.MvcServiceCollectionExtensions*I
-G
-services;Microsoft.Extensions.DependencyInjection.IServiceCollection°
-û
-R
-HC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Startup.cs" %(A
-%6;Microsoft.Extensions.DependencyInjection.IServiceCollection"›Microsoft.Extensions.DependencyInjection.SwaggerGenServiceCollectionExtensions.AddSwaggerGen(Microsoft.Extensions.DependencyInjection.IServiceCollection, System.Action<Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenOptions>)*R"P
-NMicrosoft.Extensions.DependencyInjection.SwaggerGenServiceCollectionExtensions*I
-G
-services;Microsoft.Extensions.DependencyInjection.IServiceCollection*
-""ê
-ç
-R
-HC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Startup.cs& )(A
-%7;Microsoft.Extensions.DependencyInjection.IServiceCollection"“Microsoft.Extensions.DependencyInjection.CorsServiceCollectionExtensions.AddCors(Microsoft.Extensions.DependencyInjection.IServiceCollection, System.Action<Microsoft.AspNetCore.Cors.Infrastructure.CorsOptions>)*L"J
-HMicrosoft.Extensions.DependencyInjection.CorsServiceCollectionExtensions*I
-G
-services;Microsoft.Extensions.DependencyInjection.IServiceCollection*
-""*
-1*¬
-1R
-HC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Startup.cs* *("i
-R
-HC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Startup.cs* *(
-implicit return:G
-services;Microsoft.Extensions.DependencyInjection.IServiceCollectionB'%
-#TicketHandling.Microservice.Startup

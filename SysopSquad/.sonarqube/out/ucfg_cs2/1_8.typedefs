@@ -1,4 +1,3 @@
-Ë
-AAccount.Microservice.Migrations.ApplicationDbContextModelSnapshot:Microsoft.EntityFrameworkCore.Infrastructure.ModelSnapshotobject²
-6BuildModel(Microsoft.EntityFrameworkCore.ModelBuilder)xAccount.Microservice.Migrations.ApplicationDbContextModelSnapshot.BuildModel(Microsoft.EntityFrameworkCore.ModelBuilder)Œ
-#ApplicationDbContextModelSnapshot()eAccount.Microservice.Migrations.ApplicationDbContextModelSnapshot.ApplicationDbContextModelSnapshot()
+²
+.Account.Microservice.Data.ApplicationDbContextJMicrosoft.AspNetCore.Identity.EntityFrameworkCore.IdentityDbContext<TUser>WMicrosoft.AspNetCore.Identity.EntityFrameworkCore.IdentityDbContext<TUser, TRole, TKey>’Microsoft.AspNetCore.Identity.EntityFrameworkCore.IdentityDbContext<TUser, TRole, TKey, TUserClaim, TUserRole, TUserLogin, TRoleClaim, TUserToken>vMicrosoft.AspNetCore.Identity.EntityFrameworkCore.IdentityUserContext<TUser, TKey, TUserClaim, TUserLogin, TUserToken>'Microsoft.EntityFrameworkCore.DbContextobjectœ
+tApplicationDbContext(Microsoft.EntityFrameworkCore.DbContextOptions<Account.Microservice.Data.ApplicationDbContext>)£Account.Microservice.Data.ApplicationDbContext.ApplicationDbContext(Microsoft.EntityFrameworkCore.DbContextOptions<Account.Microservice.Data.ApplicationDbContext>)

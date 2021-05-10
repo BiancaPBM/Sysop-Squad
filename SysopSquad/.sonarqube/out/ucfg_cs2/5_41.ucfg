@@ -1,38 +1,0 @@
-
-FTicketHandling.Microservice.Data.TicketRepository.DeleteTicket(string)`
-VC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Data\TicketRepository.cs (""0*Î
-0`
-VC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Data\TicketRepository.cs! !(Gí
-è
-`
-VC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Data\TicketRepository.cs! !(2
-%0,TicketHandling.Microservice.Data.DataContext"__id*q*o3
-1TicketHandling.Microservice.Data.TicketRepository"8
-_context,TicketHandling.Microservice.Data.DataContextá
-Ñ
-`
-VC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Data\TicketRepository.cs! !(0
-%1*MongoDB.Driver.IMongoCollection<TDocument>"8TicketHandling.Microservice.Data.DataContext.Tickets.get*4
-2
-%0,TicketHandling.Microservice.Data.DataContext‹
-Ÿ
-`
-VC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Data\TicketRepository.cs! !(H*
-%2$System.Threading.Tasks.Task<TResult>"’MongoDB.Driver.IMongoCollectionExtensions.DeleteOneAsync<TDocument>(MongoDB.Driver.IMongoCollection<TDocument>, System.Linq.Expressions.Expression<System.Func<TDocument, bool>>, System.Threading.CancellationToken)*-"+
-)MongoDB.Driver.IMongoCollectionExtensions*2
-0
-%1*MongoDB.Driver.IMongoCollection<TDocument>*
-""*
-""*
-1
-2*j
-1`
-VC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Data\TicketRepository.cs' '(*
-2*ﬁ
-2`
-VC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Data\TicketRepository.cs' '("w
-`
-VC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Data\TicketRepository.cs' '(
-implicit return:
-idstringB53
-1TicketHandling.Microservice.Data.TicketRepository

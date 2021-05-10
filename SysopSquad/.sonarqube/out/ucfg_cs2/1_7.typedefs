@@ -1,10 +1,7 @@
-ç
-#Account.Microservice.Model.Responseobject<
-
-Response().Account.Microservice.Model.Response.Response()<
-
-Status.get.Account.Microservice.Model.Response.Status.get<
-
-Status.set.Account.Microservice.Model.Response.Status.set>
-Message.get/Account.Microservice.Model.Response.Message.get>
-Message.set/Account.Microservice.Model.Response.Message.set
+‡
+Account.Microservice.Startupobject•
+:Startup(Microsoft.Extensions.Configuration.IConfiguration)WAccount.Microservice.Startup.Startup(Microsoft.Extensions.Configuration.IConfiguration)½
+NConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)kAccount.Microservice.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)ü
+mConfigure(Microsoft.AspNetCore.Builder.IApplicationBuilder, Microsoft.AspNetCore.Hosting.IWebHostEnvironment)ŠAccount.Microservice.Startup.Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder, Microsoft.AspNetCore.Hosting.IWebHostEnvironment)C
+Configuration.get.Account.Microservice.Startup.Configuration.getC
+Configuration.set.Account.Microservice.Startup.Configuration.set

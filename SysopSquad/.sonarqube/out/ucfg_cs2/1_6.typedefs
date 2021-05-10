@@ -1,7 +1,6 @@
-‡
-Account.Microservice.Startupobject•
-:Startup(Microsoft.Extensions.Configuration.IConfiguration)WAccount.Microservice.Startup.Startup(Microsoft.Extensions.Configuration.IConfiguration)½
-NConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)kAccount.Microservice.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)ü
-mConfigure(Microsoft.AspNetCore.Builder.IApplicationBuilder, Microsoft.AspNetCore.Hosting.IWebHostEnvironment)ŠAccount.Microservice.Startup.Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder, Microsoft.AspNetCore.Hosting.IWebHostEnvironment)C
-Configuration.get.Account.Microservice.Startup.Configuration.getC
-Configuration.set.Account.Microservice.Startup.Configuration.set
+Ì
+-Account.Microservice.Migrations.InitialCreate2Microsoft.EntityFrameworkCore.Migrations.Migrationobject¬
+=Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)kAccount.Microservice.Migrations.InitialCreate.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)°
+?Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)mAccount.Microservice.Migrations.InitialCreate.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)ª
+<BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)jAccount.Microservice.Migrations.InitialCreate.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)P
+InitialCreate()=Account.Microservice.Migrations.InitialCreate.InitialCreate()

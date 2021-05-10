@@ -1,9 +1,10 @@
-ù
-(Account.Microservice.Model.RegisterModelobjectK
-RegisterModel()8Account.Microservice.Model.RegisterModel.RegisterModel()E
-Username.get5Account.Microservice.Model.RegisterModel.Username.getE
-Username.set5Account.Microservice.Model.RegisterModel.Username.set?
-	Email.get2Account.Microservice.Model.RegisterModel.Email.get?
-	Email.set2Account.Microservice.Model.RegisterModel.Email.setE
-Password.get5Account.Microservice.Model.RegisterModel.Password.getE
-Password.set5Account.Microservice.Model.RegisterModel.Password.set
+Á
+#Account.Microservice.Model.Responseobject<
+
+Response().Account.Microservice.Model.Response.Response()<
+
+Status.get.Account.Microservice.Model.Response.Status.get<
+
+Status.set.Account.Microservice.Model.Response.Status.set>
+Message.get/Account.Microservice.Model.Response.Message.get>
+Message.set/Account.Microservice.Model.Response.Message.set
