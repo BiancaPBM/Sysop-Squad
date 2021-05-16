@@ -2,10 +2,10 @@
   <div class="small_spacer">.</div>
   <div class="parent">
     <h3 style="color: ghostwhite; margin-top: 2%;">And please...don't make us ask you if you've reset the router/PC/etc...</h3>
-  <form class="example-form">
+  <form [formGroup]= "ticketForm" class="example-form">
       <mat-form-field class="example-full-width" style="margin-top: 2%;">
-        <mat-label>Product name</mat-label>
-        <input matInput >
+        <mat-label>Name</mat-label>
+        <input  formControlName = "name" matInput >
       </mat-form-field>
       <mat-form-field class="example-full-width">
         <mat-label>Product ID/Code</mat-label>
@@ -14,35 +14,26 @@
     
       <table class="example-full-width" cellspacing="0"><tr>
         <td><mat-form-field class="example-full-width">
-          <mat-label>First name</mat-label>
-          <input matInput>
+          <mat-label>Issue description </mat-label>
+          <input formControlName = "description" matInput>
         </mat-form-field></td>
-        <td><mat-form-field class="example-full-width">
-          <mat-label>Long Last Name That Will Be Truncated</mat-label>
-          <input matInput>
-        </mat-form-field></td>
-      </tr></table>
-    
-      <p>
-        <mat-form-field class="example-full-width">
-          <mat-label>Issues</mat-label>
-          <textarea matInput placeholder="Ex. it doesn't open anymore."></textarea>
-        </mat-form-field>
-      </p>
-    
+      </tr></table>    
       <table class="example-full-width" cellspacing="0" style="margin-bottom: 2%;"><tr>
         <td><mat-form-field class="example-full-width">
           <mat-label>City</mat-label>
-          <input matInput placeholder="Ex. San Francisco">
+          <input matInput formControlName = "city" placeholder="Ex. San Francisco">
         </mat-form-field></td>
         <td><mat-form-field class="example-full-width">
           <mat-label>State</mat-label>
-          <input matInput placeholder="Ex. California">
+          <input matInput formControlName = "state" placeholder="Ex. California">
         </mat-form-field></td>
       </tr></table>
 
-      <button class="mat-icon-button" type="submit" style="float: right; margin-bottom: 2%;">Submit ticket</button>
+      <button class="mat-icon-button"  (click) ="onSubmit()" style="float: right; margin-bottom: 2%;">Submit ticket</button>
     </form>
+    <div *ngIf="successfullySubmitted">
+      The ticket was successfully submitted!
+    </div>
   </div>
 </div>
   <router-outlet></router-outlet>

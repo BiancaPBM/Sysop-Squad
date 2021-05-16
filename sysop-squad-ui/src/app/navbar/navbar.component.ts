@@ -25,7 +25,7 @@ export class NavbarComponent implements OnInit, OnChanges {
   onLogOut(){
     this.authenticationService.logout();
   
-    this.router.navigate(['form-component'])
+    this.router.navigate(['log-in'])
   }
   ngOnChanges(){
     this.isLoggedIn = this.authenticationService.isAuthenticated();

@@ -13,7 +13,7 @@ export class MyProfileService {
 
 
    getUsername(): string | null{
-        return localStorage.getItem('currentUser');
+        return localStorage.getItem('username');
    }
   
 

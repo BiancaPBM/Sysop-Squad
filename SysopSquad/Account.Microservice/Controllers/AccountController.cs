@@ -66,7 +66,7 @@ namespace Account.Microservice.Controllers
         {
           token = new JwtSecurityTokenHandler().WriteToken(token),
           expiration = token.ValidTo,
-          user = user.UserName
+          username = user.UserName
         });
       }
       return Unauthorized();

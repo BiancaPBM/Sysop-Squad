@@ -80,7 +80,6 @@ namespace TicketHandling.Microservice.Data
       try
       {
         return await _context.Tickets.Find(ticket => true)
-            .SortByDescending(ticket => ticket.Rating).Limit(10)
             .ToListAsync();
       }
       catch (Exception)

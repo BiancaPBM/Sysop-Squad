@@ -7,20 +7,20 @@ namespace TicketHandling.Microservice.Model
   [BsonIgnoreExtraElements]
   public class Ticket
   {
-    internal object x;
-
     [BsonId]
     [BsonRepresentation(BsonType.ObjectId)]
 
     public string Id { get; set; }
+    public string Name { get; set; }
     public string Description { get; set; }
-    public string User { get; set; }
+    public string IdUser { get; set; }
+    public string Username { get; set; }
+    public string IdAgent { get; set; }
     public string Agent { get; set; }
-
-    [BsonElement("Runtime (Minutes)")]
-    public int Runtime { get; set; }
-    public double Rating { get; set; }
-    public int Reviews { get; set; }
+    public string IdProduct { get; set; }
+    public Status Status { get; set; }
+    public string City { get; set; }
+    public string State { get; set; }
 
   }
 }

@@ -14,6 +14,18 @@
       "UpstreamHttpMethod": [ "GET" ]
     },
     {
+      "DownstreamPathTemplate": "/api/v1/tickets",
+      "DownstreamScheme": "https",
+      "DownstreamHostandPorts": [
+        {
+          "Host": "localhost",
+          "Port": "5004"
+        }
+      ],
+      "UpstreamPathTemplate": "/api/tickets",
+      "UpstreamHttpMethod": [  "POST" ]
+    },
+    {
       "DownstreamPathTemplate": "/api/v1/tickets/ids",
       "DownstreamScheme": "https",
       "DownstreamHostandPorts": [
@@ -35,7 +47,19 @@
         }
       ],
       "UpstreamPathTemplate": "/tickets/{id}",
-      "UpstreamHttpMethod": [ "GET", "DELETE", "PUT" ]
+      "UpstreamHttpMethod": [ "GET", "PUT" ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/v1/tickets/{id}",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": "5004"
+        }
+      ],
+      "UpstreamPathTemplate": "/tickets/{id}",
+      "UpstreamHttpMethod": ["DELETE" ]
     },
     {
       "DownstreamPathTemplate": "/api/v1/tickets/query",
