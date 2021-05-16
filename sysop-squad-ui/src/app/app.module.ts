@@ -54,6 +54,7 @@ import { MyProfileComponent } from './my-profile/my-profile.component';
 import { NavbarComponent } from './navbar/navbar.component';
 import { SettingsComponent } from './settings/settings.component';
 import { AgentTicketComponent } from './agent-ticket/agent-ticket.component';
+import { AuthGuardService } from './auth-guard.service';
 
 
 const materialModules = [
@@ -122,7 +123,7 @@ const materialModules = [
     materialModules,
     HttpClientModule
   ],
-  providers: [TicketsService],
+  providers: [TicketsService,AuthGuardService],
   bootstrap: [AppComponent],
   schemas: [CUSTOM_ELEMENTS_SCHEMA]
 })

@@ -1,5 +1,6 @@
 import { Component, OnChanges, OnInit } from '@angular/core';
 import { Router } from '@angular/router';
+import { Observable } from 'rxjs';
 import { AuthenticationService } from '../log-in/authentication.service';
 import { MyProfileService } from '../my-profile/my-profile.service';
 
@@ -9,22 +10,21 @@ import { MyProfileService } from '../my-profile/my-profile.service';
   styleUrls: ['./navbar.component.css']
 })
 export class NavbarComponent implements OnInit, OnChanges {
-    isLoggedIn: Boolean = false;
+  isLoggedIn : Observable<boolean>;
     username : string | null ='';
     constructor(private authenticationService: AuthenticationService,
                 private myProfileService: MyProfileService,
-                private router: Router) { }
+                private router: Router) {
+                  this.isLoggedIn = authenticationService.isAuthenticated();
+                 }
 
   ngOnInit(): void {
-   this.isLoggedIn = this.authenticationService.isAuthenticated();
     this.username = this.myProfileService.getUsername();
   }
 
   onLogOut(){
-    localStorage.removeItem("currentUser");
-    localStorage.removeItem("token");
-    localStorage.removeItem("expiration");
-    this.isLoggedIn = false;
+    this.authenticationService.logout();
+  
     this.router.navigate(['form-component'])
   }
   ngOnChanges(){

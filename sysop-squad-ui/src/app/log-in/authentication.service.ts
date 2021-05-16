@@ -1,6 +1,6 @@
 import { HttpClient, HttpHeaders } from "@angular/common/http";
 import { Injectable } from "@angular/core";
-import { Observable } from "rxjs";
+import { BehaviorSubject, Observable } from "rxjs";
 import { RegisterModel } from "../sign-up/register-model.model";
 import { Token } from "../token.model";
 import { LoginModel } from "./login-model.model";
@@ -15,6 +15,9 @@ let headers = new HttpHeaders({
   })
 
   export class AuthenticationService{
+   
+    isLoginSubject = new BehaviorSubject<boolean>(this.hasToken());
+
       constructor (private http: HttpClient){
       }
 
@@ -26,10 +29,18 @@ let headers = new HttpHeaders({
         return this.http.post(registerUrl, register);
       }
 
-      isAuthenticated(): Boolean{
-        if (localStorage.getItem('currentUser')) {
-          return true;}
-      return false;
+      isAuthenticated(): Observable<boolean>{
+        return this.isLoginSubject.asObservable();
+
       }
 
+      logout(){
+        localStorage.removeItem("token");
+        localStorage.removeItem("expiration")
+        this.isLoginSubject.next(false);
+      }
+
+      hasToken(): any {
+        return !!localStorage.getItem('token');
+      }
   }

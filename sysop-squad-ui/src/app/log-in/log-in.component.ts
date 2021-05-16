@@ -1,6 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { FormControl, FormGroup, Validators } from '@angular/forms';
 import { ActivatedRoute, Router } from '@angular/router';
+import { BehaviorSubject } from 'rxjs';
 import { AuthenticationService } from './authentication.service';
 import { LoginModel } from './login-model.model';
 
@@ -10,12 +11,11 @@ import { LoginModel } from './login-model.model';
   styleUrls: ['./log-in.component.css']
 })
 export class LogInComponent implements OnInit {
-
+ 
   loginForm = new FormGroup({
     username: new FormControl('', Validators.required),
     password: new FormControl('', Validators.required)
   });
-
   constructor(private authenticationService : AuthenticationService,
               private router: Router) { }
 
@@ -29,7 +29,11 @@ export class LogInComponent implements OnInit {
                           localStorage.setItem("currentUser", "dear user");
                           localStorage.setItem("token",data.token);
                           localStorage.setItem("expiration", data.expiration);
+                          this.authenticationService.isLoginSubject.next(true);
                           return this.router.navigate(['form-component'])});
 
+  }
+  private hasToken(){
+    return !!localStorage.getItem('token');
   }
 }
