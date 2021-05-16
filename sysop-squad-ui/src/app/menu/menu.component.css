@@ -339,5 +339,28 @@
   .small_spacer {
     margin-top: 3.5%;
   }
+
+  .scroll-container {
+    overflow: scroll;
+    height: 75%;
+    width: auto;
+    overflow-x: hidden;
+  }
+  .scroll-container::-webkit-scrollbar {
+    width: 15px;
+    margin-right: 5%;
+  }
+  
+  .scroll-container::-webkit-scrollbar-track {
+    background: #f1f1f1;
+  }
+  
+  .scroll-container::-webkit-scrollbar-thumb {
+    background: #d6d0d0;
+  }
+  
+  .scroll-container::-webkit-scrollbar-thumb:hover {
+    background: rgb(160, 139, 139);
+  }
   
 

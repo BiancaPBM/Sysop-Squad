@@ -1,7 +1,9 @@
 <div class="techy_background">
     <div class="small_spacer">.</div>
-    <div class="content" *ngFor = "let ticket of tickets">
-      <ticket [ticket] = ticket></ticket>   
+    <div class="scroll-container">
+      <div class="content" *ngFor = "let ticket of tickets">
+        <ticket [ticket] = ticket></ticket>   
+      </div>
     </div>
 </div>
   <router-outlet></router-outlet>

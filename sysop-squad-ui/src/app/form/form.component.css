@@ -49,3 +49,51 @@
     height: 100%;
     background-position: center;
   }
+
+  example-viewport {
+    height: 200px;
+    width: 200px;
+    border: 1px solid black;
+  }
+
+  .example-item {
+    height: 50px;
+  }
+
+  .FixedHeightContainer {
+    
+    height: 250px;
+    width:250px; 
+    padding:3px; 
+    background:#f00;
+    overflow:scroll;
+}
+
+.Content {
+    height:224px;
+    overflow:auto;
+    background:#fff;
+}
+
+.scroll-container {
+  overflow: scroll;
+  height: 75%;
+  width: auto;
+  overflow-x: hidden;
+}
+.scroll-container::-webkit-scrollbar {
+  width: 15px;
+  margin-right: 5%;
+}
+
+.scroll-container::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+.scroll-container::-webkit-scrollbar-thumb {
+  background: #d6d0d0;
+}
+
+.scroll-container::-webkit-scrollbar-thumb:hover {
+  background: rgb(160, 139, 139);
+}

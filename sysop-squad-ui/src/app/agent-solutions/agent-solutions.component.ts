@@ -1,13 +1,14 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, OnInit, ChangeDetectionStrategy } from '@angular/core';
 import { TicketsService } from '../ticket-list/ticket.service';
 import { Ticket } from '../ticket/ticket.model';
 import { AgentSolutionsService } from './agent-solutions.service';
-
+import { ScrollingModule } from '@angular/cdk/scrolling';
 
 @Component({
   selector: 'app-agent-solutions',
   templateUrl: './agent-solutions.component.html',
-  styleUrls: ['../form/form.component.css']
+  styleUrls: ['../form/form.component.css'],
+  // changeDetection: ChangeDetectionStrategy.OnPush
 })
 export class AgentSolutionsComponent implements OnInit {
   tickets : Ticket[] = [];
