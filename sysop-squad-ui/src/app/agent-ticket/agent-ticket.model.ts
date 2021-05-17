@@ -5,8 +5,8 @@ export class AgentTicket{
     name: string ="";
     description: string ="";
     username: string| null ="";
-   idUser : string ="";
-   idAgent: string = ""
+    idUser : string ="";
+    idAgent: string = ""
     agent: string = "";
     city: string = "";
     state : string = "";
