@@ -1,33 +1,33 @@
 
-2ReviewHandling.Microservice.Program.Main(string[])R
-HC:\TSP.NET\Sysop-Squad\SysopSquad\ReviewHandling.Microservice\Program.cs ("0*–
-0R
-HC:\TSP.NET\Sysop-Squad\SysopSquad\ReviewHandling.Microservice\Program.cs ("†
-ƒ
-R
-HC:\TSP.NET\Sysop-Squad\SysopSquad\ReviewHandling.Microservice\Program.cs (#/
-%0)Microsoft.Extensions.Hosting.IHostBuilder"?ReviewHandling.Microservice.Program.CreateHostBuilder(string[])*'"%
-#ReviewHandling.Microservice.Program*
+!SysopSquad.Program.Main(string[])A
+7C:\TSP.NET\Sysop-Squad\SysopSquad\SysopSquad\Program.cs	 	("0*°
+0A
+7C:\TSP.NET\Sysop-Squad\SysopSquad\SysopSquad\Program.cs ("Ó
+Ð
+A
+7C:\TSP.NET\Sysop-Squad\SysopSquad\SysopSquad\Program.cs (#/
+%0)Microsoft.Extensions.Hosting.IHostBuilder".SysopSquad.Program.CreateHostBuilder(string[])*"
+SysopSquad.Program*
 
-argsstring[]ðí
-R
-HC:\TSP.NET\Sysop-Squad\SysopSquad\ReviewHandling.Microservice\Program.cs (+(
+argsstring[]ßÜ
+A
+7C:\TSP.NET\Sysop-Squad\SysopSquad\SysopSquad\Program.cs (+(
 %1"Microsoft.Extensions.Hosting.IHost"1Microsoft.Extensions.Hosting.IHostBuilder.Build()*1
 /
-%0)Microsoft.Extensions.Hosting.IHostBuilder2Build()»
-¸
-R
-HC:\TSP.NET\Sysop-Squad\SysopSquad\ReviewHandling.Microservice\Program.cs (1
+%0)Microsoft.Extensions.Hosting.IHostBuilder2Build()ª
+§
+A
+7C:\TSP.NET\Sysop-Squad\SysopSquad\SysopSquad\Program.cs (1
 
 %2void"fMicrosoft.Extensions.Hosting.HostingAbstractionsHostExtensions.Run(Microsoft.Extensions.Hosting.IHost)*B"@
 >Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions**
 (
 %1"Microsoft.Extensions.Hosting.IHost*
-1*Â
-1R
-HC:\TSP.NET\Sysop-Squad\SysopSquad\ReviewHandling.Microservice\Program.cs	 (	"i
-R
-HC:\TSP.NET\Sysop-Squad\SysopSquad\ReviewHandling.Microservice\Program.cs (	
+1* 
+1A
+7C:\TSP.NET\Sysop-Squad\SysopSquad\SysopSquad\Program.cs	 (	"X
+A
+7C:\TSP.NET\Sysop-Squad\SysopSquad\SysopSquad\Program.cs (	
 implicit return:
-argsstring[]B'"%
-#ReviewHandling.Microservice.Program
+argsstring[]B"
+SysopSquad.Program

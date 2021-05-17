@@ -1,33 +1,9 @@
 
-!SysopSquad.Program.Main(string[])A
-7C:\TSP.NET\Sysop-Squad\SysopSquad\SysopSquad\Program.cs	 	("0*°
-0A
-7C:\TSP.NET\Sysop-Squad\SysopSquad\SysopSquad\Program.cs ("Ó
-Ð
-A
-7C:\TSP.NET\Sysop-Squad\SysopSquad\SysopSquad\Program.cs (#/
-%0)Microsoft.Extensions.Hosting.IHostBuilder".SysopSquad.Program.CreateHostBuilder(string[])*"
-SysopSquad.Program*
-
-argsstring[]ßÜ
-A
-7C:\TSP.NET\Sysop-Squad\SysopSquad\SysopSquad\Program.cs (+(
-%1"Microsoft.Extensions.Hosting.IHost"1Microsoft.Extensions.Hosting.IHostBuilder.Build()*1
-/
-%0)Microsoft.Extensions.Hosting.IHostBuilder2Build()ª
-§
-A
-7C:\TSP.NET\Sysop-Squad\SysopSquad\SysopSquad\Program.cs (1
-
-%2void"fMicrosoft.Extensions.Hosting.HostingAbstractionsHostExtensions.Run(Microsoft.Extensions.Hosting.IHost)*B"@
->Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions**
-(
-%1"Microsoft.Extensions.Hosting.IHost*
-1* 
-1A
-7C:\TSP.NET\Sysop-Squad\SysopSquad\SysopSquad\Program.cs	 (	"X
-A
-7C:\TSP.NET\Sysop-Squad\SysopSquad\SysopSquad\Program.cs (	
-implicit return:
-argsstring[]B"
-SysopSquad.Program
+&Account.Microservice.Program.Program()K
+AC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Program.cs ("0*´
+0K
+AC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Program.cs ("b
+K
+AC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Program.cs (
+implicit returnB 
+Account.Microservice.Program

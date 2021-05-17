@@ -1,50 +1,33 @@
 
-:TicketHandling.Microservice.Data.TicketRepository.GetAll()`
-VC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Data\TicketRepository.cs)+ )(1"0*m
-0`
-VC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Data\TicketRepository.cs3 3(*
-1
-2*Î
-1`
-VC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Data\TicketRepository.cs- -(9í
-è
-`
-VC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Data\TicketRepository.cs- -(2
-%0,TicketHandling.Microservice.Data.DataContext"__id*q*o3
-1TicketHandling.Microservice.Data.TicketRepository"8
-_context,TicketHandling.Microservice.Data.DataContextá
-Ñ
-`
-VC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Data\TicketRepository.cs- -(%0
-%1*MongoDB.Driver.IMongoCollection<TDocument>"8TicketHandling.Microservice.Data.DataContext.Tickets.get*4
-2
-%0,TicketHandling.Microservice.Data.DataContextÿ
-’
-`
-VC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Data\TicketRepository.cs- -(:8
-%22MongoDB.Driver.IFindFluent<TDocument, TProjection>"√MongoDB.Driver.IMongoCollectionExtensions.Find<TDocument>(MongoDB.Driver.IMongoCollection<TDocument>, System.Linq.Expressions.Expression<System.Func<TDocument, bool>>, MongoDB.Driver.FindOptions)*-"+
-)MongoDB.Driver.IMongoCollectionExtensions*2
-0
-%1*MongoDB.Driver.IMongoCollection<TDocument>*
-""*
-""ù
-ö
-`
-VC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Data\TicketRepository.cs- -(H*
-%3$System.Threading.Tasks.Task<TResult>"îMongoDB.Driver.IAsyncCursorSourceExtensions.ToListAsync<TDocument>(MongoDB.Driver.IAsyncCursorSource<TDocument>, System.Threading.CancellationToken)*/"-
-+MongoDB.Driver.IAsyncCursorSourceExtensions*:
+?TicketHandling.Microservice.Controllers.TicketsController.Get()g
+]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs/ (2"2*≤
+0g
+]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs (+≤
+Ø
+g
+]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs ("8
+%02TicketHandling.Microservice.Data.ITicketRepository"__id*É*Ä;
+9TicketHandling.Microservice.Controllers.TicketsController"A
+_repository2TicketHandling.Microservice.Data.ITicketRepositoryõò
+g
+]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs (+*
+%1$System.Threading.Tasks.Task<TResult>";TicketHandling.Microservice.Data.ITicketRepository.GetAll()*:
 8
-%22MongoDB.Driver.IFindFluent<TDocument, TProjection>*
-"""j
-`
-VC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Data\TicketRepository.cs- -(I
-""*j
-2`
-VC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Data\TicketRepository.cs3 3(*
-3*ﬁ
-3`
-VC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Data\TicketRepository.cs3 3("w
-`
-VC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Data\TicketRepository.cs3 3(
-implicit returnB53
-1TicketHandling.Microservice.Data.TicketRepository
+%02TicketHandling.Microservice.Data.ITicketRepository2GetAll()"q
+g
+]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs
+ (,
+""*Ï
+1g
+]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs	 (	"~
+g
+]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs (	
+implicit return*Ú
+2g
+]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs4 (4
+}
+g
+]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs/ (2
+%2"__entrypoint*
+0B=;
+9TicketHandling.Microservice.Controllers.TicketsController

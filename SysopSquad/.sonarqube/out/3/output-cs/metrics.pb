@@ -1,5 +1,5 @@
-s
-HC:\TSP.NET\Sysop-Squad\SysopSquad\ReviewHandling.Microservice\Program.cs 8r
-‚š
-HC:\TSP.NET\Sysop-Squad\SysopSquad\ReviewHandling.Microservice\Startup.cs 8j%r0	
- !"#&'()*+,-/1356789:;x‚!(*+,/1357
+b
+7C:\TSP.NET\Sysop-Squad\SysopSquad\SysopSquad\Program.cs 8r	
+‚¨
+7C:\TSP.NET\Sysop-Squad\SysopSquad\SysopSquad\Startup.cs 8j:rD	
+ !"#$%&'()*+,-./012345678;<=>?@ABCDEGIKNOPx‚ "#%&')*+346=?@BCDGIK

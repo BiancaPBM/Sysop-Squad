@@ -18,7 +18,7 @@
 
 msbuild_versionUnknown
  
-peak_used_heap_byte	177659712
+peak_used_heap_byte	184811008
 
 scanner_typeScannerMSBuild
 !

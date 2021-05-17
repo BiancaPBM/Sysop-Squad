@@ -1,23 +1,16 @@
 
-^TicketHandling.Microservice.Startup.Startup(Microsoft.Extensions.Configuration.IConfiguration)R
-HC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Startup.cs ("1*\
-1R
-HC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Startup.cs	 (	*
-0*•
-0R
-HC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Startup.cs ()¶
-³
-R
-HC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Startup.cs ()7
-%01Microsoft.Extensions.Configuration.IConfiguration"5TicketHandling.Microservice.Startup.Configuration.set*'%
-#TicketHandling.Microservice.Startup*D
-B
-configuration1Microsoft.Extensions.Configuration.IConfiguration*
-2*Â
-2R
-HC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Startup.cs	 (	"i
-R
-HC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Startup.cs (	
-implicit return:B
-configuration1Microsoft.Extensions.Configuration.IConfigurationB'%
-#TicketHandling.Microservice.Startup
+JTicketHandling.Microservice.Model.TicketsDatabaseSettings.DatabaseName.geth
+^C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Model\TicketsDatabaseSettings.cs! ($"0*Æ
+0h
+^C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Model\TicketsDatabaseSettings.cs% (%Ú
+×
+h
+^C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Model\TicketsDatabaseSettings.cs! (%
+%0string"__id*W*U;
+9TicketHandling.Microservice.Model.TicketsDatabaseSettings"
+DatabaseNamestring"z
+h
+^C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Model\TicketsDatabaseSettings.cs! (%
+
+%0stringB=;
+9TicketHandling.Microservice.Model.TicketsDatabaseSettings

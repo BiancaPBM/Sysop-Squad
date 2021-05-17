@@ -1,16 +1,33 @@
 
-STicketHandling.Microservice.Model.TicketsDatabaseSettings.TicketsCollectionName.geth
-^C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Model\TicketsDatabaseSettings.cs* (-"0*Ï
-0h
-^C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Model\TicketsDatabaseSettings.cs. (.ã
-à
-h
-^C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Model\TicketsDatabaseSettings.cs* (.
-%0string"__id*`*^;
-9TicketHandling.Microservice.Model.TicketsDatabaseSettings"
-TicketsCollectionNamestring"z
-h
-^C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Model\TicketsDatabaseSettings.cs* (.
-
-%0stringB=;
-9TicketHandling.Microservice.Model.TicketsDatabaseSettings
+2ReviewHandling.Microservice.Program.Main(string[])R
+HC:\TSP.NET\Sysop-Squad\SysopSquad\ReviewHandling.Microservice\Program.cs ("0*–
+0R
+HC:\TSP.NET\Sysop-Squad\SysopSquad\ReviewHandling.Microservice\Program.cs ("†
+ƒ
+R
+HC:\TSP.NET\Sysop-Squad\SysopSquad\ReviewHandling.Microservice\Program.cs (#/
+%0)Microsoft.Extensions.Hosting.IHostBuilder"?ReviewHandling.Microservice.Program.CreateHostBuilder(string[])*'"%
+#ReviewHandling.Microservice.Program*
+
+argsstring[]ðí
+R
+HC:\TSP.NET\Sysop-Squad\SysopSquad\ReviewHandling.Microservice\Program.cs (+(
+%1"Microsoft.Extensions.Hosting.IHost"1Microsoft.Extensions.Hosting.IHostBuilder.Build()*1
+/
+%0)Microsoft.Extensions.Hosting.IHostBuilder2Build()»
+¸
+R
+HC:\TSP.NET\Sysop-Squad\SysopSquad\ReviewHandling.Microservice\Program.cs (1
+
+%2void"fMicrosoft.Extensions.Hosting.HostingAbstractionsHostExtensions.Run(Microsoft.Extensions.Hosting.IHost)*B"@
+>Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions**
+(
+%1"Microsoft.Extensions.Hosting.IHost*
+1*Â
+1R
+HC:\TSP.NET\Sysop-Squad\SysopSquad\ReviewHandling.Microservice\Program.cs	 (	"i
+R
+HC:\TSP.NET\Sysop-Squad\SysopSquad\ReviewHandling.Microservice\Program.cs (	
+implicit return:
+argsstring[]B'"%
+#ReviewHandling.Microservice.Program

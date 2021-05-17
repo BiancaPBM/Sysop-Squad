@@ -1,19 +1,9 @@
-›
-(TicketHandling.Microservice.Model.Ticketobject=
-Ticket()1TicketHandling.Microservice.Model.Ticket.Ticket()9
-Id.get/TicketHandling.Microservice.Model.Ticket.Id.get9
-Id.set/TicketHandling.Microservice.Model.Ticket.Id.setK
-Description.get8TicketHandling.Microservice.Model.Ticket.Description.getK
-Description.set8TicketHandling.Microservice.Model.Ticket.Description.set=
-User.get1TicketHandling.Microservice.Model.Ticket.User.get=
-User.set1TicketHandling.Microservice.Model.Ticket.User.set?
-	Agent.get2TicketHandling.Microservice.Model.Ticket.Agent.get?
-	Agent.set2TicketHandling.Microservice.Model.Ticket.Agent.setC
-Runtime.get4TicketHandling.Microservice.Model.Ticket.Runtime.getC
-Runtime.set4TicketHandling.Microservice.Model.Ticket.Runtime.setA
-
-Rating.get3TicketHandling.Microservice.Model.Ticket.Rating.getA
-
-Rating.set3TicketHandling.Microservice.Model.Ticket.Rating.setC
-Reviews.get4TicketHandling.Microservice.Model.Ticket.Reviews.getC
-Reviews.set4TicketHandling.Microservice.Model.Ticket.Reviews.set
+©
+9TicketHandling.Microservice.Model.TicketsDatabaseSettingsobjectp
+TicketsDatabaseSettings()STicketHandling.Microservice.Model.TicketsDatabaseSettings.TicketsDatabaseSettings()p
+TicketsCollectionName.getSTicketHandling.Microservice.Model.TicketsDatabaseSettings.TicketsCollectionName.getp
+TicketsCollectionName.setSTicketHandling.Microservice.Model.TicketsDatabaseSettings.TicketsCollectionName.setf
+ConnectionString.getNTicketHandling.Microservice.Model.TicketsDatabaseSettings.ConnectionString.getf
+ConnectionString.setNTicketHandling.Microservice.Model.TicketsDatabaseSettings.ConnectionString.set^
+DatabaseName.getJTicketHandling.Microservice.Model.TicketsDatabaseSettings.DatabaseName.get^
+DatabaseName.setJTicketHandling.Microservice.Model.TicketsDatabaseSettings.DatabaseName.set

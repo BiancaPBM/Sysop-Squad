@@ -1,89 +1,33 @@
 
-ëTicketHandling.Microservice.Startup.Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder, Microsoft.AspNetCore.Hosting.IWebHostEnvironment)R
-HC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Startup.cs- -("0*Ñ
-0R
-HC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Startup.cs/ 1(# 
-«
-R
-HC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Startup.cs/ 0("6
-%00Microsoft.AspNetCore.Builder.IApplicationBuilder"∫Microsoft.AspNetCore.Builder.CorsMiddlewareExtensions.UseCors(Microsoft.AspNetCore.Builder.IApplicationBuilder, System.Action<Microsoft.AspNetCore.Cors.Infrastructure.CorsPolicyBuilder>)*9"7
-5Microsoft.AspNetCore.Builder.CorsMiddlewareExtensions*9
-7
-app0Microsoft.AspNetCore.Builder.IApplicationBuilder*
-""’
-“
-R
-HC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Startup.cs1 1(#
-
-%1bool"vMicrosoft.Extensions.Hosting.HostEnvironmentEnvExtensions.IsDevelopment(Microsoft.Extensions.Hosting.IHostEnvironment)*=";
-9Microsoft.Extensions.Hosting.HostEnvironmentEnvExtensions*9
-7
-env0Microsoft.AspNetCore.Hosting.IWebHostEnvironment*
-1
-2*à
-1R
-HC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Startup.cs3 5(uô
-ñ
-R
-HC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Startup.cs3 3(/6
-%20Microsoft.AspNetCore.Builder.IApplicationBuilder"âMicrosoft.AspNetCore.Builder.DeveloperExceptionPageExtensions.UseDeveloperExceptionPage(Microsoft.AspNetCore.Builder.IApplicationBuilder)*A"?
-=Microsoft.AspNetCore.Builder.DeveloperExceptionPageExtensions*9
-7
-app0Microsoft.AspNetCore.Builder.IApplicationBuilder¿
-Ω
-R
-HC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Startup.cs4 4( 6
-%30Microsoft.AspNetCore.Builder.IApplicationBuilder"∞Microsoft.AspNetCore.Builder.SwaggerBuilderExtensions.UseSwagger(Microsoft.AspNetCore.Builder.IApplicationBuilder, System.Action<Swashbuckle.AspNetCore.Swagger.SwaggerOptions>)*9"7
-5Microsoft.AspNetCore.Builder.SwaggerBuilderExtensions*9
-7
-app0Microsoft.AspNetCore.Builder.IApplicationBuilder*
-"" 
-«
-R
-HC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Startup.cs5 5(v6
-%40Microsoft.AspNetCore.Builder.IApplicationBuilder"∏Microsoft.AspNetCore.Builder.SwaggerUIBuilderExtensions.UseSwaggerUI(Microsoft.AspNetCore.Builder.IApplicationBuilder, System.Action<Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIOptions>)*;"9
-7Microsoft.AspNetCore.Builder.SwaggerUIBuilderExtensions*9
-7
-app0Microsoft.AspNetCore.Builder.IApplicationBuilder*
-""*
-2*ë
-2R
-HC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Startup.cs8 A(ä
-á
-R
-HC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Startup.cs8 8(%6
-%50Microsoft.AspNetCore.Builder.IApplicationBuilder"Microsoft.AspNetCore.Builder.HttpsPolicyBuilderExtensions.UseHttpsRedirection(Microsoft.AspNetCore.Builder.IApplicationBuilder)*=";
-9Microsoft.AspNetCore.Builder.HttpsPolicyBuilderExtensions*9
-7
-app0Microsoft.AspNetCore.Builder.IApplicationBuilder†
-ù
-R
-HC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Startup.cs: :(6
-%60Microsoft.AspNetCore.Builder.IApplicationBuilder"ÖMicrosoft.AspNetCore.Builder.EndpointRoutingApplicationBuilderExtensions.UseRouting(Microsoft.AspNetCore.Builder.IApplicationBuilder)*L"J
-HMicrosoft.AspNetCore.Builder.EndpointRoutingApplicationBuilderExtensions*9
-7
-app0Microsoft.AspNetCore.Builder.IApplicationBuilderí
-è
-R
-HC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Startup.cs< <("6
-%70Microsoft.AspNetCore.Builder.IApplicationBuilder"ÅMicrosoft.AspNetCore.Builder.AuthorizationAppBuilderExtensions.UseAuthorization(Microsoft.AspNetCore.Builder.IApplicationBuilder)*B"@
->Microsoft.AspNetCore.Builder.AuthorizationAppBuilderExtensions*9
-7
-app0Microsoft.AspNetCore.Builder.IApplicationBuilderÌ
-Í
-R
-HC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Startup.cs> A(6
-%80Microsoft.AspNetCore.Builder.IApplicationBuilder" Microsoft.AspNetCore.Builder.EndpointRoutingApplicationBuilderExtensions.UseEndpoints(Microsoft.AspNetCore.Builder.IApplicationBuilder, System.Action<Microsoft.AspNetCore.Routing.IEndpointRouteBuilder>)*L"J
-HMicrosoft.AspNetCore.Builder.EndpointRoutingApplicationBuilderExtensions*9
-7
-app0Microsoft.AspNetCore.Builder.IApplicationBuilder*
-""*
-3*¬
-3R
-HC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Startup.csC C("i
-R
-HC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Startup.csC C(
-implicit return:7
-app0Microsoft.AspNetCore.Builder.IApplicationBuilder:7
-env0Microsoft.AspNetCore.Hosting.IWebHostEnvironmentB'%
-#TicketHandling.Microservice.Startup
+ITicketHandling.Microservice.Controllers.TicketsController.OrderByReview()g
+]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs&/ &(<"2*¿
+0g
+]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs( ((2≤
+Ø
+g
+]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs( (("8
+%02TicketHandling.Microservice.Data.ITicketRepository"__id*É*Ä;
+9TicketHandling.Microservice.Controllers.TicketsController"A
+_repository2TicketHandling.Microservice.Data.ITicketRepository©¶
+g
+]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs( ((2*
+%1$System.Threading.Tasks.Task<TResult>"BTicketHandling.Microservice.Data.ITicketRepository.OrderByReview()*:
+8
+%02TicketHandling.Microservice.Data.ITicketRepository2OrderByReview()"q
+g
+]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs(
+ ((3
+""*Ï
+1g
+]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs)	 )(	"~
+g
+]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs) )(	
+implicit return*Ú
+2g
+]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs&> &(>
+}
+g
+]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs&/ &(<
+%2"__entrypoint*
+0B=;
+9TicketHandling.Microservice.Controllers.TicketsController

@@ -1,9 +1,7 @@
-´
-1TicketHandling.Microservice.Data.TicketRepositoryobjectÎ
-LTicketRepository(TicketHandling.Microservice.Model.ITicketsDatabaseSettings)~TicketHandling.Microservice.Data.TicketRepository.TicketRepository(TicketHandling.Microservice.Model.ITicketsDatabaseSettings)œ
-3AddTicket(TicketHandling.Microservice.Model.Ticket)eTicketHandling.Microservice.Data.TicketRepository.AddTicket(TicketHandling.Microservice.Model.Ticket)^
-DeleteTicket(string)FTicketHandling.Microservice.Data.TicketRepository.DeleteTicket(string)F
-GetAll():TicketHandling.Microservice.Data.TicketRepository.GetAll()T
-GetById(string)ATicketHandling.Microservice.Data.TicketRepository.GetById(string)²
->UpdateTicket(string, TicketHandling.Microservice.Model.Ticket)pTicketHandling.Microservice.Data.TicketRepository.UpdateTicket(string, TicketHandling.Microservice.Model.Ticket)T
-OrderByReview()ATicketHandling.Microservice.Data.TicketRepository.OrderByReview()
+±
+#TicketHandling.Microservice.Startupobjectœ
+:Startup(Microsoft.Extensions.Configuration.IConfiguration)^TicketHandling.Microservice.Startup.Startup(Microsoft.Extensions.Configuration.IConfiguration)Ä
+NConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)rTicketHandling.Microservice.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)ƒ
+mConfigure(Microsoft.AspNetCore.Builder.IApplicationBuilder, Microsoft.AspNetCore.Hosting.IWebHostEnvironment)‘TicketHandling.Microservice.Startup.Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder, Microsoft.AspNetCore.Hosting.IWebHostEnvironment)J
+Configuration.get5TicketHandling.Microservice.Startup.Configuration.getJ
+Configuration.set5TicketHandling.Microservice.Startup.Configuration.set

@@ -1,18 +1,28 @@
 
-8TicketHandling.Microservice.Data.DataContext.Tickets.set[
-QC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Data\DataContext.cs. (1"0*´
-0[
-QC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Data\DataContext.cs2 (2†
-ƒ
-[
-QC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Data\DataContext.cs. (2g.
-,TicketHandling.Microservice.Data.DataContext"5
-Tickets*MongoDB.Driver.IMongoCollection<TDocument>"__id*5
-3
-value*MongoDB.Driver.IMongoCollection<TDocument>"È
-[
-QC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Data\DataContext.cs. (2i*g.
-,TicketHandling.Microservice.Data.DataContext"5
-Tickets*MongoDB.Driver.IMongoCollection<TDocument>:3
-value*MongoDB.Driver.IMongoCollection<TDocument>B0.
-,TicketHandling.Microservice.Data.DataContext
+rReviewHandling.Microservice.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)R
+HC:\TSP.NET\Sysop-Squad\SysopSquad\ReviewHandling.Microservice\Startup.cs (%"0*Ä
+0R
+HC:\TSP.NET\Sysop-Squad\SysopSquad\ReviewHandling.Microservice\Startup.cs "(Á
+¾
+R
+HC:\TSP.NET\Sysop-Squad\SysopSquad\ReviewHandling.Microservice\Startup.cs (%:
+%04Microsoft.Extensions.DependencyInjection.IMvcBuilder"“Microsoft.Extensions.DependencyInjection.MvcServiceCollectionExtensions.AddControllers(Microsoft.Extensions.DependencyInjection.IServiceCollection)*K"I
+GMicrosoft.Extensions.DependencyInjection.MvcServiceCollectionExtensions*I
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollection¡
+ž
+R
+HC:\TSP.NET\Sysop-Squad\SysopSquad\ReviewHandling.Microservice\Startup.cs "(A
+%1;Microsoft.Extensions.DependencyInjection.IServiceCollection"ÝMicrosoft.Extensions.DependencyInjection.SwaggerGenServiceCollectionExtensions.AddSwaggerGen(Microsoft.Extensions.DependencyInjection.IServiceCollection, System.Action<Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenOptions>)*R"P
+NMicrosoft.Extensions.DependencyInjection.SwaggerGenServiceCollectionExtensions*I
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollection*
+""*
+1*Â
+1R
+HC:\TSP.NET\Sysop-Squad\SysopSquad\ReviewHandling.Microservice\Startup.cs#	 #(	"i
+R
+HC:\TSP.NET\Sysop-Squad\SysopSquad\ReviewHandling.Microservice\Startup.cs# #(	
+implicit return:G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollectionB'%
+#ReviewHandling.Microservice.Startup

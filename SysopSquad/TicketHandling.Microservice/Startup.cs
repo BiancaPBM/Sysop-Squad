@@ -25,33 +25,19 @@ namespace TicketHandling.Microservice
             services.Configure<TicketsDatabaseSettings>(
                 Configuration.GetSection(nameof(TicketsDatabaseSettings)));
 
-            services.AddSingleton<ITicketsDatabaseSettings>(sp =>
+             services.AddSingleton<ITicketsDatabaseSettings>(sp =>
                 sp.GetRequiredService<IOptions<TicketsDatabaseSettings>>().Value);
 
             services.AddTransient<ITicketRepository, TicketRepository>();
           
             services.AddControllers();
-            services.AddSwaggerGen(c =>
-            {
-                c.SwaggerDoc("v1", new OpenApiInfo { Title = "TicketHandling.Microservice", Version = "v1" });
-            });
-            services.AddCors(c =>
-            {
-              c.AddPolicy("AllowOrigin", options => options.AllowAnyOrigin());
-            });
-    }
+        }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
               app.UseCors(options => options.AllowAnyOrigin().AllowAnyMethod()
                 .AllowAnyHeader());
-            if (env.IsDevelopment())
-            {
-                app.UseDeveloperExceptionPage();
-                app.UseSwagger();
-                app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "TicketHandling.Microservice v1"));
-            }
 
             app.UseHttpsRedirection();
 

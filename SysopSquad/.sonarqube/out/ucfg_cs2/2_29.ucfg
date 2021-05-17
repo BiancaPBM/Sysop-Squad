@@ -1,0 +1,43 @@
+
+ŠAccount.Microservice.Startup.Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder, Microsoft.AspNetCore.Hosting.IWebHostEnvironment)K
+AC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Startup.csB B("0*î
+0K
+AC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Startup.csE N(ƒ
+€
+K
+AC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Startup.csE E(%6
+%00Microsoft.AspNetCore.Builder.IApplicationBuilder"Microsoft.AspNetCore.Builder.HttpsPolicyBuilderExtensions.UseHttpsRedirection(Microsoft.AspNetCore.Builder.IApplicationBuilder)*=";
+9Microsoft.AspNetCore.Builder.HttpsPolicyBuilderExtensions*9
+7
+app0Microsoft.AspNetCore.Builder.IApplicationBuilder™
+–
+K
+AC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Startup.csG G(6
+%10Microsoft.AspNetCore.Builder.IApplicationBuilder"…Microsoft.AspNetCore.Builder.EndpointRoutingApplicationBuilderExtensions.UseRouting(Microsoft.AspNetCore.Builder.IApplicationBuilder)*L"J
+HMicrosoft.AspNetCore.Builder.EndpointRoutingApplicationBuilderExtensions*9
+7
+app0Microsoft.AspNetCore.Builder.IApplicationBuilder‹
+ˆ
+K
+AC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Startup.csI I("6
+%20Microsoft.AspNetCore.Builder.IApplicationBuilder"Microsoft.AspNetCore.Builder.AuthorizationAppBuilderExtensions.UseAuthorization(Microsoft.AspNetCore.Builder.IApplicationBuilder)*B"@
+>Microsoft.AspNetCore.Builder.AuthorizationAppBuilderExtensions*9
+7
+app0Microsoft.AspNetCore.Builder.IApplicationBuilderæ
+ã
+K
+AC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Startup.csK N(6
+%30Microsoft.AspNetCore.Builder.IApplicationBuilder"ÊMicrosoft.AspNetCore.Builder.EndpointRoutingApplicationBuilderExtensions.UseEndpoints(Microsoft.AspNetCore.Builder.IApplicationBuilder, System.Action<Microsoft.AspNetCore.Routing.IEndpointRouteBuilder>)*L"J
+HMicrosoft.AspNetCore.Builder.EndpointRoutingApplicationBuilderExtensions*9
+7
+app0Microsoft.AspNetCore.Builder.IApplicationBuilder*
+""*
+1*´
+1K
+AC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Startup.csO	 O(	"b
+K
+AC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Startup.csO O(	
+implicit return:7
+app0Microsoft.AspNetCore.Builder.IApplicationBuilder:7
+env0Microsoft.AspNetCore.Hosting.IWebHostEnvironmentB 
+Account.Microservice.Startup

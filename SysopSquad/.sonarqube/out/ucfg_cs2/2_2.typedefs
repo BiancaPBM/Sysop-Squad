@@ -1,7 +1,9 @@
-À
-SysopSquad.Startupobjectã
-:Startup(Microsoft.Extensions.Configuration.IConfiguration)MSysopSquad.Startup.Startup(Microsoft.Extensions.Configuration.IConfiguration)≥
-NConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)aSysopSquad.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)Ú
-mConfigure(Microsoft.AspNetCore.Builder.IApplicationBuilder, Microsoft.AspNetCore.Hosting.IWebHostEnvironment)ÄSysopSquad.Startup.Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder, Microsoft.AspNetCore.Hosting.IWebHostEnvironment)9
-Configuration.get$SysopSquad.Startup.Configuration.get9
-Configuration.set$SysopSquad.Startup.Configuration.set
+ù
+(Account.Microservice.Model.RegisterModelobjectK
+RegisterModel()8Account.Microservice.Model.RegisterModel.RegisterModel()E
+Username.get5Account.Microservice.Model.RegisterModel.Username.getE
+Username.set5Account.Microservice.Model.RegisterModel.Username.set?
+	Email.get2Account.Microservice.Model.RegisterModel.Email.get?
+	Email.set2Account.Microservice.Model.RegisterModel.Email.setE
+Password.get5Account.Microservice.Model.RegisterModel.Password.getE
+Password.set5Account.Microservice.Model.RegisterModel.Password.set
