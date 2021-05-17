@@ -1,11 +1,16 @@
+import { Status } from "../ticket/status.model";
+
 export class AgentTicket{
     id: string = "";
+    name: string ="";
     description: string ="";
-    user: string ="";
+    username: string| null ="";
+   idUser : string ="";
+   idAgent: string = ""
     agent: string = "";
-    runtime: string = "";
-    rating: string = ""; 
-    reviews: string = "";
+    city: string = "";
+    state : string = "";
+    Status: Status = Status.New;
 
     constructor (){}
 }
