@@ -1,16 +1,38 @@
 
-5TicketHandling.Microservice.Startup.Configuration.getR
-HC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Startup.cs. (1"0*Ò
-0R
-HC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Startup.cs2 (2Ö
-Ç
-R
-HC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Startup.cs. (27
-%01Microsoft.Extensions.Configuration.IConfiguration"__id*m*k%
-#TicketHandling.Microservice.Startup"B
-Configuration1Microsoft.Extensions.Configuration.IConfiguration"è
-R
-HC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Startup.cs. (29
-7
-%01Microsoft.Extensions.Configuration.IConfigurationB'%
-#TicketHandling.Microservice.Startup
+.SysopSquad.Program.CreateHostBuilder(string[])A
+7C:\TSP.NET\Sysop-Squad\SysopSquad\SysopSquad\Program.cs (0"0*Ò
+
+0A
+7C:\TSP.NET\Sysop-Squad\SysopSquad\SysopSquad\Program.cs (Ù
+Ò
+A
+7C:\TSP.NET\Sysop-Squad\SysopSquad\SysopSquad\Program.cs ('/
+%0)Microsoft.Extensions.Hosting.IHostBuilder"@Microsoft.Extensions.Hosting.Host.CreateDefaultBuilder(string[])*%"#
+!Microsoft.Extensions.Hosting.Host*
+
+argsstring[]Æ
+´
+A
+7C:\TSP.NET\Sysop-Squad\SysopSquad\SysopSquad\Program.cs (/
+%1)Microsoft.Extensions.Hosting.IHostBuilder"∫Microsoft.Extensions.Hosting.GenericHostBuilderExtensions.ConfigureWebHostDefaults(Microsoft.Extensions.Hosting.IHostBuilder, System.Action<Microsoft.AspNetCore.Hosting.IWebHostBuilder>)*=";
+9Microsoft.Extensions.Hosting.GenericHostBuilderExtensions*1
+/
+%0)Microsoft.Extensions.Hosting.IHostBuilder*
+""àÖ
+A
+7C:\TSP.NET\Sysop-Squad\SysopSquad\SysopSquad\Program.cs (/
+%2)Microsoft.Extensions.Hosting.IHostBuilder"ΩMicrosoft.Extensions.Hosting.IHostBuilder.ConfigureAppConfiguration(System.Action<Microsoft.Extensions.Hosting.HostBuilderContext, Microsoft.Extensions.Configuration.IConfigurationBuilder>)*1
+/
+%1)Microsoft.Extensions.Hosting.IHostBuilder*
+""2ìConfigureAppConfiguration(System.Action<Microsoft.Extensions.Hosting.HostBuilderContext, Microsoft.Extensions.Configuration.IConfigurationBuilder>)"v
+A
+7C:\TSP.NET\Sysop-Squad\SysopSquad\SysopSquad\Program.cs (1
+/
+%2)Microsoft.Extensions.Hosting.IHostBuilder*†
+1A
+7C:\TSP.NET\Sysop-Squad\SysopSquad\SysopSquad\Program.cs ("X
+A
+7C:\TSP.NET\Sysop-Squad\SysopSquad\SysopSquad\Program.cs (
+implicit return:
+argsstring[]B"
+SysopSquad.Program

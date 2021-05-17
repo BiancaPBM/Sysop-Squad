@@ -1,33 +1,31 @@
 
-2ReviewHandling.Microservice.Program.Main(string[])R
-HC:\TSP.NET\Sysop-Squad\SysopSquad\ReviewHandling.Microservice\Program.cs ("0*–
+?ReviewHandling.Microservice.Program.CreateHostBuilder(string[])R
+HC:\TSP.NET\Sysop-Squad\SysopSquad\ReviewHandling.Microservice\Program.cs# (4"0*«
 0R
-HC:\TSP.NET\Sysop-Squad\SysopSquad\ReviewHandling.Microservice\Program.cs ("†
-ƒ
+HC:\TSP.NET\Sysop-Squad\SysopSquad\ReviewHandling.Microservice\Program.cs (…
+‚
 R
-HC:\TSP.NET\Sysop-Squad\SysopSquad\ReviewHandling.Microservice\Program.cs (#/
-%0)Microsoft.Extensions.Hosting.IHostBuilder"?ReviewHandling.Microservice.Program.CreateHostBuilder(string[])*'"%
-#ReviewHandling.Microservice.Program*
+HC:\TSP.NET\Sysop-Squad\SysopSquad\ReviewHandling.Microservice\Program.cs (+/
+%0)Microsoft.Extensions.Hosting.IHostBuilder"@Microsoft.Extensions.Hosting.Host.CreateDefaultBuilder(string[])*%"#
+!Microsoft.Extensions.Hosting.Host*
 
-argsstring[]ðí
+argsstring[]¿
+¼
 R
-HC:\TSP.NET\Sysop-Squad\SysopSquad\ReviewHandling.Microservice\Program.cs (+(
-%1"Microsoft.Extensions.Hosting.IHost"1Microsoft.Extensions.Hosting.IHostBuilder.Build()*1
+HC:\TSP.NET\Sysop-Squad\SysopSquad\ReviewHandling.Microservice\Program.cs (/
+%1)Microsoft.Extensions.Hosting.IHostBuilder"ºMicrosoft.Extensions.Hosting.GenericHostBuilderExtensions.ConfigureWebHostDefaults(Microsoft.Extensions.Hosting.IHostBuilder, System.Action<Microsoft.AspNetCore.Hosting.IWebHostBuilder>)*=";
+9Microsoft.Extensions.Hosting.GenericHostBuilderExtensions*1
 /
-%0)Microsoft.Extensions.Hosting.IHostBuilder2Build()»
-¸
+%0)Microsoft.Extensions.Hosting.IHostBuilder*
+"""‡
 R
-HC:\TSP.NET\Sysop-Squad\SysopSquad\ReviewHandling.Microservice\Program.cs (1
-
-%2void"fMicrosoft.Extensions.Hosting.HostingAbstractionsHostExtensions.Run(Microsoft.Extensions.Hosting.IHost)*B"@
->Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions**
-(
-%1"Microsoft.Extensions.Hosting.IHost*
-1*Â
+HC:\TSP.NET\Sysop-Squad\SysopSquad\ReviewHandling.Microservice\Program.cs (1
+/
+%1)Microsoft.Extensions.Hosting.IHostBuilder*Â
 1R
-HC:\TSP.NET\Sysop-Squad\SysopSquad\ReviewHandling.Microservice\Program.cs	 (	"i
+HC:\TSP.NET\Sysop-Squad\SysopSquad\ReviewHandling.Microservice\Program.cs ("i
 R
-HC:\TSP.NET\Sysop-Squad\SysopSquad\ReviewHandling.Microservice\Program.cs (	
+HC:\TSP.NET\Sysop-Squad\SysopSquad\ReviewHandling.Microservice\Program.cs (
 implicit return:
 argsstring[]B'"%
 #ReviewHandling.Microservice.Program

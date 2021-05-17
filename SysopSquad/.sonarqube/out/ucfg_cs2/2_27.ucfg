@@ -1,31 +1,18 @@
 
-8Account.Microservice.Program.CreateHostBuilder(string[])K
-AC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Program.cs# (4"0*è
-0K
-AC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Program.cs (˛
-˚
-K
-AC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Program.cs (+/
-%0)Microsoft.Extensions.Hosting.IHostBuilder"@Microsoft.Extensions.Hosting.Host.CreateDefaultBuilder(string[])*%"#
-!Microsoft.Extensions.Hosting.Host*
-
-argsstring[]∏
-µ
-K
-AC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Program.cs (/
-%1)Microsoft.Extensions.Hosting.IHostBuilder"∫Microsoft.Extensions.Hosting.GenericHostBuilderExtensions.ConfigureWebHostDefaults(Microsoft.Extensions.Hosting.IHostBuilder, System.Action<Microsoft.AspNetCore.Hosting.IWebHostBuilder>)*=";
-9Microsoft.Extensions.Hosting.GenericHostBuilderExtensions*1
-/
-%0)Microsoft.Extensions.Hosting.IHostBuilder*
-"""Ä
-K
-AC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Program.cs (1
-/
-%1)Microsoft.Extensions.Hosting.IHostBuilder*¥
-1K
-AC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Program.cs ("b
-K
-AC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Program.cs (
-implicit return:
-argsstring[]B "
-Account.Microservice.Program
+5TicketHandling.Microservice.Model.Ticket.Username.setW
+MC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Model\Ticket.cs" (%"0*∂
+0W
+MC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Model\Ticket.cs& (&∑
+¥
+W
+MC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Model\Ticket.cs" (&@*
+(TicketHandling.Microservice.Model.Ticket"
+Usernamestring"__id*
+
+valuestring"ù
+W
+MC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Model\Ticket.cs" (&B*@*
+(TicketHandling.Microservice.Model.Ticket"
+Usernamestring:
+valuestringB,*
+(TicketHandling.Microservice.Model.Ticket

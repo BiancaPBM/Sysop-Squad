@@ -1,18 +1,38 @@
 
-.Account.Microservice.Startup.Configuration.setK
-AC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Startup.cs. (1"0*…
-0K
-AC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Startup.cs2 (2ú
-÷
-K
-AC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Startup.cs. (2d
-Account.Microservice.Startup"B
-Configuration1Microsoft.Extensions.Configuration.IConfiguration"__id*<
-:
-value1Microsoft.Extensions.Configuration.IConfiguration"µ
-K
-AC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Startup.cs. (2f*d
-Account.Microservice.Startup"B
-Configuration1Microsoft.Extensions.Configuration.IConfiguration::
-value1Microsoft.Extensions.Configuration.IConfigurationB 
-Account.Microservice.Startup
+eTicketHandling.Microservice.Data.TicketRepository.AddTicket(TicketHandling.Microservice.Model.Ticket)`
+VC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Data\TicketRepository.cs ("0*ý
+0`
+VC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Data\TicketRepository.cs (4’
+
+`
+VC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Data\TicketRepository.cs (2
+%0,TicketHandling.Microservice.Data.DataContext"__id*q*o3
+1TicketHandling.Microservice.Data.TicketRepository"8
+_context,TicketHandling.Microservice.Data.DataContext‡
+„
+`
+VC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Data\TicketRepository.cs (0
+%1*MongoDB.Driver.IMongoCollection<TDocument>"8TicketHandling.Microservice.Data.DataContext.Tickets.get*4
+2
+%0,TicketHandling.Microservice.Data.DataContextîë
+`
+VC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Data\TicketRepository.cs (5!
+%2System.Threading.Tasks.Task"‰MongoDB.Driver.IMongoCollection<TDocument>.InsertOneAsync(TDocument, MongoDB.Driver.InsertOneOptions, System.Threading.CancellationToken)*2
+0
+%1*MongoDB.Driver.IMongoCollection<TDocument>*4
+2
+ticket(TicketHandling.Microservice.Model.Ticket*
+""*
+""2^InsertOneAsync(TDocument, MongoDB.Driver.InsertOneOptions, System.Threading.CancellationToken)*
+1
+2*j
+1`
+VC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Data\TicketRepository.cs (*
+2*Þ
+2`
+VC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Data\TicketRepository.cs ("w
+`
+VC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Data\TicketRepository.cs (
+implicit return:2
+ticket(TicketHandling.Microservice.Model.TicketB53
+1TicketHandling.Microservice.Data.TicketRepository

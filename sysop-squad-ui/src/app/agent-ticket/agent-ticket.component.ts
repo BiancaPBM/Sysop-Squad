@@ -1,19 +1,8 @@
 import { Component, Input, OnInit } from '@angular/core';
-import { tick } from '@angular/core/testing';
 import { TicketsService } from '../ticket-list/ticket.service';
 import { Ticket } from '../ticket/ticket.model';
+import { AgentTicket } from './agent-ticket.model';
 
-export class AgentTicket{
-  id: string = "";
-  description: string ="";
-  user: string ="";
-  agent: string = "";
-  runtime: string = "";
-  rating: string = ""; 
-  reviews: string = "";
-
-  constructor (){}
-}
 @Component({
   selector: 'agent-ticket',
   templateUrl: './agent-ticket.component.html',

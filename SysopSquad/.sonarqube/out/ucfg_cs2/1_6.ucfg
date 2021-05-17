@@ -1,31 +1,28 @@
 
-?ReviewHandling.Microservice.Program.CreateHostBuilder(string[])R
-HC:\TSP.NET\Sysop-Squad\SysopSquad\ReviewHandling.Microservice\Program.cs# (4"0*«
+rReviewHandling.Microservice.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)R
+HC:\TSP.NET\Sysop-Squad\SysopSquad\ReviewHandling.Microservice\Startup.cs (%"0*Ä
 0R
-HC:\TSP.NET\Sysop-Squad\SysopSquad\ReviewHandling.Microservice\Program.cs (…
-‚
+HC:\TSP.NET\Sysop-Squad\SysopSquad\ReviewHandling.Microservice\Startup.cs "(Á
+¾
 R
-HC:\TSP.NET\Sysop-Squad\SysopSquad\ReviewHandling.Microservice\Program.cs (+/
-%0)Microsoft.Extensions.Hosting.IHostBuilder"@Microsoft.Extensions.Hosting.Host.CreateDefaultBuilder(string[])*%"#
-!Microsoft.Extensions.Hosting.Host*
-
-argsstring[]¿
-¼
+HC:\TSP.NET\Sysop-Squad\SysopSquad\ReviewHandling.Microservice\Startup.cs (%:
+%04Microsoft.Extensions.DependencyInjection.IMvcBuilder"“Microsoft.Extensions.DependencyInjection.MvcServiceCollectionExtensions.AddControllers(Microsoft.Extensions.DependencyInjection.IServiceCollection)*K"I
+GMicrosoft.Extensions.DependencyInjection.MvcServiceCollectionExtensions*I
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollection¡
+ž
 R
-HC:\TSP.NET\Sysop-Squad\SysopSquad\ReviewHandling.Microservice\Program.cs (/
-%1)Microsoft.Extensions.Hosting.IHostBuilder"ºMicrosoft.Extensions.Hosting.GenericHostBuilderExtensions.ConfigureWebHostDefaults(Microsoft.Extensions.Hosting.IHostBuilder, System.Action<Microsoft.AspNetCore.Hosting.IWebHostBuilder>)*=";
-9Microsoft.Extensions.Hosting.GenericHostBuilderExtensions*1
-/
-%0)Microsoft.Extensions.Hosting.IHostBuilder*
-"""‡
-R
-HC:\TSP.NET\Sysop-Squad\SysopSquad\ReviewHandling.Microservice\Program.cs (1
-/
-%1)Microsoft.Extensions.Hosting.IHostBuilder*Â
+HC:\TSP.NET\Sysop-Squad\SysopSquad\ReviewHandling.Microservice\Startup.cs "(A
+%1;Microsoft.Extensions.DependencyInjection.IServiceCollection"ÝMicrosoft.Extensions.DependencyInjection.SwaggerGenServiceCollectionExtensions.AddSwaggerGen(Microsoft.Extensions.DependencyInjection.IServiceCollection, System.Action<Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenOptions>)*R"P
+NMicrosoft.Extensions.DependencyInjection.SwaggerGenServiceCollectionExtensions*I
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollection*
+""*
+1*Â
 1R
-HC:\TSP.NET\Sysop-Squad\SysopSquad\ReviewHandling.Microservice\Program.cs ("i
+HC:\TSP.NET\Sysop-Squad\SysopSquad\ReviewHandling.Microservice\Startup.cs#	 #(	"i
 R
-HC:\TSP.NET\Sysop-Squad\SysopSquad\ReviewHandling.Microservice\Program.cs (
-implicit return:
-argsstring[]B'"%
-#ReviewHandling.Microservice.Program
+HC:\TSP.NET\Sysop-Squad\SysopSquad\ReviewHandling.Microservice\Startup.cs# #(	
+implicit return:G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollectionB'%
+#ReviewHandling.Microservice.Startup

@@ -1,18 +1,16 @@
 
-5Account.Microservice.Model.RegisterModel.Password.setW
-MC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Model\RegisterModel.cs" (%"0*∂
+8TicketHandling.Microservice.Model.Ticket.Description.getW
+MC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Model\Ticket.cs  (#"0*Å
 0W
-MC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Model\RegisterModel.cs& (&∑
+MC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Model\Ticket.cs$ ($∑
 ¥
 W
-MC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Model\RegisterModel.cs" (&@*
-(Account.Microservice.Model.RegisterModel"
-Passwordstring"__id*
-
-valuestring"ù
+MC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Model\Ticket.cs  ($
+%0string"__id*E*C*
+(TicketHandling.Microservice.Model.Ticket"
+Descriptionstring"i
 W
-MC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Model\RegisterModel.cs" (&B*@*
-(Account.Microservice.Model.RegisterModel"
-Passwordstring:
-valuestringB,*
-(Account.Microservice.Model.RegisterModel
+MC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Model\Ticket.cs  ($
+
+%0stringB,*
+(TicketHandling.Microservice.Model.Ticket

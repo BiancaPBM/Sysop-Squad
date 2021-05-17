@@ -1,29 +1,3 @@
-·
-(TicketHandling.Microservice.Model.Ticketobject=
-Ticket()1TicketHandling.Microservice.Model.Ticket.Ticket()9
-Id.get/TicketHandling.Microservice.Model.Ticket.Id.get9
-Id.set/TicketHandling.Microservice.Model.Ticket.Id.set=
-Name.get1TicketHandling.Microservice.Model.Ticket.Name.get=
-Name.set1TicketHandling.Microservice.Model.Ticket.Name.setK
-Description.get8TicketHandling.Microservice.Model.Ticket.Description.getK
-Description.set8TicketHandling.Microservice.Model.Ticket.Description.setA
-
-IdUser.get3TicketHandling.Microservice.Model.Ticket.IdUser.getA
-
-IdUser.set3TicketHandling.Microservice.Model.Ticket.IdUser.setE
-Username.get5TicketHandling.Microservice.Model.Ticket.Username.getE
-Username.set5TicketHandling.Microservice.Model.Ticket.Username.setC
-IdAgent.get4TicketHandling.Microservice.Model.Ticket.IdAgent.getC
-IdAgent.set4TicketHandling.Microservice.Model.Ticket.IdAgent.set?
-	Agent.get2TicketHandling.Microservice.Model.Ticket.Agent.get?
-	Agent.set2TicketHandling.Microservice.Model.Ticket.Agent.setG
-IdProduct.get6TicketHandling.Microservice.Model.Ticket.IdProduct.getG
-IdProduct.set6TicketHandling.Microservice.Model.Ticket.IdProduct.setA
-
-Status.get3TicketHandling.Microservice.Model.Ticket.Status.getA
-
-Status.set3TicketHandling.Microservice.Model.Ticket.Status.set=
-City.get1TicketHandling.Microservice.Model.Ticket.City.get=
-City.set1TicketHandling.Microservice.Model.Ticket.City.set?
-	State.get2TicketHandling.Microservice.Model.Ticket.State.get?
-	State.set2TicketHandling.Microservice.Model.Ticket.State.set
+i
+#TicketHandling.Microservice.Programobject:
+	Program()-TicketHandling.Microservice.Program.Program()

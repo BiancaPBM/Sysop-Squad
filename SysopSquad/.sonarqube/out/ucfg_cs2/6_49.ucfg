@@ -1,256 +1,38 @@
 
-rTicketHandling.Microservice.Controllers.TicketsController.Update(string, TicketHandling.Microservice.Model.Ticket)g
-]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs3) 3(/"6*£
-0g
-]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs5 5(·
-ﬁ
-g
-]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs5 5(
-%0string"/TicketHandling.Microservice.Model.Ticket.Id.get*4
+FTicketHandling.Microservice.Data.TicketRepository.DeleteTicket(string)`
+VC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Data\TicketRepository.cs (""0*Î
+0`
+VC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Data\TicketRepository.cs! !(Gí
+è
+`
+VC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Data\TicketRepository.cs! !(2
+%0,TicketHandling.Microservice.Data.DataContext"__id*q*o3
+1TicketHandling.Microservice.Data.TicketRepository"8
+_context,TicketHandling.Microservice.Data.DataContextá
+Ñ
+`
+VC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Data\TicketRepository.cs! !(0
+%1*MongoDB.Driver.IMongoCollection<TDocument>"8TicketHandling.Microservice.Data.DataContext.Tickets.get*4
 2
-ticket(TicketHandling.Microservice.Model.Ticket»
-≈
-g
-]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs5 5(
-
-%1bool""string.operator !=(string, string)*
-"
-string*
-
-idstring*
-
-%0string*
-1
-2*ú
-1g
-]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs7 7(éã
-g
-]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs7 7(/
-%2)Microsoft.AspNetCore.Mvc.BadRequestResult"4Microsoft.AspNetCore.Mvc.ControllerBase.BadRequest()*+)
-'Microsoft.AspNetCore.Mvc.ControllerBase2BadRequest()"ú
-g
-]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs7 7( 1
-/
-%2)Microsoft.AspNetCore.Mvc.BadRequestResult*ë	
-2g
-]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs: ;(%≤
-Ø
-g
-]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs:) :(48
-%32TicketHandling.Microservice.Data.ITicketRepository"__id*É*Ä;
-9TicketHandling.Microservice.Controllers.TicketsController"A
-_repository2TicketHandling.Microservice.Data.ITicketRepositoryπ∂
-g
-]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs:) :(@*
-%4$System.Threading.Tasks.Task<TResult>"BTicketHandling.Microservice.Data.ITicketRepository.GetById(string)*:
-8
-%32TicketHandling.Microservice.Data.ITicketRepository*
-
-idstring2GetById(string)∑
-¥
-g
-]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs: :(@;
-requestedTicket(TicketHandling.Microservice.Model.Ticket"__id*
-""Ô
-Ï
-g
-]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs; ;(%
-
-%5bool""object.operator ==(object, object)*
-"
-object*=
-;
-requestedTicket(TicketHandling.Microservice.Model.Ticket*
+%0,TicketHandling.Microservice.Data.DataContext‹
+Ÿ
+`
+VC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Data\TicketRepository.cs! !(H*
+%2$System.Threading.Tasks.Task<TResult>"’MongoDB.Driver.IMongoCollectionExtensions.DeleteOneAsync<TDocument>(MongoDB.Driver.IMongoCollection<TDocument>, System.Linq.Expressions.Expression<System.Func<TDocument, bool>>, System.Threading.CancellationToken)*-"+
+)MongoDB.Driver.IMongoCollectionExtensions*2
+0
+%1*MongoDB.Driver.IMongoCollection<TDocument>*
+""*
 ""*
-3
-4*î
-3g
-]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs= =(àÖ
-g
-]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs= =(-
-%6'Microsoft.AspNetCore.Mvc.NotFoundResult"2Microsoft.AspNetCore.Mvc.ControllerBase.NotFound()*+)
-'Microsoft.AspNetCore.Mvc.ControllerBase2
-NotFound()"ö
-g
-]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs= =(/
--
-%6'Microsoft.AspNetCore.Mvc.NotFoundResult*î
-
-4g
-]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs?
- @(≤
-Ø
-g
-]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs? ?(8
-%72TicketHandling.Microservice.Data.ITicketRepository"__id*É*Ä;
-9TicketHandling.Microservice.Controllers.TicketsController"A
-_repository2TicketHandling.Microservice.Data.ITicketRepositoryƒ¡
-g
-]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs? ?(4!
-%8System.Threading.Tasks.Task"qTicketHandling.Microservice.Data.ITicketRepository.UpdateTicket(string, TicketHandling.Microservice.Model.Ticket)*:
-8
-%72TicketHandling.Microservice.Data.ITicketRepository*
-
-idstring*4
-2
-ticket(TicketHandling.Microservice.Model.Ticket2>UpdateTicket(string, TicketHandling.Microservice.Model.Ticket)ãà
-g
-]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs@ @(.
-%9(Microsoft.AspNetCore.Mvc.NoContentResult"3Microsoft.AspNetCore.Mvc.ControllerBase.NoContent()*+)
-'Microsoft.AspNetCore.Mvc.ControllerBase2NoContent()"õ
-g
-]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs@
- @(0
-.
-%9(Microsoft.AspNetCore.Mvc.NoContentResult*Ï
-5g
-]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.csA	 A(	"~
-g
-]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.csA A(	
-implicit return*É%
-6g
-]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs3I 3(Iœ
-Ã
-g
-]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs3) 3(/S
-2
-ticket(TicketHandling.Microservice.Model.Ticket"
-<Id>k__BackingFieldstring"__entrypointæ
-ª
-g
-]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs3) 3(/B
-2
-ticket(TicketHandling.Microservice.Model.Ticket"
-Idstring"__entrypoint—
-Œ
-g
-]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs3) 3(/U
-2
-ticket(TicketHandling.Microservice.Model.Ticket"
-<Name>k__BackingFieldstring"__entrypoint¿
-Ω
-g
-]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs3) 3(/D
-2
-ticket(TicketHandling.Microservice.Model.Ticket"
-Namestring"__entrypointÿ
-’
-g
-]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs3) 3(/\
-2
-ticket(TicketHandling.Microservice.Model.Ticket"&
-<Description>k__BackingFieldstring"__entrypoint«
-ƒ
-g
-]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs3) 3(/K
-2
-ticket(TicketHandling.Microservice.Model.Ticket"
-Descriptionstring"__entrypoint”
-–
-g
-]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs3) 3(/W
-2
-ticket(TicketHandling.Microservice.Model.Ticket"!
-<IdUser>k__BackingFieldstring"__entrypoint¬
-ø
-g
-]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs3) 3(/F
-2
-ticket(TicketHandling.Microservice.Model.Ticket"
-IdUserstring"__entrypoint’
-“
-g
-]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs3) 3(/Y
-2
-ticket(TicketHandling.Microservice.Model.Ticket"#
-<Username>k__BackingFieldstring"__entrypointƒ
-¡
-g
-]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs3) 3(/H
-2
-ticket(TicketHandling.Microservice.Model.Ticket"
-Usernamestring"__entrypoint‘
-—
-g
-]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs3) 3(/X
-2
-ticket(TicketHandling.Microservice.Model.Ticket""
-<IdAgent>k__BackingFieldstring"__entrypoint√
-¿
-g
-]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs3) 3(/G
-2
-ticket(TicketHandling.Microservice.Model.Ticket"
-IdAgentstring"__entrypoint“
-œ
-g
-]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs3) 3(/V
-2
-ticket(TicketHandling.Microservice.Model.Ticket" 
-<Agent>k__BackingFieldstring"__entrypoint¡
-æ
-g
-]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs3) 3(/E
-2
-ticket(TicketHandling.Microservice.Model.Ticket"
-Agentstring"__entrypoint÷
-”
-g
-]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs3) 3(/Z
-2
-ticket(TicketHandling.Microservice.Model.Ticket"$
-<IdProduct>k__BackingFieldstring"__entrypoint≈
-¬
-g
-]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs3) 3(/I
-2
-ticket(TicketHandling.Microservice.Model.Ticket"
-	IdProductstring"__entrypoint—
-Œ
-g
-]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs3) 3(/U
-2
-ticket(TicketHandling.Microservice.Model.Ticket"
-<City>k__BackingFieldstring"__entrypoint¿
-Ω
-g
-]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs3) 3(/D
-2
-ticket(TicketHandling.Microservice.Model.Ticket"
-Citystring"__entrypoint“
-œ
-g
-]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs3) 3(/V
-2
-ticket(TicketHandling.Microservice.Model.Ticket" 
-<State>k__BackingFieldstring"__entrypoint¡
-æ
-g
-]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs3) 3(/E
-2
-ticket(TicketHandling.Microservice.Model.Ticket"
-Statestring"__entrypointë
-é
-g
-]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs3) 3(/
-%10"__entrypoint*
-
-idstring◊
-‘
-g
-]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs2	 2(
-%11"
-__annotate*FD
-BMicrosoft.AspNetCore.Mvc.HttpPutAttribute.HttpPutAttribute(string)*
-
-idstringë
-é
-g
-]C:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Controllers\TicketController.cs30 3(9
-idstring"__annotation*
-
-%11*
-0:
-idstring:2
-ticket(TicketHandling.Microservice.Model.TicketB=;
-9TicketHandling.Microservice.Controllers.TicketsController
+1
+2*j
+1`
+VC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Data\TicketRepository.cs' '(*
+2*ﬁ
+2`
+VC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Data\TicketRepository.cs' '("w
+`
+VC:\TSP.NET\Sysop-Squad\SysopSquad\TicketHandling.Microservice\Data\TicketRepository.cs' '(
+implicit return:
+idstringB53
+1TicketHandling.Microservice.Data.TicketRepository

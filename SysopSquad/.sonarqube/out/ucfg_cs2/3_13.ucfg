@@ -1,0 +1,46 @@
+
+ÎAccount.Microservice.Controllers.AccountController.AccountController(Microsoft.AspNetCore.Identity.UserManager<Account.Microservice.Model.ApplicationUser>, Microsoft.Extensions.Configuration.IConfiguration)a
+WC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Controllers\AccountController.cs ("3*â
+1a
+WC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Controllers\AccountController.cs! !(u
+s
+
+%0void"8Microsoft.AspNetCore.Mvc.ControllerBase.ControllerBase()*+)
+'Microsoft.AspNetCore.Mvc.ControllerBase*
+0*È
+0a
+WC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Controllers\AccountController.cs  ($¨
+¥
+a
+WC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Controllers\AccountController.cs ($w4
+2Account.Microservice.Controllers.AccountController"?
+userManager0Microsoft.AspNetCore.Identity.UserManager<TUser>"__id*A
+?
+userManager0Microsoft.AspNetCore.Identity.UserManager<TUser>¯
+¬
+a
+WC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Controllers\AccountController.cs   (${4
+2Account.Microservice.Controllers.AccountController"C
+_configuration1Microsoft.Extensions.Configuration.IConfiguration"__id*D
+B
+configuration1Microsoft.Extensions.Configuration.IConfiguration*
+2*à
+2a
+WC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Controllers\AccountController.cs! !("x
+a
+WC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Controllers\AccountController.cs! !(
+implicit return*ñ
+3a
+WC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Controllers\AccountController.csd (dƒ
+€
+a
+WC:\TSP.NET\Sysop-Squad\SysopSquad\Account.Microservice\Controllers\AccountController.cs (
+%1"__entrypoint*A
+?
+userManager0Microsoft.AspNetCore.Identity.UserManager<TUser>*D
+B
+configuration1Microsoft.Extensions.Configuration.IConfiguration*
+1:?
+userManager0Microsoft.AspNetCore.Identity.UserManager<TUser>:B
+configuration1Microsoft.Extensions.Configuration.IConfigurationB64
+2Account.Microservice.Controllers.AccountController

@@ -1,3 +1,9 @@
-å
-*Account.Microservice.Model.ApplicationUser*Microsoft.AspNetCore.Identity.IdentityUser0Microsoft.AspNetCore.Identity.IdentityUser<TKey>objectQ
-ApplicationUser()<Account.Microservice.Model.ApplicationUser.ApplicationUser()
+©
+9TicketHandling.Microservice.Model.TicketsDatabaseSettingsobjectp
+TicketsDatabaseSettings()STicketHandling.Microservice.Model.TicketsDatabaseSettings.TicketsDatabaseSettings()p
+TicketsCollectionName.getSTicketHandling.Microservice.Model.TicketsDatabaseSettings.TicketsCollectionName.getp
+TicketsCollectionName.setSTicketHandling.Microservice.Model.TicketsDatabaseSettings.TicketsCollectionName.setf
+ConnectionString.getNTicketHandling.Microservice.Model.TicketsDatabaseSettings.ConnectionString.getf
+ConnectionString.setNTicketHandling.Microservice.Model.TicketsDatabaseSettings.ConnectionString.set^
+DatabaseName.getJTicketHandling.Microservice.Model.TicketsDatabaseSettings.DatabaseName.get^
+DatabaseName.setJTicketHandling.Microservice.Model.TicketsDatabaseSettings.DatabaseName.set
