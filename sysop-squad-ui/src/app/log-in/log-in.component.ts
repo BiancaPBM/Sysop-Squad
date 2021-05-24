@@ -26,11 +26,13 @@ export class LogInComponent implements OnInit {
     let login = new LoginModel(this.loginForm.controls.username.value, this.loginForm.controls.password.value);
     this.authenticationService.login(login)
     .subscribe((data) => {
+                          localStorage.clear()
                           localStorage.setItem("username", data.username);
                           localStorage.setItem("token",data.token);
                           localStorage.setItem("expiration", data.expiration);
                           this.authenticationService.isLoginSubject.next(true);
-                          return this.router.navigate([''])});
+                          return this.router.navigate([''])
+                        });
 
   }
   private hasToken(){

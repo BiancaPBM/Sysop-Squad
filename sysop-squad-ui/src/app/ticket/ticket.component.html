@@ -12,12 +12,14 @@
         Agent: {{ticket.agent}}
       </p>
       
-        <div class="card_status text_margin">Status: ACTIVE</div>
+        <div class="card_status text_margin">Status: {{statusOfTicket}}</div>
       
     </mat-card-content>
     <mat-card-footer>
       <p> State:{{ticket.state}} -  City: {{ticket.city}}</p>
-
+      <p *ngIf="ticket.status === 3 "> 
+        Fix description: {{ticket.fixDescription}}
+      </p>
     </mat-card-footer>
     
   </mat-card>

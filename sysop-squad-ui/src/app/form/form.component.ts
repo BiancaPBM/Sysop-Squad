@@ -31,7 +31,7 @@ export class FormComponent implements OnInit {
     ticket.city = this.ticketForm.controls.city.value;
     ticket.state = this.ticketForm.controls.state.value;
     ticket.username = localStorage.getItem("username") != null?  localStorage.getItem("username"): "";
-    ticket.Status = Status.New;
+    ticket.status = Status.New;
 
     ticket.agent = "";
 

@@ -11,8 +11,12 @@
     </div>
     <ng-template #elseb>
       <button mat-menu-item target="_self" rel="noopener" (click)= onLogOut()>Log Out</button>
-      <button mat-menu-item  routerLink="/my-profile">My info</button>
-      <button mat-menu-item  routerLink="/tickets" routerLinkActive="active">My tickets</button>
+      <div *ngIf="username == agent; else normalUser"> 
+        <button mat-menu-item  routerLink="/agent-solutions" routerLinkActive="active">Pending Tickets</button>
+      </div>
+      <ng-template #normalUser>
+        <button mat-menu-item  routerLink="/tickets" routerLinkActive="active">My Tickets</button>
+      </ng-template> 
       <button mat-menu-item  routerLink="/settings" routerLinkActive="active">Settings</button>
     </ng-template>
 

@@ -19,4 +19,5 @@ export class AgentSolutionsComponent implements OnInit {
       console.log (this.tickets)
   }
 
+
 }

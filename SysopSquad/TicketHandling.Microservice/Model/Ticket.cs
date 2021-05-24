@@ -21,6 +21,6 @@ namespace TicketHandling.Microservice.Model
     public Status Status { get; set; }
     public string City { get; set; }
     public string State { get; set; }
-
+    public string FixDescription { get; set; }
   }
 }

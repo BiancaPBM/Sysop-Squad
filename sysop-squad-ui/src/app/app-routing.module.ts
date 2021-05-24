@@ -12,7 +12,6 @@ import { AuthGuardService } from './auth-guard.service';
 
 const routes: Routes = [
   { path: '', component: MenuComponent },
-  { path:'my-profile', component: MyProfileComponent,canActivate:[AuthGuardService]},
   { path: 'form-component', component: FormComponent,canActivate:[AuthGuardService] },
   { path: 'log-in', component: LogInComponent, },
   { path: 'sign-up', component: SignUpComponent },
@@ -22,7 +21,7 @@ const routes: Routes = [
 ];
 
 @NgModule({
-  imports: [RouterModule.forRoot(routes)],
+  imports: [RouterModule.forRoot(routes, {onSameUrlNavigation: "reload"})],
   exports: [RouterModule]
 })
 export class AppRoutingModule { }

@@ -10,6 +10,7 @@ export class Ticket{
      agent: string = "";
      city: string = "";
      state : string = "";
-     Status: Status = Status.New;
+     status: Status = Status.New;
+     fixDescription: string = "";
     constructor (){}
 }

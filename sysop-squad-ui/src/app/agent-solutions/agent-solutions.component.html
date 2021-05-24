@@ -2,7 +2,7 @@
 <div class="small_spacer"style="margin-top: 3.5%;">.</div>
 <div class="scroll-container">
   <div *ngFor = "let ticket of tickets">
-    <agent-ticket [ticket] = ticket></agent-ticket>   
+    <agent-ticket *ngIf="ticket.status !== 3" [ticket] = "ticket "></agent-ticket>   
   </div>
 </div>
 <router-outlet></router-outlet>

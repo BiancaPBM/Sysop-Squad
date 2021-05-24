@@ -19,7 +19,7 @@ namespace TicketHandling.Microservice.Controllers
           _repository = repository;
         }
 
-    [HttpGet]
+        [HttpGet]
         public async Task<IEnumerable<Ticket>> Get()
         {
           return await _repository.GetAll();
@@ -44,8 +44,8 @@ namespace TicketHandling.Microservice.Controllers
         public async Task<IActionResult> Insert(Ticket ticket)
         {
           await _repository.AddTicket(ticket);
-          return CreatedAtAction("GetById", new { id = ticket.Id }, ticket);
-        }   
+          return CreatedAtAction("GetById", new {id = ticket.Id}, ticket);
+        }
 
         [HttpPut("{id}")]
         public async Task<IActionResult> Update(string id, Ticket ticket)

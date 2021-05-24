@@ -9,12 +9,14 @@ import { TicketsService } from './ticket.service';
 })
 export class TicketListComponent implements OnInit {
  tickets : Ticket[] = [];
-  constructor(private ticketService : TicketsService) { }
+ username :string | null ="";
+  constructor(private ticketService : TicketsService,) { }
 
   ngOnInit(): void {
     this.ticketService.getTickets().subscribe(
-      data => this.tickets = data);
-      console.log (this.tickets)
+      data => {this.tickets = data;
+                this.username = localStorage.getItem("username")});
+      
   }
 
 

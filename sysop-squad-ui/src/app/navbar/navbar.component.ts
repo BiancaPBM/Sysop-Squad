@@ -12,6 +12,7 @@ import { MyProfileService } from '../my-profile/my-profile.service';
 export class NavbarComponent implements OnInit, OnChanges {
   isLoggedIn : Observable<boolean>;
     username : string | null ='';
+    agent = "Agent";
     constructor(private authenticationService: AuthenticationService,
                 private myProfileService: MyProfileService,
                 private router: Router) {

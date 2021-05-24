@@ -1,4 +1,6 @@
 import { Component, OnInit } from '@angular/core';
+import { MyProfileComponent } from '../my-profile/my-profile.component';
+import { MyProfileService } from '../my-profile/my-profile.service';
 
 @Component({
   selector: 'app-menu',
@@ -7,10 +9,12 @@ import { Component, OnInit } from '@angular/core';
 })
 export class MenuComponent implements OnInit {
   title = 'Sysop squad';
-
-  constructor() { }
+  username : string|null ="";
+  agent= "Agent";
+  constructor(private profileService: MyProfileService) { }
 
   ngOnInit(): void {
+    this.username = this.profileService.getUsername();
   }
 
 }

@@ -35,9 +35,7 @@ let headers = new HttpHeaders({
       }
 
       logout(){
-        localStorage.removeItem("token");
-        localStorage.removeItem("expiration")
-        localStorage.removeItem("username")
+        localStorage.clear();
         this.isLoginSubject.next(false);
       }
 

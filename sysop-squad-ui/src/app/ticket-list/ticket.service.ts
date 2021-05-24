@@ -7,6 +7,8 @@ import { Ticket } from '../ticket/ticket.model';
 const getAllTicketsUrl = 'https://localhost:5001/api/tickets';
 const deleteTicket = 'https://localhost:5001/api/tickets/'
 const createTicket = 'https://localhost:5001/api/tickets'
+const updateTicketUrl = 'https://localhost:5001/api/tickets/'
+
 
 @Injectable({
     providedIn: 'root',
@@ -17,8 +19,8 @@ export class TicketsService {
    }
 
 
-   getTickets(): Observable<any>{
-        return this.http.get(getAllTicketsUrl);
+   getTickets(): Observable<Ticket[]>{
+        return this.http.get<Ticket[]>(getAllTicketsUrl);
    }
   
    deleteTicket(id: string): Observable<any>{
@@ -26,7 +28,11 @@ export class TicketsService {
  }
 
    createTicket(ticket: Ticket): Observable<any>{
-        return this.http.post<Ticket>(createTicket, ticket);
+        return this.http.post(createTicket, ticket);
+   }
+
+   updateTicket(ticket:Ticket): Observable<any>{
+        return this.http.put(updateTicketUrl + ticket.id, ticket);
    }
 
 

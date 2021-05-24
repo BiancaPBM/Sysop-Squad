@@ -2,7 +2,7 @@
     <div class="small_spacer">.</div>
     <div class="scroll-container">
       <div class="content" *ngFor = "let ticket of tickets">
-        <ticket [ticket] = ticket></ticket>   
+        <ticket *ngIf= "ticket.username == username" [ticket] = ticket></ticket>   
       </div>
     </div>
 </div>

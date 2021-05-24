@@ -4,7 +4,7 @@
   <form class="example-form">
       <mat-form-field class="example-full-width" style="margin-top: 2%;">
         <mat-label>Fix</mat-label>
-        <input matInput >
+        <input matInput [(ngModel)] = "ticket.fixDescription" name= "description">
       </mat-form-field>
       <button class="mat-icon-button" (click) = "onSubmit()" style="float: right; margin-bottom: 2%;">Submit fix</button>
     </form>
